@@ -86,7 +86,46 @@ UPDATE clientes SET ciudad = 'Bogota' WHERE idcliente = 2;
 UPDATE productos SET stockproducto = stockproducto + 5 WHERE idproducto = 1;
 UPDATE productos SET precioproducto = precioproducto * 0.90 WHERE idproducto = 2;
 
+Set SQL_SAFE_UPDATES =0;
+
 DELETE FROM pedidos WHERE id_pedido = 1;
 DELETE FROM pedidos WHERE id_cliente_fk = 2;
 DELETE FROM clientes WHERE idcliente = 2;
 DELETE FROM productos WHERE stockproducto < 3;
+
+SEt SQL_SAFE_UPDATES = 1;
+
+#consultas
+
+describe productos;
+ALTER TABLE productos change stockproducto stoProdT int(11);
+
+
+select nombreproducto, stoProdT from productos ;
+
+select nombreproducto, stoProdT from productos where idProducto=1;
+select nombreproducto as Nombre_producto, stoProT as Stock from productos where stoProT >= 15 and idProducto=1;
+
+select nombreproducto as Nombre_producto, stoProT as Stock from productos
+order by nombreproducto DESC; #Descendente
+
+select nombreproducto as Nombre_producto, stoProT as Stock from productos
+order by nombreproducto ASC; #Ascendente
+
+select nombreproducto as Nombre_producto, stoProT as Stock from productos where stoProT >= 15 or idProducto=1;
+
+select nombreproducto as Nombre_producto, stoProT as Stock from productos
+order by nombreproducto DESC; #Descendente
+
+select nombreproducto as Nombre_producto, stoProT as Stock from productos
+order by nombreproducto ASC; #Ascendente
+
+# Between va para mostrar rangos de (tin, tan)
+# select (nombre del campo o *) from (nombre de la tabla) between tin and tan
+
+#like que inicien o que teminen con cierto caracteres, dependiendo de la ubicación del % será (Incio = 'loquesea%')(Contenencia = '%loquesea%')(Termina = '%loquesea')
+select * from productos where nombreproducto like '%max'
+
+#Reto Hacer 2 consltas especificas con minimo 2 metodos  numericos y de caracteres. 
+## FALTA Agrupaciones, operaciones calculadas, multitablas, subconsultas. 
+
