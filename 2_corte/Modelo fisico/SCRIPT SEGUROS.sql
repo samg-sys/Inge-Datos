@@ -1,109 +1,92 @@
-create database companiasseguros;
-use companiasseguros;
-create table compania(
-idcompania varchar(50) primary key, 
-nit varchar(20) unique not null,
-nombrecompania varchar (50) not null,
-fechaFundacion date null,
-representantelegal varchar(50)not null);
-create table seguros(
-idseguro varchar (50) primary key,
-estado varchar(20) not null,
-costo double not null,
-fechadeinicio date not null,
-fechavencimiento date not null,
-valorasegurado double not null,
-idcompaniaFK varchar (50) not null,
-idautomovilFK varchar (50) not null
-);
-create table automovil (
-idauto varchar (50) primary key,
-marca varchar (50) not null,
-modelo varchar (50) not null,
-tipo varchar (50) not null,
-anofabricacion int not null,
-chasisserial varchar (50) not null,
-cilindraje double not null,
-pasajeros int not null
-);
-create table accidente(
-idaccidente int primary key,
-accidentefecha date not null,
-lugar varchar (50) not null,
-heridos int null,
-fatalidades int null,
-automotores int not null);
-create table detalleaccidente(
-iddetalle int primary key,
-idaccidenteFK varchar (50) not null,
-idautoFK varchar (50) not null
+CREATE DATABASE companiaseguros;
+USE companiaseguros;
+
+CREATE TABLE compania(
+    idCompania VARCHAR(50) PRIMARY KEY,
+    nit VARCHAR(20) UNIQUE NOT NULL,
+    nombreCompania VARCHAR(50) NOT NULL,
+    fechaFundacion DATE NULL,
+    representantelegar VARCHAR(50) NOT NULL
 );
 
-## Describir estructura de las tablas
-
-describe compania;
-## PAra relacionar hay 2 opciones, crear la tabla dentro de la misma para que estén relacionadas
-
-#Crear una base de datos llamada tienda online y seleccionarla para usarla 
-create database tiendaonline;
-use tiendaonline;
-##reto 2
-
-create table productos(
-idprod int unique auto_increment,
-nombre varchar(20) NOT NULL,
-precio,
-stock,
-fecha
+CREATE TABLE automovil (
+    idauto VARCHAR(50) PRIMARY KEY,
+    marca VARCHAR(50) NOT NULL,
+    modelo VARCHAR(50) NOT NULL,
+    tipo VARCHAR(50) NOT NULL,
+    anofabricacion INT NOT NULL,
+    chasisserial VARCHAR(50) NOT NULL,
+    cilindraje DOUBLE NOT NULL,
+    pasajeros INT NOT NULL,
+    anio INT NOT NULL
 );
 
-##Reto 3
-
-create table cliente(
-idcliente int primary key ,
-nombcliente varchar(20),
-emailcliente varchar(20),
-telefonocliente int not null
+CREATE TABLE seguros(
+    idSeguro VARCHAR(50) PRIMARY KEY,
+    estado VARCHAR(20) NOT NULL,
+    costo DOUBLE NOT NULL,
+    fechaInicio DATE NOT NULL,
+    fechaExperiacion DATE NOT NULL,
+    valorAsegurado DOUBLE NOT NULL,
+    idCompaniaFK VARCHAR(50) NOT NULL,
+    idAutomovilFK VARCHAR(50) NOT NULL
 );
 
-create table Pedidos(
-idpedi int primary key,
-idclienteFK int
-fechapedido date time,
-totalpedido int not null
+ALTER TABLE seguros ADD CONSTRAINT FKCompaniaSeguros FOREIGN KEY(idCompaniaFK) REFERENCES compania(idCompania);
+ALTER TABLE seguros ADD CONSTRAINT FKSegurosAutomovil FOREIGN KEY(idAutomovilFK) REFERENCES automovil(idauto);
+
+ALTER TABLE compania ADD direccionCompania VARCHAR(50) NOT NULL;
+ALTER TABLE compania MODIFY nit INT;
+ALTER TABLE compania CHANGE nit nitCompania VARCHAR(11);
+
+CREATE DATABASE tiendaonline;
+USE tiendaonline;
+
+CREATE TABLE productos (
+    idproducto INT PRIMARY KEY AUTO_INCREMENT,
+    nombreproducto VARCHAR(50) NOT NULL,
+    precioproducto INT NOT NULL,
+    stockproducto INT DEFAULT 0,
+    fechacreacion TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-/*Reto 4 Realiza los siguientes cambuos en las tablas ya creadas
-agrega una columba categoria varchar 50 en productos 
-cambia el tipo de dato de telefono en clientes a varchar 15
-renombra la columna total de pedidos a monto_Total
-Eliminal la columna fecha creacion de productos
-*/
+CREATE TABLE clientes (
+    idcliente INT PRIMARY KEY AUTO_INCREMENT,
+    nombrecliente VARCHAR(50) NOT NULL,
+    emailcliente VARCHAR(50) UNIQUE NOT NULL,
+    telefonocliente VARCHAR(20)
+);
 
-alter table pedidos add column categoria varchar (50);
-alter table cliente change column telefonocliente varchar (15);
-rename table pedidos to monto_total;
-drop column fechacreacion producto; 
+CREATE TABLE pedidos (
+    id_pedido INT PRIMARY KEY AUTO_INCREMENT,
+    id_cliente_fk INT,
+    fecha_pedido DATETIME DEFAULT CURRENT_TIMESTAMP,
+    monto_total INT,
+    CONSTRAINT FK_cliente_pedido FOREIGN KEY (id_cliente_fk) REFERENCES clientes(idcliente)
+);
 
+ALTER TABLE clientes ADD ciudad VARCHAR(50);
+ALTER TABLE productos ADD categoria VARCHAR(50);
+ALTER TABLE clientes MODIFY telefonocliente VARCHAR(15);
+ALTER TABLE productos DROP COLUMN fechacreacion;
 
+INSERT INTO clientes (nombrecliente, emailcliente, telefonocliente, ciudad)
+VALUES ('Juanita', 'juanita@gmaill.com', '3182930912', 'Tunja'),
+       ('Jero', 'jeroa@gmaill.com', '3134942093', 'Pereira'),
+       ('Silvana', 'vannis@gmaill.com', '3129349292', 'Bogota');
 
+INSERT INTO productos (nombreproducto, precioproducto, stockproducto, categoria)
+VALUES ('SpeedMax', 2500, 12, 'Bebidas Energeticas'),
+       ('Arroz', 10000, 10, 'granos');
 
+INSERT INTO pedidos (id_cliente_FK, fecha_pedido, monto_total)
+VALUES (1, '2026-03-23', 12500);
 
+UPDATE clientes SET ciudad = 'Bogota' WHERE idcliente = 2;
+UPDATE productos SET stockproducto = stockproducto + 5 WHERE idproducto = 1;
+UPDATE productos SET precioproducto = precioproducto * 0.90 WHERE idproducto = 2;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+DELETE FROM pedidos WHERE id_pedido = 1;
+DELETE FROM pedidos WHERE id_cliente_fk = 2;
+DELETE FROM clientes WHERE idcliente = 2;
+DELETE FROM productos WHERE stockproducto < 3;
