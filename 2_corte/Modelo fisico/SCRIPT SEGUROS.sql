@@ -129,3 +129,140 @@ select * from productos where nombreproducto like '%max'
 #Reto Hacer 2 consltas especificas con minimo 2 metodos  numericos y de caracteres. 
 ## FALTA Agrupaciones, operaciones calculadas, multitablas, subconsultas. 
 
+
+
+ ##Subconsultas
+/*Consultas Anidadas SubQuery select 
+select col1,col2
+from tabla_Princial
+where columna operador
+	(select col1,col2
+	from tabla_Secundaria
+	where condicion); 
+Escalar devuelve  un único valor o fila o columna 
+de fila devuelve una sola fila con varias columnas ROw()
+de tabla devuelve varias filas y varias columnas
+correlacional
+
+ 1. reto 1 crear tabla empleados (id,nombre,deptoId, salario), producto (id,nombre,precio,categoria),
+ departamento(id,nombre)
+ 2. Vamos a registrar 5 empleados 3 departamentos y 5 productos*/
+
+CREATE DATABASE empresa_db;
+
+USE empresa_db;
+
+-- Tabla: departamentos
+
+CREATE TABLE departamentos (
+
+  idDepto INT PRIMARY KEY,
+
+  nombreDepto VARCHAR(50)
+
+);
+
+-- Tabla: empleados
+
+CREATE TABLE empleados (
+
+  idEmp INT PRIMARY KEY,
+
+  nombreEmp VARCHAR(50),
+
+  depto_id INT,
+
+  salarioEmp DECIMAL(10,2),
+
+  FOREIGN KEY (depto_id) REFERENCES departamentos(idDepto)
+
+);
+
+-- Tabla: productos
+
+CREATE TABLE productos (
+
+  idProd INT PRIMARY KEY,
+
+  nombreProd VARCHAR(60),
+
+  precioProd DECIMAL(10,2),
+
+  categoriaProd VARCHAR(40)
+
+);
+ 
+INSERT INTO departamentos (idDepto, nombreDepto) VALUES
+
+(1, 'Recursos Humanos'),
+
+(2, 'Tecnología'),
+
+(3, 'Ventas'),
+
+(4, 'Finanzas');
+ 
+INSERT INTO empleados (idEmp, nombreEmp, depto_id, salarioEmp) VALUES
+
+(101, 'Carlos Pérez', 2, 3500000.00),
+
+(102, 'Laura Gómez', 1, 2800000.00),
+
+(103, 'Andrés Rodríguez', 3, 3000000.00),
+
+(104, 'María López', 4, 4000000.00),
+
+(105, 'Juan Martínez', 2, 3700000.00);
+ 
+INSERT INTO productos (idProd, nombreProd, precioProd, categoriaProd) VALUES
+
+(201, 'Laptop Lenovo', 2500000.00, 'Tecnología'),
+
+(202, 'Mouse Inalámbrico', 80000.00, 'Accesorios'),
+
+(203, 'Teclado Mecánico', 150000.00, 'Accesorios'),
+
+(204, 'Monitor 24 pulgadas', 700000.00, 'Tecnología'),
+
+(205, 'Silla Ergonómica', 900000.00, 'Oficina');
+
+select*from empleados;
+
+
+/*Subconsultas*/
+###-----Where----
+select nombreEmp,salarioEmp 
+from empleados
+where salarioEmp>
+	(select AVG(salarioEmp)
+    from empleados);
+    
+ ###-----Where+in----
+select nombreEmp,salarioEmp 
+from empleados
+where depto_id in 
+	(select idDepto
+    from departamentos
+    where nombreDepto in ('Ventas','Tecnología'));
+   
+   
+ ###-----tabla derivada----
+select depto_id,prom_salario
+from 
+	(select depto_id,AVG(salarioEmpleado)as prom_salario
+	from empleados
+    group by depto_id) as promedios
+where prom_salario > 2800000.000000
+
+    
+select nombreEmp, salarioEmp, 
+  (select AVG(salarioEmp) from empleados) as promedio_general,
+  (salarioEmp - (select AVG(salarioEmp) from empleados)) as diferencia
+from empleados;
+
+
+select nombreProducto, precioProducto, categoriaProducto
+from productos
+where precioProducto >(select AVG(precioProducto) from productos)
+order by  precioProducto desc;
+    
