@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "69f8e4ee10d5401b0d6dc022"
+  },
+  "idDoctor": 1,
+  "registroProfesional": "TP-45821",
+  "nombreDoctor": "Dr. Alejandro Bermúdez Ríos",
+  "especialidad": "Ortodoncia y Ortopedia Maxilofacial",
+  "idUsuario": "USR001"
+},
+{
+  "_id": {
+    "$oid": "69f8e4ee10d5401b0d6dc023"
+  },
+  "idDoctor": 2,
+  "registroProfesional": "TP-62034",
+  "nombreDoctor": "Dra. Mónica Salcedo Vargas",
+  "especialidad": "Periodoncia e Implantología",
+  "idUsuario": "USR002"
+},
+{
+  "_id": {
+    "$oid": "69f8e4ee10d5401b0d6dc024"
+  },
+  "idDoctor": 3,
+  "registroProfesional": "TP-38917",
+  "nombreDoctor": "Dr. Fernando Ospina Castillo",
+  "especialidad": "Rehabilitación Oral",
+  "idUsuario": "USR003"
+},
+{
+  "_id": {
+    "$oid": "69f8e4ee10d5401b0d6dc025"
+  },
+  "idDoctor": 4,
+  "registroProfesional": "TP-71256",
+  "nombreDoctor": "Dra. Claudia Morales Peñaranda",
+  "especialidad": "Cirugía Oral",
+  "idUsuario": "USR004"
+}]

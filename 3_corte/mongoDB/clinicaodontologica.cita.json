@@ -1,0 +1,2200 @@
+[{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db973"
+  },
+  "idCity": 1,
+  "odontologoFK": 1,
+  "paciente": 1,
+  "horario": "2022-01-12 08:00:00",
+  "tratamiento": "Brackets metálicos superiores e inferiores",
+  "pagoFK": 1
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db974"
+  },
+  "idCity": 2,
+  "odontologoFK": 2,
+  "paciente": 2,
+  "horario": "2022-01-17 09:00:00",
+  "tratamiento": "Endodoncia molar inferior derecho",
+  "pagoFK": 2
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db975"
+  },
+  "idCity": 3,
+  "odontologoFK": 3,
+  "paciente": 3,
+  "horario": "2022-02-03 10:00:00",
+  "tratamiento": "Raspaje y alisado radicular",
+  "pagoFK": 3
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db976"
+  },
+  "idCity": 4,
+  "odontologoFK": 4,
+  "paciente": 4,
+  "horario": "2022-02-12 08:30:00",
+  "tratamiento": "Profilaxis y aplicación de flúor",
+  "pagoFK": 4
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db977"
+  },
+  "idCity": 5,
+  "odontologoFK": 1,
+  "paciente": 5,
+  "horario": "2022-02-22 11:00:00",
+  "tratamiento": "Instalación retenedor fijo inferior",
+  "pagoFK": 5
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db978"
+  },
+  "idCity": 6,
+  "odontologoFK": 2,
+  "paciente": 6,
+  "horario": "2022-03-07 09:30:00",
+  "tratamiento": "Endodoncia premolar superior izquierdo",
+  "pagoFK": 6
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db979"
+  },
+  "idCity": 7,
+  "odontologoFK": 3,
+  "paciente": 7,
+  "horario": "2022-03-14 08:00:00",
+  "tratamiento": "Cirugía periodontal colgajo",
+  "pagoFK": 7
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db97a"
+  },
+  "idCity": 8,
+  "odontologoFK": 4,
+  "paciente": 8,
+  "horario": "2022-03-22 10:30:00",
+  "tratamiento": "Sellantes en molares permanentes",
+  "pagoFK": 8
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db97b"
+  },
+  "idCity": 9,
+  "odontologoFK": 1,
+  "paciente": 9,
+  "horario": "2022-04-03 09:00:00",
+  "tratamiento": "Ajuste de arcos ortodoncia",
+  "pagoFK": 9
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db97c"
+  },
+  "idCity": 10,
+  "odontologoFK": 2,
+  "paciente": 10,
+  "horario": "2022-04-12 11:00:00",
+  "tratamiento": "Endodoncia incisivo central superior",
+  "pagoFK": 10
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db97d"
+  },
+  "idCity": 11,
+  "odontologoFK": 3,
+  "paciente": 11,
+  "horario": "2022-04-20 08:30:00",
+  "tratamiento": "Mantenimiento periodontal trimestral",
+  "pagoFK": 11
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db97e"
+  },
+  "idCity": 12,
+  "odontologoFK": 4,
+  "paciente": 12,
+  "horario": "2022-05-04 09:00:00",
+  "tratamiento": "Extracción tercer molar inferior derecho",
+  "pagoFK": 12
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db97f"
+  },
+  "idCity": 13,
+  "odontologoFK": 1,
+  "paciente": 13,
+  "horario": "2022-05-17 10:00:00",
+  "tratamiento": "Colocación brackets cerámicos superiores",
+  "pagoFK": 13
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db980"
+  },
+  "idCity": 14,
+  "odontologoFK": 2,
+  "paciente": 14,
+  "horario": "2022-05-24 08:00:00",
+  "tratamiento": "Endodoncia molar superior izquierdo",
+  "pagoFK": 14
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db981"
+  },
+  "idCity": 15,
+  "odontologoFK": 3,
+  "paciente": 15,
+  "horario": "2022-06-03 11:30:00",
+  "tratamiento": "Raspaje supragingival",
+  "pagoFK": 15
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db982"
+  },
+  "idCity": 16,
+  "odontologoFK": 4,
+  "paciente": 16,
+  "horario": "2022-06-12 09:30:00",
+  "tratamiento": "Profilaxis y control de caries",
+  "pagoFK": 16
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db983"
+  },
+  "idCity": 17,
+  "odontologoFK": 1,
+  "paciente": 17,
+  "horario": "2022-06-22 08:00:00",
+  "tratamiento": "Retiro de brackets y toma de impresiones",
+  "pagoFK": 17
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db984"
+  },
+  "idCity": 18,
+  "odontologoFK": 2,
+  "paciente": 18,
+  "horario": "2022-07-07 10:00:00",
+  "tratamiento": "Endodoncia premolar inferior izquierdo",
+  "pagoFK": 18
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db985"
+  },
+  "idCity": 19,
+  "odontologoFK": 3,
+  "paciente": 19,
+  "horario": "2022-07-17 09:00:00",
+  "tratamiento": "Raspaje y alisado cuadrante superior derecho",
+  "pagoFK": 19
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db986"
+  },
+  "idCity": 20,
+  "odontologoFK": 4,
+  "paciente": 20,
+  "horario": "2022-07-27 08:30:00",
+  "tratamiento": "Exodoncia simple pieza 28",
+  "pagoFK": 20
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db987"
+  },
+  "idCity": 21,
+  "odontologoFK": 1,
+  "paciente": 21,
+  "horario": "2022-08-04 11:00:00",
+  "tratamiento": "Colocación alineadores Invisalign",
+  "pagoFK": 21
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db988"
+  },
+  "idCity": 22,
+  "odontologoFK": 2,
+  "paciente": 22,
+  "horario": "2022-08-14 09:00:00",
+  "tratamiento": "Endodoncia molar inferior izquierdo",
+  "pagoFK": 22
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db989"
+  },
+  "idCity": 23,
+  "odontologoFK": 3,
+  "paciente": 23,
+  "horario": "2022-08-24 10:30:00",
+  "tratamiento": "Cirugía resectiva periodontal",
+  "pagoFK": 23
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db98a"
+  },
+  "idCity": 24,
+  "odontologoFK": 4,
+  "paciente": 24,
+  "horario": "2022-09-03 08:00:00",
+  "tratamiento": "Sellantes preventivos en premolares",
+  "pagoFK": 24
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db98b"
+  },
+  "idCity": 25,
+  "odontologoFK": 1,
+  "paciente": 25,
+  "horario": "2022-09-12 09:30:00",
+  "tratamiento": "Ajuste alineadores y control ortodoncia",
+  "pagoFK": 25
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db98c"
+  },
+  "idCity": 26,
+  "odontologoFK": 2,
+  "paciente": 26,
+  "horario": "2022-09-22 11:00:00",
+  "tratamiento": "Retratamiento endodóntico molar superior",
+  "pagoFK": 26
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db98d"
+  },
+  "idCity": 27,
+  "odontologoFK": 3,
+  "paciente": 27,
+  "horario": "2022-10-05 08:30:00",
+  "tratamiento": "Mantenimiento periodontal implante",
+  "pagoFK": 27
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db98e"
+  },
+  "idCity": 28,
+  "odontologoFK": 4,
+  "paciente": 28,
+  "horario": "2022-10-14 09:00:00",
+  "tratamiento": "Profilaxis ultrasónica y pulido coronal",
+  "pagoFK": 28
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db98f"
+  },
+  "idCity": 29,
+  "odontologoFK": 1,
+  "paciente": 29,
+  "horario": "2022-10-24 10:00:00",
+  "tratamiento": "Control mensual ortodoncia brackets",
+  "pagoFK": 29
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db990"
+  },
+  "idCity": 30,
+  "odontologoFK": 2,
+  "paciente": 30,
+  "horario": "2022-11-03 08:00:00",
+  "tratamiento": "Endodoncia canino superior derecho",
+  "pagoFK": 30
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db991"
+  },
+  "idCity": 31,
+  "odontologoFK": 3,
+  "paciente": 31,
+  "horario": "2022-11-12 11:30:00",
+  "tratamiento": "Raspaje subgingival cuadrante inferior",
+  "pagoFK": 31
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db992"
+  },
+  "idCity": 32,
+  "odontologoFK": 4,
+  "paciente": 32,
+  "horario": "2022-11-22 09:30:00",
+  "tratamiento": "Extracción molar retenido inferior",
+  "pagoFK": 32
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db993"
+  },
+  "idCity": 33,
+  "odontologoFK": 1,
+  "paciente": 33,
+  "horario": "2022-12-03 08:00:00",
+  "tratamiento": "Colocación retenedor removible superior",
+  "pagoFK": 33
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db994"
+  },
+  "idCity": 34,
+  "odontologoFK": 2,
+  "paciente": 34,
+  "horario": "2022-12-14 10:00:00",
+  "tratamiento": "Endodoncia segundo molar superior derecho",
+  "pagoFK": 34
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db995"
+  },
+  "idCity": 35,
+  "odontologoFK": 3,
+  "paciente": 35,
+  "horario": "2022-12-24 09:00:00",
+  "tratamiento": "Curetaje cerrado cuadrante superior izquierdo",
+  "pagoFK": 35
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db996"
+  },
+  "idCity": 36,
+  "odontologoFK": 4,
+  "paciente": 36,
+  "horario": "2023-01-11 08:30:00",
+  "tratamiento": "Control de erupción en niño",
+  "pagoFK": 36
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db997"
+  },
+  "idCity": 37,
+  "odontologoFK": 1,
+  "paciente": 37,
+  "horario": "2023-01-22 11:00:00",
+  "tratamiento": "Brackets metálicos fase activa",
+  "pagoFK": 37
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db998"
+  },
+  "idCity": 38,
+  "odontologoFK": 2,
+  "paciente": 38,
+  "horario": "2023-02-03 09:00:00",
+  "tratamiento": "Endodoncia molar inferior derecho con calcificación",
+  "pagoFK": 38
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db999"
+  },
+  "idCity": 39,
+  "odontologoFK": 3,
+  "paciente": 39,
+  "horario": "2023-02-12 10:30:00",
+  "tratamiento": "Mantenimiento periodontal semestral",
+  "pagoFK": 39
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db99a"
+  },
+  "idCity": 40,
+  "odontologoFK": 4,
+  "paciente": 40,
+  "horario": "2023-02-22 08:00:00",
+  "tratamiento": "Exodoncia piezas 17 y 47",
+  "pagoFK": 40
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db99b"
+  },
+  "idCity": 41,
+  "odontologoFK": 1,
+  "paciente": 41,
+  "horario": "2023-03-03 09:30:00",
+  "tratamiento": "Control ortodoncia y activación arcos",
+  "pagoFK": 41
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db99c"
+  },
+  "idCity": 42,
+  "odontologoFK": 2,
+  "paciente": 42,
+  "horario": "2023-03-14 11:00:00",
+  "tratamiento": "Endodoncia urgencia por absceso",
+  "pagoFK": 42
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db99d"
+  },
+  "idCity": 43,
+  "odontologoFK": 3,
+  "paciente": 43,
+  "horario": "2023-03-24 08:30:00",
+  "tratamiento": "Raspaje y alisado cuatro cuadrantes",
+  "pagoFK": 43
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db99e"
+  },
+  "idCity": 44,
+  "odontologoFK": 4,
+  "paciente": 44,
+  "horario": "2023-04-03 09:00:00",
+  "tratamiento": "Profilaxis pediátrica y sellantes",
+  "pagoFK": 44
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db99f"
+  },
+  "idCity": 45,
+  "odontologoFK": 1,
+  "paciente": 45,
+  "horario": "2023-04-14 10:00:00",
+  "tratamiento": "Instalación brackets sapphire superiores",
+  "pagoFK": 45
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9a0"
+  },
+  "idCity": 46,
+  "odontologoFK": 2,
+  "paciente": 46,
+  "horario": "2023-04-24 08:00:00",
+  "tratamiento": "Endodoncia molar superior derecho",
+  "pagoFK": 46
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9a1"
+  },
+  "idCity": 47,
+  "odontologoFK": 3,
+  "paciente": 47,
+  "horario": "2023-05-04 11:30:00",
+  "tratamiento": "Cirugía de alargamiento coronal",
+  "pagoFK": 47
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9a2"
+  },
+  "idCity": 48,
+  "odontologoFK": 4,
+  "paciente": 48,
+  "horario": "2023-05-14 09:30:00",
+  "tratamiento": "Extracción tercer molar superior izquierdo",
+  "pagoFK": 48
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9a3"
+  },
+  "idCity": 49,
+  "odontologoFK": 1,
+  "paciente": 49,
+  "horario": "2023-05-24 08:00:00",
+  "tratamiento": "Ajuste brackets y cambio ligaduras",
+  "pagoFK": 49
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9a4"
+  },
+  "idCity": 50,
+  "odontologoFK": 2,
+  "paciente": 50,
+  "horario": "2023-06-03 10:00:00",
+  "tratamiento": "Endodoncia incisivo lateral superior",
+  "pagoFK": 50
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9a5"
+  },
+  "idCity": 51,
+  "odontologoFK": 3,
+  "paciente": 51,
+  "horario": "2023-06-12 09:00:00",
+  "tratamiento": "Raspaje subgingival zona anterior",
+  "pagoFK": 51
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9a6"
+  },
+  "idCity": 52,
+  "odontologoFK": 4,
+  "paciente": 52,
+  "horario": "2023-06-22 08:30:00",
+  "tratamiento": "Exodoncia simple pieza 48",
+  "pagoFK": 52
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9a7"
+  },
+  "idCity": 53,
+  "odontologoFK": 1,
+  "paciente": 53,
+  "horario": "2023-07-03 11:00:00",
+  "tratamiento": "Colocación arco de nivelación NiTi",
+  "pagoFK": 53
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9a8"
+  },
+  "idCity": 54,
+  "odontologoFK": 2,
+  "paciente": 54,
+  "horario": "2023-07-14 09:00:00",
+  "tratamiento": "Endodoncia primer molar superior izquierdo",
+  "pagoFK": 54
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9a9"
+  },
+  "idCity": 55,
+  "odontologoFK": 3,
+  "paciente": 55,
+  "horario": "2023-07-24 10:30:00",
+  "tratamiento": "Mantenimiento periodontal con irrigación",
+  "pagoFK": 55
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9aa"
+  },
+  "idCity": 56,
+  "odontologoFK": 4,
+  "paciente": 56,
+  "horario": "2023-08-03 08:00:00",
+  "tratamiento": "Profilaxis y detartraje supragingival",
+  "pagoFK": 56
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9ab"
+  },
+  "idCity": 57,
+  "odontologoFK": 1,
+  "paciente": 57,
+  "horario": "2023-08-14 09:30:00",
+  "tratamiento": "Control retenedor y revisión periódica",
+  "pagoFK": 57
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9ac"
+  },
+  "idCity": 58,
+  "odontologoFK": 2,
+  "paciente": 58,
+  "horario": "2023-08-24 11:00:00",
+  "tratamiento": "Endodoncia segundo premolar inferior",
+  "pagoFK": 58
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9ad"
+  },
+  "idCity": 59,
+  "odontologoFK": 3,
+  "paciente": 59,
+  "horario": "2023-09-03 08:30:00",
+  "tratamiento": "Raspaje y alisado radicular cuadrante posterior",
+  "pagoFK": 59
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9ae"
+  },
+  "idCity": 60,
+  "odontologoFK": 4,
+  "paciente": 60,
+  "horario": "2023-09-14 09:00:00",
+  "tratamiento": "Extracción restos radiculares pieza 36",
+  "pagoFK": 60
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9af"
+  },
+  "idCity": 61,
+  "odontologoFK": 1,
+  "paciente": 61,
+  "horario": "2023-09-24 10:00:00",
+  "tratamiento": "Alineadores Invisalign control mensual",
+  "pagoFK": 61
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9b0"
+  },
+  "idCity": 62,
+  "odontologoFK": 2,
+  "paciente": 62,
+  "horario": "2023-10-03 08:00:00",
+  "tratamiento": "Endodoncia molar con hipercalcificación",
+  "pagoFK": 62
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9b1"
+  },
+  "idCity": 63,
+  "odontologoFK": 3,
+  "paciente": 63,
+  "horario": "2023-10-14 11:30:00",
+  "tratamiento": "Curetaje abierto zona posterior",
+  "pagoFK": 63
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9b2"
+  },
+  "idCity": 64,
+  "odontologoFK": 4,
+  "paciente": 64,
+  "horario": "2023-10-24 09:30:00",
+  "tratamiento": "Control implante oseointegrado",
+  "pagoFK": 64
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9b3"
+  },
+  "idCity": 65,
+  "odontologoFK": 1,
+  "paciente": 65,
+  "horario": "2023-11-03 08:00:00",
+  "tratamiento": "Activación arcos ortodoncia fase cierre",
+  "pagoFK": 65
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9b4"
+  },
+  "idCity": 66,
+  "odontologoFK": 2,
+  "paciente": 66,
+  "horario": "2023-11-14 10:00:00",
+  "tratamiento": "Endodoncia tercer molar inferior",
+  "pagoFK": 66
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9b5"
+  },
+  "idCity": 67,
+  "odontologoFK": 3,
+  "paciente": 67,
+  "horario": "2023-11-24 09:00:00",
+  "tratamiento": "Mantenimiento implante con sonda periodontal",
+  "pagoFK": 67
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9b6"
+  },
+  "idCity": 68,
+  "odontologoFK": 4,
+  "paciente": 68,
+  "horario": "2023-12-03 08:30:00",
+  "tratamiento": "Extracción tercer molar inferior izquierdo",
+  "pagoFK": 68
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9b7"
+  },
+  "idCity": 69,
+  "odontologoFK": 1,
+  "paciente": 69,
+  "horario": "2023-12-14 11:00:00",
+  "tratamiento": "Colocación brackets en paciente adulto",
+  "pagoFK": 69
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9b8"
+  },
+  "idCity": 70,
+  "odontologoFK": 2,
+  "paciente": 70,
+  "horario": "2023-12-24 09:00:00",
+  "tratamiento": "Endodoncia canino inferior derecho",
+  "pagoFK": 70
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9b9"
+  },
+  "idCity": 71,
+  "odontologoFK": 3,
+  "paciente": 71,
+  "horario": "2024-01-12 10:30:00",
+  "tratamiento": "Raspaje cuadrante inferior derecho",
+  "pagoFK": 71
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9ba"
+  },
+  "idCity": 72,
+  "odontologoFK": 4,
+  "paciente": 72,
+  "horario": "2024-01-22 08:00:00",
+  "tratamiento": "Profilaxis y revisión general",
+  "pagoFK": 72
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9bb"
+  },
+  "idCity": 73,
+  "odontologoFK": 1,
+  "paciente": 73,
+  "horario": "2024-02-03 09:30:00",
+  "tratamiento": "Control ortodoncia y toma de registros",
+  "pagoFK": 73
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9bc"
+  },
+  "idCity": 74,
+  "odontologoFK": 2,
+  "paciente": 74,
+  "horario": "2024-02-14 11:00:00",
+  "tratamiento": "Endodoncia molar con reabsorción interna",
+  "pagoFK": 74
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9bd"
+  },
+  "idCity": 75,
+  "odontologoFK": 3,
+  "paciente": 75,
+  "horario": "2024-02-24 08:30:00",
+  "tratamiento": "Curetaje cerrado zona anterior superior",
+  "pagoFK": 75
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9be"
+  },
+  "idCity": 76,
+  "odontologoFK": 4,
+  "paciente": 76,
+  "horario": "2024-03-03 09:00:00",
+  "tratamiento": "Exodoncia simple pieza 24",
+  "pagoFK": 76
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9bf"
+  },
+  "idCity": 77,
+  "odontologoFK": 1,
+  "paciente": 77,
+  "horario": "2024-03-14 10:00:00",
+  "tratamiento": "Ajuste retenedor y control retención",
+  "pagoFK": 77
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9c0"
+  },
+  "idCity": 78,
+  "odontologoFK": 2,
+  "paciente": 78,
+  "horario": "2024-03-24 08:00:00",
+  "tratamiento": "Endodoncia premolar superior con dilaceración",
+  "pagoFK": 78
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9c1"
+  },
+  "idCity": 79,
+  "odontologoFK": 3,
+  "paciente": 79,
+  "horario": "2024-04-03 11:30:00",
+  "tratamiento": "Cirugía periodontal estética",
+  "pagoFK": 79
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9c2"
+  },
+  "idCity": 80,
+  "odontologoFK": 4,
+  "paciente": 80,
+  "horario": "2024-04-14 09:30:00",
+  "tratamiento": "Control desarrollo dental niño",
+  "pagoFK": 80
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9c3"
+  },
+  "idCity": 81,
+  "odontologoFK": 1,
+  "paciente": 81,
+  "horario": "2024-04-24 08:00:00",
+  "tratamiento": "Brackets metálicos control fase retención",
+  "pagoFK": 81
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9c4"
+  },
+  "idCity": 82,
+  "odontologoFK": 2,
+  "paciente": 82,
+  "horario": "2024-05-04 10:00:00",
+  "tratamiento": "Endodoncia urgencia dolor agudo",
+  "pagoFK": 82
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9c5"
+  },
+  "idCity": 83,
+  "odontologoFK": 3,
+  "paciente": 83,
+  "horario": "2024-05-14 09:00:00",
+  "tratamiento": "Raspaje y alisado cuatro cuadrantes con anestesia",
+  "pagoFK": 83
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9c6"
+  },
+  "idCity": 84,
+  "odontologoFK": 4,
+  "paciente": 84,
+  "horario": "2024-05-24 08:30:00",
+  "tratamiento": "Extracción molar inferior retenido con odontosección",
+  "pagoFK": 84
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9c7"
+  },
+  "idCity": 85,
+  "odontologoFK": 1,
+  "paciente": 85,
+  "horario": "2024-06-03 11:00:00",
+  "tratamiento": "Instalación brackets paciente adulto mayor",
+  "pagoFK": 85
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9c8"
+  },
+  "idCity": 86,
+  "odontologoFK": 2,
+  "paciente": 86,
+  "horario": "2024-06-14 09:00:00",
+  "tratamiento": "Endodoncia control postoperatorio",
+  "pagoFK": 86
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9c9"
+  },
+  "idCity": 87,
+  "odontologoFK": 3,
+  "paciente": 87,
+  "horario": "2024-06-24 10:30:00",
+  "tratamiento": "Mantenimiento periodontal con antibioticoterapia",
+  "pagoFK": 87
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9ca"
+  },
+  "idCity": 88,
+  "odontologoFK": 4,
+  "paciente": 88,
+  "horario": "2024-07-03 08:00:00",
+  "tratamiento": "Profilaxis y sellantes en adolescente",
+  "pagoFK": 88
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9cb"
+  },
+  "idCity": 89,
+  "odontologoFK": 1,
+  "paciente": 89,
+  "horario": "2024-07-14 09:30:00",
+  "tratamiento": "Toma de impresiones para alineadores",
+  "pagoFK": 89
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9cc"
+  },
+  "idCity": 90,
+  "odontologoFK": 2,
+  "paciente": 90,
+  "horario": "2024-07-24 11:00:00",
+  "tratamiento": "Endodoncia molar superior con cuatro conductos",
+  "pagoFK": 90
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9cd"
+  },
+  "idCity": 91,
+  "odontologoFK": 3,
+  "paciente": 91,
+  "horario": "2024-08-03 08:30:00",
+  "tratamiento": "Cirugía resectiva zona posterior inferior",
+  "pagoFK": 91
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9ce"
+  },
+  "idCity": 92,
+  "odontologoFK": 4,
+  "paciente": 92,
+  "horario": "2024-08-14 09:00:00",
+  "tratamiento": "Exodoncia simple pieza 14",
+  "pagoFK": 92
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9cf"
+  },
+  "idCity": 93,
+  "odontologoFK": 1,
+  "paciente": 93,
+  "horario": "2024-08-24 10:00:00",
+  "tratamiento": "Ajuste arcos y control ortodoncia",
+  "pagoFK": 93
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9d0"
+  },
+  "idCity": 94,
+  "odontologoFK": 2,
+  "paciente": 94,
+  "horario": "2024-09-03 08:00:00",
+  "tratamiento": "Endodoncia molar inferior con curvatura",
+  "pagoFK": 94
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9d1"
+  },
+  "idCity": 95,
+  "odontologoFK": 3,
+  "paciente": 95,
+  "horario": "2024-09-14 11:30:00",
+  "tratamiento": "Mantenimiento periodontal mensual",
+  "pagoFK": 95
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9d2"
+  },
+  "idCity": 96,
+  "odontologoFK": 4,
+  "paciente": 96,
+  "horario": "2024-09-24 09:30:00",
+  "tratamiento": "Profilaxis y revisión semestral",
+  "pagoFK": 96
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9d3"
+  },
+  "idCity": 97,
+  "odontologoFK": 1,
+  "paciente": 97,
+  "horario": "2024-10-03 08:00:00",
+  "tratamiento": "Control ortodoncia fase finalización",
+  "pagoFK": 97
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9d4"
+  },
+  "idCity": 98,
+  "odontologoFK": 2,
+  "paciente": 98,
+  "horario": "2024-10-14 10:00:00",
+  "tratamiento": "Endodoncia segundo molar inferior izquierdo",
+  "pagoFK": 98
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9d5"
+  },
+  "idCity": 99,
+  "odontologoFK": 3,
+  "paciente": 99,
+  "horario": "2024-10-24 09:00:00",
+  "tratamiento": "Raspaje y alisado zona anterior inferior",
+  "pagoFK": 99
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9d6"
+  },
+  "idCity": 100,
+  "odontologoFK": 4,
+  "paciente": 100,
+  "horario": "2024-11-03 08:30:00",
+  "tratamiento": "Extracción tercer molar superior derecho",
+  "pagoFK": 100
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9d7"
+  },
+  "idCity": 101,
+  "odontologoFK": 1,
+  "paciente": 1,
+  "horario": "2024-11-14 11:00:00",
+  "tratamiento": "Retiro de brackets y pulido dental",
+  "pagoFK": 101
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9d8"
+  },
+  "idCity": 102,
+  "odontologoFK": 2,
+  "paciente": 2,
+  "horario": "2024-11-24 09:00:00",
+  "tratamiento": "Endodoncia molar con fístula activa",
+  "pagoFK": 102
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9d9"
+  },
+  "idCity": 103,
+  "odontologoFK": 3,
+  "paciente": 3,
+  "horario": "2024-12-03 10:30:00",
+  "tratamiento": "Curetaje abierto zona posterior superior",
+  "pagoFK": 103
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9da"
+  },
+  "idCity": 104,
+  "odontologoFK": 4,
+  "paciente": 4,
+  "horario": "2024-12-14 08:00:00",
+  "tratamiento": "Control sellantes y profilaxis",
+  "pagoFK": 104
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9db"
+  },
+  "idCity": 105,
+  "odontologoFK": 1,
+  "paciente": 5,
+  "horario": "2024-12-24 09:30:00",
+  "tratamiento": "Colocación retenedor removible inferior",
+  "pagoFK": 105
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9dc"
+  },
+  "idCity": 106,
+  "odontologoFK": 2,
+  "paciente": 6,
+  "horario": "2025-01-05 11:00:00",
+  "tratamiento": "Endodoncia pieza con reabsorción externa",
+  "pagoFK": 106
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9dd"
+  },
+  "idCity": 107,
+  "odontologoFK": 3,
+  "paciente": 7,
+  "horario": "2025-01-15 08:30:00",
+  "tratamiento": "Mantenimiento periodontal con sonda Florida",
+  "pagoFK": 107
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9de"
+  },
+  "idCity": 108,
+  "odontologoFK": 4,
+  "paciente": 8,
+  "horario": "2025-01-25 09:00:00",
+  "tratamiento": "Exodoncia molar superior con odontosección",
+  "pagoFK": 108
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9df"
+  },
+  "idCity": 109,
+  "odontologoFK": 1,
+  "paciente": 9,
+  "horario": "2025-02-05 10:00:00",
+  "tratamiento": "Ajuste alineadores control bimensual",
+  "pagoFK": 109
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9e0"
+  },
+  "idCity": 110,
+  "odontologoFK": 2,
+  "paciente": 10,
+  "horario": "2025-02-15 08:00:00",
+  "tratamiento": "Endodoncia urgencia absceso periapical",
+  "pagoFK": 110
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9e1"
+  },
+  "idCity": 111,
+  "odontologoFK": 3,
+  "paciente": 11,
+  "horario": "2025-02-25 11:30:00",
+  "tratamiento": "Raspaje y alisado radicular zona posterior",
+  "pagoFK": 111
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9e2"
+  },
+  "idCity": 112,
+  "odontologoFK": 4,
+  "paciente": 12,
+  "horario": "2025-03-05 09:30:00",
+  "tratamiento": "Control postoperatorio exodoncia",
+  "pagoFK": 112
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9e3"
+  },
+  "idCity": 113,
+  "odontologoFK": 1,
+  "paciente": 13,
+  "horario": "2025-03-15 08:00:00",
+  "tratamiento": "Brackets sapphire ajuste y progreso",
+  "pagoFK": 113
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9e4"
+  },
+  "idCity": 114,
+  "odontologoFK": 2,
+  "paciente": 14,
+  "horario": "2025-03-25 10:00:00",
+  "tratamiento": "Endodoncia molar con lesión periapical crónica",
+  "pagoFK": 114
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9e5"
+  },
+  "idCity": 115,
+  "odontologoFK": 3,
+  "paciente": 15,
+  "horario": "2025-04-05 09:00:00",
+  "tratamiento": "Cirugía periodontal regenerativa",
+  "pagoFK": 115
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9e6"
+  },
+  "idCity": 116,
+  "odontologoFK": 4,
+  "paciente": 16,
+  "horario": "2025-04-15 08:30:00",
+  "tratamiento": "Profilaxis ultrasónica y fluorización",
+  "pagoFK": 116
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9e7"
+  },
+  "idCity": 117,
+  "odontologoFK": 1,
+  "paciente": 17,
+  "horario": "2025-04-25 11:00:00",
+  "tratamiento": "Control retenedor fijo inferior",
+  "pagoFK": 117
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9e8"
+  },
+  "idCity": 118,
+  "odontologoFK": 2,
+  "paciente": 18,
+  "horario": "2025-05-05 09:00:00",
+  "tratamiento": "Endodoncia premolar con conducto en S",
+  "pagoFK": 118
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9e9"
+  },
+  "idCity": 119,
+  "odontologoFK": 3,
+  "paciente": 19,
+  "horario": "2025-05-15 10:30:00",
+  "tratamiento": "Mantenimiento periodontal implante múltiple",
+  "pagoFK": 119
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9ea"
+  },
+  "idCity": 120,
+  "odontologoFK": 4,
+  "paciente": 20,
+  "horario": "2025-05-25 08:00:00",
+  "tratamiento": "Extracción molar inferior con quiste folicular",
+  "pagoFK": 120
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9eb"
+  },
+  "idCity": 121,
+  "odontologoFK": 1,
+  "paciente": 21,
+  "horario": "2025-06-05 09:30:00",
+  "tratamiento": "Alineadores Invisalign cambio de etapa",
+  "pagoFK": 121
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9ec"
+  },
+  "idCity": 122,
+  "odontologoFK": 2,
+  "paciente": 22,
+  "horario": "2025-06-15 11:00:00",
+  "tratamiento": "Endodoncia molar inferior con bifurcación",
+  "pagoFK": 122
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9ed"
+  },
+  "idCity": 123,
+  "odontologoFK": 3,
+  "paciente": 23,
+  "horario": "2025-06-25 08:30:00",
+  "tratamiento": "Curetaje cerrado y antibiótico sistémico",
+  "pagoFK": 123
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9ee"
+  },
+  "idCity": 124,
+  "odontologoFK": 4,
+  "paciente": 24,
+  "horario": "2025-07-05 09:00:00",
+  "tratamiento": "Profilaxis y orientación higiene oral",
+  "pagoFK": 124
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9ef"
+  },
+  "idCity": 125,
+  "odontologoFK": 1,
+  "paciente": 25,
+  "horario": "2025-07-15 10:00:00",
+  "tratamiento": "Activación ortodoncia y fotografías de progreso",
+  "pagoFK": 125
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9f0"
+  },
+  "idCity": 126,
+  "odontologoFK": 2,
+  "paciente": 26,
+  "horario": "2025-07-25 08:00:00",
+  "tratamiento": "Endodoncia con obturación termoplástica",
+  "pagoFK": 126
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9f1"
+  },
+  "idCity": 127,
+  "odontologoFK": 3,
+  "paciente": 27,
+  "horario": "2025-08-05 11:30:00",
+  "tratamiento": "Mantenimiento implante y control óseo",
+  "pagoFK": 127
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9f2"
+  },
+  "idCity": 128,
+  "odontologoFK": 4,
+  "paciente": 28,
+  "horario": "2025-08-15 09:30:00",
+  "tratamiento": "Exodoncia tercer molar incluido con pericoronaritis",
+  "pagoFK": 128
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9f3"
+  },
+  "idCity": 129,
+  "odontologoFK": 1,
+  "paciente": 29,
+  "horario": "2025-08-25 08:00:00",
+  "tratamiento": "Control alineadores y ajuste de presión",
+  "pagoFK": 129
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9f4"
+  },
+  "idCity": 130,
+  "odontologoFK": 2,
+  "paciente": 30,
+  "horario": "2025-09-05 10:00:00",
+  "tratamiento": "Endodoncia molar superior con taurodontismo",
+  "pagoFK": 130
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9f5"
+  },
+  "idCity": 131,
+  "odontologoFK": 3,
+  "paciente": 31,
+  "horario": "2025-09-15 09:00:00",
+  "tratamiento": "Raspaje cuadrante superior izquierdo",
+  "pagoFK": 131
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9f6"
+  },
+  "idCity": 132,
+  "odontologoFK": 4,
+  "paciente": 32,
+  "horario": "2025-09-25 08:30:00",
+  "tratamiento": "Control de erupción y profilaxis",
+  "pagoFK": 132
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9f7"
+  },
+  "idCity": 133,
+  "odontologoFK": 1,
+  "paciente": 33,
+  "horario": "2025-10-05 11:00:00",
+  "tratamiento": "Brackets metálicos fase de cierre espacios",
+  "pagoFK": 133
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9f8"
+  },
+  "idCity": 134,
+  "odontologoFK": 2,
+  "paciente": 34,
+  "horario": "2025-10-15 09:00:00",
+  "tratamiento": "Endodoncia con microscopio operatorio",
+  "pagoFK": 134
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9f9"
+  },
+  "idCity": 135,
+  "odontologoFK": 3,
+  "paciente": 35,
+  "horario": "2025-10-25 10:30:00",
+  "tratamiento": "Mantenimiento periodontal pos-cirugía",
+  "pagoFK": 135
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9fa"
+  },
+  "idCity": 136,
+  "odontologoFK": 4,
+  "paciente": 36,
+  "horario": "2025-11-05 08:00:00",
+  "tratamiento": "Sellantes en primeros molares permanentes",
+  "pagoFK": 136
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9fb"
+  },
+  "idCity": 137,
+  "odontologoFK": 1,
+  "paciente": 37,
+  "horario": "2025-11-15 09:30:00",
+  "tratamiento": "Control ortodoncia y ajuste torque",
+  "pagoFK": 137
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9fc"
+  },
+  "idCity": 138,
+  "odontologoFK": 2,
+  "paciente": 38,
+  "horario": "2025-11-25 11:00:00",
+  "tratamiento": "Endodoncia molar con condensación lateral",
+  "pagoFK": 138
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9fd"
+  },
+  "idCity": 139,
+  "odontologoFK": 3,
+  "paciente": 39,
+  "horario": "2025-12-05 08:30:00",
+  "tratamiento": "Raspaje y alisado radicular completo",
+  "pagoFK": 139
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9fe"
+  },
+  "idCity": 140,
+  "odontologoFK": 4,
+  "paciente": 40,
+  "horario": "2025-12-15 09:00:00",
+  "tratamiento": "Extracción molar inferior con anestesia local",
+  "pagoFK": 140
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6db9ff"
+  },
+  "idCity": 141,
+  "odontologoFK": 1,
+  "paciente": 41,
+  "horario": "2025-12-25 10:00:00",
+  "tratamiento": "Colocación alineadores nueva serie",
+  "pagoFK": 141
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba00"
+  },
+  "idCity": 142,
+  "odontologoFK": 2,
+  "paciente": 42,
+  "horario": "2026-01-05 08:00:00",
+  "tratamiento": "Endodoncia canino con conducto lateral",
+  "pagoFK": 142
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba01"
+  },
+  "idCity": 143,
+  "odontologoFK": 3,
+  "paciente": 43,
+  "horario": "2026-01-15 11:30:00",
+  "tratamiento": "Mantenimiento periodontal y revisión implantes",
+  "pagoFK": 143
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba02"
+  },
+  "idCity": 144,
+  "odontologoFK": 4,
+  "paciente": 44,
+  "horario": "2026-01-25 09:30:00",
+  "tratamiento": "Profilaxis y detartraje en paciente sistémico",
+  "pagoFK": 144
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba03"
+  },
+  "idCity": 145,
+  "odontologoFK": 1,
+  "paciente": 45,
+  "horario": "2026-02-05 08:00:00",
+  "tratamiento": "Control retención ortodoncia alineadores",
+  "pagoFK": 145
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba04"
+  },
+  "idCity": 146,
+  "odontologoFK": 2,
+  "paciente": 46,
+  "horario": "2026-02-15 10:00:00",
+  "tratamiento": "Endodoncia segundo premolar superior",
+  "pagoFK": 146
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba05"
+  },
+  "idCity": 147,
+  "odontologoFK": 3,
+  "paciente": 47,
+  "horario": "2026-02-25 09:00:00",
+  "tratamiento": "Curetaje abierto zona anterior inferior",
+  "pagoFK": 147
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba06"
+  },
+  "idCity": 148,
+  "odontologoFK": 4,
+  "paciente": 48,
+  "horario": "2026-03-05 08:30:00",
+  "tratamiento": "Extracción simple pieza 34 con raíz fracturada",
+  "pagoFK": 148
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba07"
+  },
+  "idCity": 149,
+  "odontologoFK": 1,
+  "paciente": 49,
+  "horario": "2026-03-15 11:00:00",
+  "tratamiento": "Brackets metálicos control y cambio arco",
+  "pagoFK": 149
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba08"
+  },
+  "idCity": 150,
+  "odontologoFK": 2,
+  "paciente": 50,
+  "horario": "2026-03-25 09:00:00",
+  "tratamiento": "Endodoncia urgente por necrosis pulpar",
+  "pagoFK": 150
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba09"
+  },
+  "idCity": 151,
+  "odontologoFK": 3,
+  "paciente": 51,
+  "horario": "2026-01-08 10:30:00",
+  "tratamiento": "Raspaje subgingival con ultrasonido",
+  "pagoFK": 151
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba0a"
+  },
+  "idCity": 152,
+  "odontologoFK": 4,
+  "paciente": 52,
+  "horario": "2026-01-18 08:00:00",
+  "tratamiento": "Exodoncia tercer molar superior derecho",
+  "pagoFK": 152
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba0b"
+  },
+  "idCity": 153,
+  "odontologoFK": 1,
+  "paciente": 53,
+  "horario": "2026-02-02 09:30:00",
+  "tratamiento": "Ajuste alineadores y evaluación de cierre",
+  "pagoFK": 153
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba0c"
+  },
+  "idCity": 154,
+  "odontologoFK": 2,
+  "paciente": 54,
+  "horario": "2026-02-12 11:00:00",
+  "tratamiento": "Endodoncia pieza vital con síntomas agudos",
+  "pagoFK": 154
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba0d"
+  },
+  "idCity": 155,
+  "odontologoFK": 3,
+  "paciente": 55,
+  "horario": "2026-02-22 08:30:00",
+  "tratamiento": "Mantenimiento periodontal pos-raspaje",
+  "pagoFK": 155
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba0e"
+  },
+  "idCity": 156,
+  "odontologoFK": 4,
+  "paciente": 56,
+  "horario": "2026-03-02 09:00:00",
+  "tratamiento": "Profilaxis y revisión niño 8 años",
+  "pagoFK": 156
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba0f"
+  },
+  "idCity": 157,
+  "odontologoFK": 1,
+  "paciente": 57,
+  "horario": "2026-03-10 10:00:00",
+  "tratamiento": "Control ortodoncia y toma de fotografías",
+  "pagoFK": 157
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba10"
+  },
+  "idCity": 158,
+  "odontologoFK": 2,
+  "paciente": 58,
+  "horario": "2026-03-18 08:00:00",
+  "tratamiento": "Endodoncia segundo molar con anatomía compleja",
+  "pagoFK": 158
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba11"
+  },
+  "idCity": 159,
+  "odontologoFK": 3,
+  "paciente": 59,
+  "horario": "2026-03-28 11:30:00",
+  "tratamiento": "Cirugía periodontal de regeneración ósea",
+  "pagoFK": 159
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba12"
+  },
+  "idCity": 160,
+  "odontologoFK": 4,
+  "paciente": 60,
+  "horario": "2026-04-01 09:30:00",
+  "tratamiento": "Extracción molar con elevación de seno maxilar",
+  "pagoFK": 160
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba13"
+  },
+  "idCity": 161,
+  "odontologoFK": 1,
+  "paciente": 61,
+  "horario": "2022-03-10 08:00:00",
+  "tratamiento": "Instalación brackets primera consulta",
+  "pagoFK": 161
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba14"
+  },
+  "idCity": 162,
+  "odontologoFK": 2,
+  "paciente": 62,
+  "horario": "2022-05-20 09:00:00",
+  "tratamiento": "Endodoncia molar inferior por trauma",
+  "pagoFK": 162
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba15"
+  },
+  "idCity": 163,
+  "odontologoFK": 3,
+  "paciente": 63,
+  "horario": "2022-07-15 10:30:00",
+  "tratamiento": "Raspaje y alisado radicular inicial",
+  "pagoFK": 163
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba16"
+  },
+  "idCity": 164,
+  "odontologoFK": 4,
+  "paciente": 64,
+  "horario": "2022-09-05 08:00:00",
+  "tratamiento": "Control implante región 46",
+  "pagoFK": 164
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba17"
+  },
+  "idCity": 165,
+  "odontologoFK": 1,
+  "paciente": 65,
+  "horario": "2022-11-18 09:30:00",
+  "tratamiento": "Ajuste brackets y elásticos intermaxilares",
+  "pagoFK": 165
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba18"
+  },
+  "idCity": 166,
+  "odontologoFK": 2,
+  "paciente": 66,
+  "horario": "2023-01-25 11:00:00",
+  "tratamiento": "Endodoncia molar superior con cuatro conductos",
+  "pagoFK": 166
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba19"
+  },
+  "idCity": 167,
+  "odontologoFK": 3,
+  "paciente": 67,
+  "horario": "2023-03-08 08:30:00",
+  "tratamiento": "Mantenimiento periodontal con desbridamiento",
+  "pagoFK": 167
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba1a"
+  },
+  "idCity": 168,
+  "odontologoFK": 4,
+  "paciente": 68,
+  "horario": "2023-05-20 09:00:00",
+  "tratamiento": "Extracción quirúrgica molar retenido",
+  "pagoFK": 168
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba1b"
+  },
+  "idCity": 169,
+  "odontologoFK": 1,
+  "paciente": 69,
+  "horario": "2023-07-12 10:00:00",
+  "tratamiento": "Control ortodoncia adulto mayor",
+  "pagoFK": 169
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba1c"
+  },
+  "idCity": 170,
+  "odontologoFK": 2,
+  "paciente": 70,
+  "horario": "2023-09-25 08:00:00",
+  "tratamiento": "Endodoncia pieza con reabsorción radicular",
+  "pagoFK": 170
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba1d"
+  },
+  "idCity": 171,
+  "odontologoFK": 3,
+  "paciente": 71,
+  "horario": "2023-11-08 11:30:00",
+  "tratamiento": "Curetaje cerrado con irrigación de clorhexidina",
+  "pagoFK": 171
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba1e"
+  },
+  "idCity": 172,
+  "odontologoFK": 4,
+  "paciente": 72,
+  "horario": "2024-01-20 09:30:00",
+  "tratamiento": "Profilaxis y aplicación de flúor profesional",
+  "pagoFK": 172
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba1f"
+  },
+  "idCity": 173,
+  "odontologoFK": 1,
+  "paciente": 73,
+  "horario": "2024-03-10 08:00:00",
+  "tratamiento": "Brackets ajuste y control radiográfico",
+  "pagoFK": 173
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba20"
+  },
+  "idCity": 174,
+  "odontologoFK": 2,
+  "paciente": 74,
+  "horario": "2024-05-22 10:00:00",
+  "tratamiento": "Endodoncia molar inferior con obturación termoplástica",
+  "pagoFK": 174
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba21"
+  },
+  "idCity": 175,
+  "odontologoFK": 3,
+  "paciente": 75,
+  "horario": "2024-07-08 09:00:00",
+  "tratamiento": "Raspaje subgingival con antibiótico local",
+  "pagoFK": 175
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba22"
+  },
+  "idCity": 176,
+  "odontologoFK": 4,
+  "paciente": 76,
+  "horario": "2024-09-18 08:30:00",
+  "tratamiento": "Exodoncia premolar con restos radiculares",
+  "pagoFK": 176
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba23"
+  },
+  "idCity": 177,
+  "odontologoFK": 1,
+  "paciente": 77,
+  "horario": "2024-11-05 11:00:00",
+  "tratamiento": "Retiro brackets y toma de modelos finales",
+  "pagoFK": 177
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba24"
+  },
+  "idCity": 178,
+  "odontologoFK": 2,
+  "paciente": 78,
+  "horario": "2025-01-20 09:00:00",
+  "tratamiento": "Endodoncia canino superior con conducto curvo",
+  "pagoFK": 178
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba25"
+  },
+  "idCity": 179,
+  "odontologoFK": 3,
+  "paciente": 79,
+  "horario": "2025-03-10 10:30:00",
+  "tratamiento": "Mantenimiento periodontal con evaluación ósea",
+  "pagoFK": 179
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba26"
+  },
+  "idCity": 180,
+  "odontologoFK": 4,
+  "paciente": 80,
+  "horario": "2025-05-22 08:00:00",
+  "tratamiento": "Control de maloclusión en adolescente",
+  "pagoFK": 180
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba27"
+  },
+  "idCity": 181,
+  "odontologoFK": 1,
+  "paciente": 81,
+  "horario": "2025-07-08 09:30:00",
+  "tratamiento": "Alineadores control y refinamiento",
+  "pagoFK": 181
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba28"
+  },
+  "idCity": 182,
+  "odontologoFK": 2,
+  "paciente": 82,
+  "horario": "2025-09-18 11:00:00",
+  "tratamiento": "Endodoncia molar con cámara calcificada",
+  "pagoFK": 182
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba29"
+  },
+  "idCity": 183,
+  "odontologoFK": 3,
+  "paciente": 83,
+  "horario": "2025-11-05 08:30:00",
+  "tratamiento": "Raspaje y alisado con perioscopia",
+  "pagoFK": 183
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba2a"
+  },
+  "idCity": 184,
+  "odontologoFK": 4,
+  "paciente": 84,
+  "horario": "2026-01-20 09:00:00",
+  "tratamiento": "Extracción molar superior con sinusitis maxilar",
+  "pagoFK": 184
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba2b"
+  },
+  "idCity": 185,
+  "odontologoFK": 1,
+  "paciente": 85,
+  "horario": "2022-04-25 10:00:00",
+  "tratamiento": "Instalación brackets en adulto mayor",
+  "pagoFK": 185
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba2c"
+  },
+  "idCity": 186,
+  "odontologoFK": 2,
+  "paciente": 86,
+  "horario": "2022-08-10 08:00:00",
+  "tratamiento": "Endodoncia molar con absceso crónico",
+  "pagoFK": 186
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba2d"
+  },
+  "idCity": 187,
+  "odontologoFK": 3,
+  "paciente": 87,
+  "horario": "2022-12-05 11:30:00",
+  "tratamiento": "Cirugía periodontal con injerto de tejido blando",
+  "pagoFK": 187
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba2e"
+  },
+  "idCity": 188,
+  "odontologoFK": 4,
+  "paciente": 88,
+  "horario": "2023-04-18 09:30:00",
+  "tratamiento": "Control postoperatorio extracción múltiple",
+  "pagoFK": 188
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba2f"
+  },
+  "idCity": 189,
+  "odontologoFK": 1,
+  "paciente": 89,
+  "horario": "2023-08-08 08:00:00",
+  "tratamiento": "Toma de impresiones para brackets",
+  "pagoFK": 189
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba30"
+  },
+  "idCity": 190,
+  "odontologoFK": 2,
+  "paciente": 90,
+  "horario": "2023-12-20 10:00:00",
+  "tratamiento": "Endodoncia de urgencia pieza necrótica",
+  "pagoFK": 190
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba31"
+  },
+  "idCity": 191,
+  "odontologoFK": 3,
+  "paciente": 91,
+  "horario": "2024-04-10 09:00:00",
+  "tratamiento": "Mantenimiento periodontal y revisión prótesis",
+  "pagoFK": 191
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba32"
+  },
+  "idCity": 192,
+  "odontologoFK": 4,
+  "paciente": 92,
+  "horario": "2024-08-22 08:30:00",
+  "tratamiento": "Profilaxis semestral y control de higiene",
+  "pagoFK": 192
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba33"
+  },
+  "idCity": 193,
+  "odontologoFK": 1,
+  "paciente": 93,
+  "horario": "2024-12-08 11:00:00",
+  "tratamiento": "Ajuste alineadores y control de espacios",
+  "pagoFK": 193
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba34"
+  },
+  "idCity": 194,
+  "odontologoFK": 2,
+  "paciente": 94,
+  "horario": "2025-04-20 09:00:00",
+  "tratamiento": "Endodoncia molar inferior con instrucción rotatoria",
+  "pagoFK": 194
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba35"
+  },
+  "idCity": 195,
+  "odontologoFK": 3,
+  "paciente": 95,
+  "horario": "2025-08-10 10:30:00",
+  "tratamiento": "Raspaje y alisado urgente por periodontitis aguda",
+  "pagoFK": 195
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba36"
+  },
+  "idCity": 196,
+  "odontologoFK": 4,
+  "paciente": 96,
+  "horario": "2025-12-22 08:00:00",
+  "tratamiento": "Extracción diente temporal persistente",
+  "pagoFK": 196
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba37"
+  },
+  "idCity": 197,
+  "odontologoFK": 1,
+  "paciente": 97,
+  "horario": "2026-02-08 09:30:00",
+  "tratamiento": "Control ortodoncia y evaluación de torque",
+  "pagoFK": 197
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba38"
+  },
+  "idCity": 198,
+  "odontologoFK": 2,
+  "paciente": 98,
+  "horario": "2026-03-20 11:00:00",
+  "tratamiento": "Endodoncia segundo molar con dos conductos",
+  "pagoFK": 198
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba39"
+  },
+  "idCity": 199,
+  "odontologoFK": 3,
+  "paciente": 99,
+  "horario": "2026-04-02 08:30:00",
+  "tratamiento": "Mantenimiento periodontal anual",
+  "pagoFK": 199
+},
+{
+  "_id": {
+    "$oid": "69f8e45310d5401b0d6dba3a"
+  },
+  "idCity": 200,
+  "odontologoFK": 4,
+  "paciente": 100,
+  "horario": "2026-04-08 09:00:00",
+  "tratamiento": "Profilaxis y sellantes preventivos",
+  "pagoFK": 200
+}]

@@ -1,0 +1,2400 @@
+[{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0a0"
+  },
+  "idPago": 1,
+  "fecha": {
+    "$date": "2022-01-12T00:00:00.000Z"
+  },
+  "monto": 80000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0a1"
+  },
+  "idPago": 2,
+  "fecha": {
+    "$date": "2022-01-17T00:00:00.000Z"
+  },
+  "monto": 150000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0a2"
+  },
+  "idPago": 3,
+  "fecha": {
+    "$date": "2022-02-03T00:00:00.000Z"
+  },
+  "monto": 120000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0a3"
+  },
+  "idPago": 4,
+  "fecha": {
+    "$date": "2022-02-12T00:00:00.000Z"
+  },
+  "monto": 200000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0a4"
+  },
+  "idPago": 5,
+  "fecha": {
+    "$date": "2022-02-22T00:00:00.000Z"
+  },
+  "monto": 60000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0a5"
+  },
+  "idPago": 6,
+  "fecha": {
+    "$date": "2022-03-07T00:00:00.000Z"
+  },
+  "monto": 180000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0a6"
+  },
+  "idPago": 7,
+  "fecha": {
+    "$date": "2022-03-14T00:00:00.000Z"
+  },
+  "monto": 90000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0a7"
+  },
+  "idPago": 8,
+  "fecha": {
+    "$date": "2022-03-22T00:00:00.000Z"
+  },
+  "monto": 110000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0a8"
+  },
+  "idPago": 9,
+  "fecha": {
+    "$date": "2022-04-03T00:00:00.000Z"
+  },
+  "monto": 75000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0a9"
+  },
+  "idPago": 10,
+  "fecha": {
+    "$date": "2022-04-12T00:00:00.000Z"
+  },
+  "monto": 140000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0aa"
+  },
+  "idPago": 11,
+  "fecha": {
+    "$date": "2022-04-20T00:00:00.000Z"
+  },
+  "monto": 85000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0ab"
+  },
+  "idPago": 12,
+  "fecha": {
+    "$date": "2022-05-04T00:00:00.000Z"
+  },
+  "monto": 160000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0ac"
+  },
+  "idPago": 13,
+  "fecha": {
+    "$date": "2022-05-17T00:00:00.000Z"
+  },
+  "monto": 95000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0ad"
+  },
+  "idPago": 14,
+  "fecha": {
+    "$date": "2022-05-24T00:00:00.000Z"
+  },
+  "monto": 210000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0ae"
+  },
+  "idPago": 15,
+  "fecha": {
+    "$date": "2022-06-03T00:00:00.000Z"
+  },
+  "monto": 70000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0af"
+  },
+  "idPago": 16,
+  "fecha": {
+    "$date": "2022-06-12T00:00:00.000Z"
+  },
+  "monto": 130000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0b0"
+  },
+  "idPago": 17,
+  "fecha": {
+    "$date": "2022-06-22T00:00:00.000Z"
+  },
+  "monto": 88000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0b1"
+  },
+  "idPago": 18,
+  "fecha": {
+    "$date": "2022-07-07T00:00:00.000Z"
+  },
+  "monto": 175000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0b2"
+  },
+  "idPago": 19,
+  "fecha": {
+    "$date": "2022-07-17T00:00:00.000Z"
+  },
+  "monto": 65000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0b3"
+  },
+  "idPago": 20,
+  "fecha": {
+    "$date": "2022-07-27T00:00:00.000Z"
+  },
+  "monto": 145000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0b4"
+  },
+  "idPago": 21,
+  "fecha": {
+    "$date": "2022-08-04T00:00:00.000Z"
+  },
+  "monto": 92000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0b5"
+  },
+  "idPago": 22,
+  "fecha": {
+    "$date": "2022-08-14T00:00:00.000Z"
+  },
+  "monto": 190000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0b6"
+  },
+  "idPago": 23,
+  "fecha": {
+    "$date": "2022-08-24T00:00:00.000Z"
+  },
+  "monto": 78000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0b7"
+  },
+  "idPago": 24,
+  "fecha": {
+    "$date": "2022-09-03T00:00:00.000Z"
+  },
+  "monto": 115000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0b8"
+  },
+  "idPago": 25,
+  "fecha": {
+    "$date": "2022-09-12T00:00:00.000Z"
+  },
+  "monto": 135000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0b9"
+  },
+  "idPago": 26,
+  "fecha": {
+    "$date": "2022-09-22T00:00:00.000Z"
+  },
+  "monto": 220000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0ba"
+  },
+  "idPago": 27,
+  "fecha": {
+    "$date": "2022-10-05T00:00:00.000Z"
+  },
+  "monto": 82000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0bb"
+  },
+  "idPago": 28,
+  "fecha": {
+    "$date": "2022-10-14T00:00:00.000Z"
+  },
+  "monto": 168000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0bc"
+  },
+  "idPago": 29,
+  "fecha": {
+    "$date": "2022-10-24T00:00:00.000Z"
+  },
+  "monto": 98000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0bd"
+  },
+  "idPago": 30,
+  "fecha": {
+    "$date": "2022-11-03T00:00:00.000Z"
+  },
+  "monto": 125000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0be"
+  },
+  "idPago": 31,
+  "fecha": {
+    "$date": "2022-11-12T00:00:00.000Z"
+  },
+  "monto": 73000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0bf"
+  },
+  "idPago": 32,
+  "fecha": {
+    "$date": "2022-11-22T00:00:00.000Z"
+  },
+  "monto": 185000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0c0"
+  },
+  "idPago": 33,
+  "fecha": {
+    "$date": "2022-12-03T00:00:00.000Z"
+  },
+  "monto": 105000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0c1"
+  },
+  "idPago": 34,
+  "fecha": {
+    "$date": "2022-12-14T00:00:00.000Z"
+  },
+  "monto": 195000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0c2"
+  },
+  "idPago": 35,
+  "fecha": {
+    "$date": "2022-12-24T00:00:00.000Z"
+  },
+  "monto": 67000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0c3"
+  },
+  "idPago": 36,
+  "fecha": {
+    "$date": "2023-01-11T00:00:00.000Z"
+  },
+  "monto": 142000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0c4"
+  },
+  "idPago": 37,
+  "fecha": {
+    "$date": "2023-01-22T00:00:00.000Z"
+  },
+  "monto": 88000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0c5"
+  },
+  "idPago": 38,
+  "fecha": {
+    "$date": "2023-02-03T00:00:00.000Z"
+  },
+  "monto": 215000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0c6"
+  },
+  "idPago": 39,
+  "fecha": {
+    "$date": "2023-02-12T00:00:00.000Z"
+  },
+  "monto": 77000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0c7"
+  },
+  "idPago": 40,
+  "fecha": {
+    "$date": "2023-02-22T00:00:00.000Z"
+  },
+  "monto": 158000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0c8"
+  },
+  "idPago": 41,
+  "fecha": {
+    "$date": "2023-03-03T00:00:00.000Z"
+  },
+  "monto": 93000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0c9"
+  },
+  "idPago": 42,
+  "fecha": {
+    "$date": "2023-03-14T00:00:00.000Z"
+  },
+  "monto": 172000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0ca"
+  },
+  "idPago": 43,
+  "fecha": {
+    "$date": "2023-03-24T00:00:00.000Z"
+  },
+  "monto": 86000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0cb"
+  },
+  "idPago": 44,
+  "fecha": {
+    "$date": "2023-04-03T00:00:00.000Z"
+  },
+  "monto": 128000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0cc"
+  },
+  "idPago": 45,
+  "fecha": {
+    "$date": "2023-04-14T00:00:00.000Z"
+  },
+  "monto": 110000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0cd"
+  },
+  "idPago": 46,
+  "fecha": {
+    "$date": "2023-04-24T00:00:00.000Z"
+  },
+  "monto": 235000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0ce"
+  },
+  "idPago": 47,
+  "fecha": {
+    "$date": "2023-05-04T00:00:00.000Z"
+  },
+  "monto": 72000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0cf"
+  },
+  "idPago": 48,
+  "fecha": {
+    "$date": "2023-05-14T00:00:00.000Z"
+  },
+  "monto": 165000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0d0"
+  },
+  "idPago": 49,
+  "fecha": {
+    "$date": "2023-05-24T00:00:00.000Z"
+  },
+  "monto": 102000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0d1"
+  },
+  "idPago": 50,
+  "fecha": {
+    "$date": "2023-06-03T00:00:00.000Z"
+  },
+  "monto": 188000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0d2"
+  },
+  "idPago": 51,
+  "fecha": {
+    "$date": "2023-06-12T00:00:00.000Z"
+  },
+  "monto": 81000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0d3"
+  },
+  "idPago": 52,
+  "fecha": {
+    "$date": "2023-06-22T00:00:00.000Z"
+  },
+  "monto": 148000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0d4"
+  },
+  "idPago": 53,
+  "fecha": {
+    "$date": "2023-07-03T00:00:00.000Z"
+  },
+  "monto": 96000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0d5"
+  },
+  "idPago": 54,
+  "fecha": {
+    "$date": "2023-07-14T00:00:00.000Z"
+  },
+  "monto": 205000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0d6"
+  },
+  "idPago": 55,
+  "fecha": {
+    "$date": "2023-07-24T00:00:00.000Z"
+  },
+  "monto": 74000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0d7"
+  },
+  "idPago": 56,
+  "fecha": {
+    "$date": "2023-08-03T00:00:00.000Z"
+  },
+  "monto": 138000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0d8"
+  },
+  "idPago": 57,
+  "fecha": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "monto": 118000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0d9"
+  },
+  "idPago": 58,
+  "fecha": {
+    "$date": "2023-08-24T00:00:00.000Z"
+  },
+  "monto": 225000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0da"
+  },
+  "idPago": 59,
+  "fecha": {
+    "$date": "2023-09-03T00:00:00.000Z"
+  },
+  "monto": 83000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0db"
+  },
+  "idPago": 60,
+  "fecha": {
+    "$date": "2023-09-14T00:00:00.000Z"
+  },
+  "monto": 155000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0dc"
+  },
+  "idPago": 61,
+  "fecha": {
+    "$date": "2023-09-24T00:00:00.000Z"
+  },
+  "monto": 107000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0dd"
+  },
+  "idPago": 62,
+  "fecha": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "monto": 198000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0de"
+  },
+  "idPago": 63,
+  "fecha": {
+    "$date": "2023-10-14T00:00:00.000Z"
+  },
+  "monto": 76000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0df"
+  },
+  "idPago": 64,
+  "fecha": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "monto": 162000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0e0"
+  },
+  "idPago": 65,
+  "fecha": {
+    "$date": "2023-11-03T00:00:00.000Z"
+  },
+  "monto": 91000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0e1"
+  },
+  "idPago": 66,
+  "fecha": {
+    "$date": "2023-11-14T00:00:00.000Z"
+  },
+  "monto": 178000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0e2"
+  },
+  "idPago": 67,
+  "fecha": {
+    "$date": "2023-11-24T00:00:00.000Z"
+  },
+  "monto": 68000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0e3"
+  },
+  "idPago": 68,
+  "fecha": {
+    "$date": "2023-12-03T00:00:00.000Z"
+  },
+  "monto": 132000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0e4"
+  },
+  "idPago": 69,
+  "fecha": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "monto": 115000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0e5"
+  },
+  "idPago": 70,
+  "fecha": {
+    "$date": "2023-12-24T00:00:00.000Z"
+  },
+  "monto": 242000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0e6"
+  },
+  "idPago": 71,
+  "fecha": {
+    "$date": "2024-01-12T00:00:00.000Z"
+  },
+  "monto": 85000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0e7"
+  },
+  "idPago": 72,
+  "fecha": {
+    "$date": "2024-01-22T00:00:00.000Z"
+  },
+  "monto": 172000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0e8"
+  },
+  "idPago": 73,
+  "fecha": {
+    "$date": "2024-02-03T00:00:00.000Z"
+  },
+  "monto": 99000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0e9"
+  },
+  "idPago": 74,
+  "fecha": {
+    "$date": "2024-02-14T00:00:00.000Z"
+  },
+  "monto": 195000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0ea"
+  },
+  "idPago": 75,
+  "fecha": {
+    "$date": "2024-02-24T00:00:00.000Z"
+  },
+  "monto": 71000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0eb"
+  },
+  "idPago": 76,
+  "fecha": {
+    "$date": "2024-03-03T00:00:00.000Z"
+  },
+  "monto": 145000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0ec"
+  },
+  "idPago": 77,
+  "fecha": {
+    "$date": "2024-03-14T00:00:00.000Z"
+  },
+  "monto": 112000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0ed"
+  },
+  "idPago": 78,
+  "fecha": {
+    "$date": "2024-03-24T00:00:00.000Z"
+  },
+  "monto": 218000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0ee"
+  },
+  "idPago": 79,
+  "fecha": {
+    "$date": "2024-04-03T00:00:00.000Z"
+  },
+  "monto": 80000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0ef"
+  },
+  "idPago": 80,
+  "fecha": {
+    "$date": "2024-04-14T00:00:00.000Z"
+  },
+  "monto": 158000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0f0"
+  },
+  "idPago": 81,
+  "fecha": {
+    "$date": "2024-04-24T00:00:00.000Z"
+  },
+  "monto": 104000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0f1"
+  },
+  "idPago": 82,
+  "fecha": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "monto": 185000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0f2"
+  },
+  "idPago": 83,
+  "fecha": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "monto": 75000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0f3"
+  },
+  "idPago": 84,
+  "fecha": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "monto": 140000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0f4"
+  },
+  "idPago": 85,
+  "fecha": {
+    "$date": "2024-06-03T00:00:00.000Z"
+  },
+  "monto": 122000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0f5"
+  },
+  "idPago": 86,
+  "fecha": {
+    "$date": "2024-06-14T00:00:00.000Z"
+  },
+  "monto": 210000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0f6"
+  },
+  "idPago": 87,
+  "fecha": {
+    "$date": "2024-06-24T00:00:00.000Z"
+  },
+  "monto": 88000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0f7"
+  },
+  "idPago": 88,
+  "fecha": {
+    "$date": "2024-07-03T00:00:00.000Z"
+  },
+  "monto": 168000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0f8"
+  },
+  "idPago": 89,
+  "fecha": {
+    "$date": "2024-07-14T00:00:00.000Z"
+  },
+  "monto": 95000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0f9"
+  },
+  "idPago": 90,
+  "fecha": {
+    "$date": "2024-07-24T00:00:00.000Z"
+  },
+  "monto": 228000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0fa"
+  },
+  "idPago": 91,
+  "fecha": {
+    "$date": "2024-08-03T00:00:00.000Z"
+  },
+  "monto": 79000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0fb"
+  },
+  "idPago": 92,
+  "fecha": {
+    "$date": "2024-08-14T00:00:00.000Z"
+  },
+  "monto": 152000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0fc"
+  },
+  "idPago": 93,
+  "fecha": {
+    "$date": "2024-08-24T00:00:00.000Z"
+  },
+  "monto": 108000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0fd"
+  },
+  "idPago": 94,
+  "fecha": {
+    "$date": "2024-09-03T00:00:00.000Z"
+  },
+  "monto": 192000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0fe"
+  },
+  "idPago": 95,
+  "fecha": {
+    "$date": "2024-09-14T00:00:00.000Z"
+  },
+  "monto": 84000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc0ff"
+  },
+  "idPago": 96,
+  "fecha": {
+    "$date": "2024-09-24T00:00:00.000Z"
+  },
+  "monto": 165000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc100"
+  },
+  "idPago": 97,
+  "fecha": {
+    "$date": "2024-10-03T00:00:00.000Z"
+  },
+  "monto": 97000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc101"
+  },
+  "idPago": 98,
+  "fecha": {
+    "$date": "2024-10-14T00:00:00.000Z"
+  },
+  "monto": 205000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc102"
+  },
+  "idPago": 99,
+  "fecha": {
+    "$date": "2024-10-24T00:00:00.000Z"
+  },
+  "monto": 73000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc103"
+  },
+  "idPago": 100,
+  "fecha": {
+    "$date": "2024-11-03T00:00:00.000Z"
+  },
+  "monto": 178000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc104"
+  },
+  "idPago": 101,
+  "fecha": {
+    "$date": "2024-11-14T00:00:00.000Z"
+  },
+  "monto": 118000,
+  "metodoPago": "Transferencia",
+  "estado": "Pendiente"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc105"
+  },
+  "idPago": 102,
+  "fecha": {
+    "$date": "2024-11-24T00:00:00.000Z"
+  },
+  "monto": 235000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc106"
+  },
+  "idPago": 103,
+  "fecha": {
+    "$date": "2024-12-03T00:00:00.000Z"
+  },
+  "monto": 82000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc107"
+  },
+  "idPago": 104,
+  "fecha": {
+    "$date": "2024-12-14T00:00:00.000Z"
+  },
+  "monto": 155000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pendiente"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc108"
+  },
+  "idPago": 105,
+  "fecha": {
+    "$date": "2024-12-24T00:00:00.000Z"
+  },
+  "monto": 101000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc109"
+  },
+  "idPago": 106,
+  "fecha": {
+    "$date": "2025-01-05T00:00:00.000Z"
+  },
+  "monto": 188000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc10a"
+  },
+  "idPago": 107,
+  "fecha": {
+    "$date": "2025-01-15T00:00:00.000Z"
+  },
+  "monto": 76000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc10b"
+  },
+  "idPago": 108,
+  "fecha": {
+    "$date": "2025-01-25T00:00:00.000Z"
+  },
+  "monto": 142000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc10c"
+  },
+  "idPago": 109,
+  "fecha": {
+    "$date": "2025-02-05T00:00:00.000Z"
+  },
+  "monto": 113000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc10d"
+  },
+  "idPago": 110,
+  "fecha": {
+    "$date": "2025-02-15T00:00:00.000Z"
+  },
+  "monto": 222000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc10e"
+  },
+  "idPago": 111,
+  "fecha": {
+    "$date": "2025-02-25T00:00:00.000Z"
+  },
+  "monto": 87000,
+  "metodoPago": "Efectivo",
+  "estado": "Pendiente"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc10f"
+  },
+  "idPago": 112,
+  "fecha": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  },
+  "monto": 162000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc110"
+  },
+  "idPago": 113,
+  "fecha": {
+    "$date": "2025-03-15T00:00:00.000Z"
+  },
+  "monto": 98000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc111"
+  },
+  "idPago": 114,
+  "fecha": {
+    "$date": "2025-03-25T00:00:00.000Z"
+  },
+  "monto": 198000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc112"
+  },
+  "idPago": 115,
+  "fecha": {
+    "$date": "2025-04-05T00:00:00.000Z"
+  },
+  "monto": 74000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc113"
+  },
+  "idPago": 116,
+  "fecha": {
+    "$date": "2025-04-15T00:00:00.000Z"
+  },
+  "monto": 148000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc114"
+  },
+  "idPago": 117,
+  "fecha": {
+    "$date": "2025-04-25T00:00:00.000Z"
+  },
+  "monto": 115000,
+  "metodoPago": "Transferencia",
+  "estado": "Pendiente"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc115"
+  },
+  "idPago": 118,
+  "fecha": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "monto": 215000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc116"
+  },
+  "idPago": 119,
+  "fecha": {
+    "$date": "2025-05-15T00:00:00.000Z"
+  },
+  "monto": 89000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc117"
+  },
+  "idPago": 120,
+  "fecha": {
+    "$date": "2025-05-25T00:00:00.000Z"
+  },
+  "monto": 172000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc118"
+  },
+  "idPago": 121,
+  "fecha": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "monto": 103000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc119"
+  },
+  "idPago": 122,
+  "fecha": {
+    "$date": "2025-06-15T00:00:00.000Z"
+  },
+  "monto": 195000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc11a"
+  },
+  "idPago": 123,
+  "fecha": {
+    "$date": "2025-06-25T00:00:00.000Z"
+  },
+  "monto": 78000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc11b"
+  },
+  "idPago": 124,
+  "fecha": {
+    "$date": "2025-07-05T00:00:00.000Z"
+  },
+  "monto": 135000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc11c"
+  },
+  "idPago": 125,
+  "fecha": {
+    "$date": "2025-07-15T00:00:00.000Z"
+  },
+  "monto": 122000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc11d"
+  },
+  "idPago": 126,
+  "fecha": {
+    "$date": "2025-07-25T00:00:00.000Z"
+  },
+  "monto": 245000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc11e"
+  },
+  "idPago": 127,
+  "fecha": {
+    "$date": "2025-08-05T00:00:00.000Z"
+  },
+  "monto": 85000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc11f"
+  },
+  "idPago": 128,
+  "fecha": {
+    "$date": "2025-08-15T00:00:00.000Z"
+  },
+  "monto": 168000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pendiente"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc120"
+  },
+  "idPago": 129,
+  "fecha": {
+    "$date": "2025-08-25T00:00:00.000Z"
+  },
+  "monto": 96000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc121"
+  },
+  "idPago": 130,
+  "fecha": {
+    "$date": "2025-09-05T00:00:00.000Z"
+  },
+  "monto": 205000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc122"
+  },
+  "idPago": 131,
+  "fecha": {
+    "$date": "2025-09-15T00:00:00.000Z"
+  },
+  "monto": 72000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc123"
+  },
+  "idPago": 132,
+  "fecha": {
+    "$date": "2025-09-25T00:00:00.000Z"
+  },
+  "monto": 158000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc124"
+  },
+  "idPago": 133,
+  "fecha": {
+    "$date": "2025-10-05T00:00:00.000Z"
+  },
+  "monto": 110000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc125"
+  },
+  "idPago": 134,
+  "fecha": {
+    "$date": "2025-10-15T00:00:00.000Z"
+  },
+  "monto": 228000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc126"
+  },
+  "idPago": 135,
+  "fecha": {
+    "$date": "2025-10-25T00:00:00.000Z"
+  },
+  "monto": 83000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc127"
+  },
+  "idPago": 136,
+  "fecha": {
+    "$date": "2025-11-05T00:00:00.000Z"
+  },
+  "monto": 145000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc128"
+  },
+  "idPago": 137,
+  "fecha": {
+    "$date": "2025-11-15T00:00:00.000Z"
+  },
+  "monto": 105000,
+  "metodoPago": "Transferencia",
+  "estado": "Pendiente"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc129"
+  },
+  "idPago": 138,
+  "fecha": {
+    "$date": "2025-11-25T00:00:00.000Z"
+  },
+  "monto": 192000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc12a"
+  },
+  "idPago": 139,
+  "fecha": {
+    "$date": "2025-12-05T00:00:00.000Z"
+  },
+  "monto": 77000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc12b"
+  },
+  "idPago": 140,
+  "fecha": {
+    "$date": "2025-12-15T00:00:00.000Z"
+  },
+  "monto": 162000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc12c"
+  },
+  "idPago": 141,
+  "fecha": {
+    "$date": "2025-12-25T00:00:00.000Z"
+  },
+  "monto": 118000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc12d"
+  },
+  "idPago": 142,
+  "fecha": {
+    "$date": "2026-01-05T00:00:00.000Z"
+  },
+  "monto": 235000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc12e"
+  },
+  "idPago": 143,
+  "fecha": {
+    "$date": "2026-01-15T00:00:00.000Z"
+  },
+  "monto": 88000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc12f"
+  },
+  "idPago": 144,
+  "fecha": {
+    "$date": "2026-01-25T00:00:00.000Z"
+  },
+  "monto": 175000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc130"
+  },
+  "idPago": 145,
+  "fecha": {
+    "$date": "2026-02-05T00:00:00.000Z"
+  },
+  "monto": 102000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc131"
+  },
+  "idPago": 146,
+  "fecha": {
+    "$date": "2026-02-15T00:00:00.000Z"
+  },
+  "monto": 210000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc132"
+  },
+  "idPago": 147,
+  "fecha": {
+    "$date": "2026-02-25T00:00:00.000Z"
+  },
+  "monto": 79000,
+  "metodoPago": "Efectivo",
+  "estado": "Pendiente"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc133"
+  },
+  "idPago": 148,
+  "fecha": {
+    "$date": "2026-03-05T00:00:00.000Z"
+  },
+  "monto": 148000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc134"
+  },
+  "idPago": 149,
+  "fecha": {
+    "$date": "2026-03-15T00:00:00.000Z"
+  },
+  "monto": 125000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc135"
+  },
+  "idPago": 150,
+  "fecha": {
+    "$date": "2026-03-25T00:00:00.000Z"
+  },
+  "monto": 218000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc136"
+  },
+  "idPago": 151,
+  "fecha": {
+    "$date": "2026-01-08T00:00:00.000Z"
+  },
+  "monto": 95000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc137"
+  },
+  "idPago": 152,
+  "fecha": {
+    "$date": "2026-01-18T00:00:00.000Z"
+  },
+  "monto": 178000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc138"
+  },
+  "idPago": 153,
+  "fecha": {
+    "$date": "2026-02-02T00:00:00.000Z"
+  },
+  "monto": 108000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc139"
+  },
+  "idPago": 154,
+  "fecha": {
+    "$date": "2026-02-12T00:00:00.000Z"
+  },
+  "monto": 222000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc13a"
+  },
+  "idPago": 155,
+  "fecha": {
+    "$date": "2026-02-22T00:00:00.000Z"
+  },
+  "monto": 81000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc13b"
+  },
+  "idPago": 156,
+  "fecha": {
+    "$date": "2026-03-02T00:00:00.000Z"
+  },
+  "monto": 155000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc13c"
+  },
+  "idPago": 157,
+  "fecha": {
+    "$date": "2026-03-10T00:00:00.000Z"
+  },
+  "monto": 115000,
+  "metodoPago": "Transferencia",
+  "estado": "Pendiente"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc13d"
+  },
+  "idPago": 158,
+  "fecha": {
+    "$date": "2026-03-18T00:00:00.000Z"
+  },
+  "monto": 235000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc13e"
+  },
+  "idPago": 159,
+  "fecha": {
+    "$date": "2026-03-28T00:00:00.000Z"
+  },
+  "monto": 74000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc13f"
+  },
+  "idPago": 160,
+  "fecha": {
+    "$date": "2026-04-01T00:00:00.000Z"
+  },
+  "monto": 162000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc140"
+  },
+  "idPago": 161,
+  "fecha": {
+    "$date": "2022-03-10T00:00:00.000Z"
+  },
+  "monto": 98000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc141"
+  },
+  "idPago": 162,
+  "fecha": {
+    "$date": "2022-05-20T00:00:00.000Z"
+  },
+  "monto": 188000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc142"
+  },
+  "idPago": 163,
+  "fecha": {
+    "$date": "2022-07-15T00:00:00.000Z"
+  },
+  "monto": 72000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc143"
+  },
+  "idPago": 164,
+  "fecha": {
+    "$date": "2022-09-05T00:00:00.000Z"
+  },
+  "monto": 145000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc144"
+  },
+  "idPago": 165,
+  "fecha": {
+    "$date": "2022-11-18T00:00:00.000Z"
+  },
+  "monto": 112000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc145"
+  },
+  "idPago": 166,
+  "fecha": {
+    "$date": "2023-01-25T00:00:00.000Z"
+  },
+  "monto": 205000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc146"
+  },
+  "idPago": 167,
+  "fecha": {
+    "$date": "2023-03-08T00:00:00.000Z"
+  },
+  "monto": 86000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc147"
+  },
+  "idPago": 168,
+  "fecha": {
+    "$date": "2023-05-20T00:00:00.000Z"
+  },
+  "monto": 168000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc148"
+  },
+  "idPago": 169,
+  "fecha": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "monto": 101000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc149"
+  },
+  "idPago": 170,
+  "fecha": {
+    "$date": "2023-09-25T00:00:00.000Z"
+  },
+  "monto": 225000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc14a"
+  },
+  "idPago": 171,
+  "fecha": {
+    "$date": "2023-11-08T00:00:00.000Z"
+  },
+  "monto": 79000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc14b"
+  },
+  "idPago": 172,
+  "fecha": {
+    "$date": "2024-01-20T00:00:00.000Z"
+  },
+  "monto": 155000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc14c"
+  },
+  "idPago": 173,
+  "fecha": {
+    "$date": "2024-03-10T00:00:00.000Z"
+  },
+  "monto": 118000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc14d"
+  },
+  "idPago": 174,
+  "fecha": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "monto": 198000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc14e"
+  },
+  "idPago": 175,
+  "fecha": {
+    "$date": "2024-07-08T00:00:00.000Z"
+  },
+  "monto": 83000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc14f"
+  },
+  "idPago": 176,
+  "fecha": {
+    "$date": "2024-09-18T00:00:00.000Z"
+  },
+  "monto": 165000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc150"
+  },
+  "idPago": 177,
+  "fecha": {
+    "$date": "2024-11-05T00:00:00.000Z"
+  },
+  "monto": 107000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc151"
+  },
+  "idPago": 178,
+  "fecha": {
+    "$date": "2025-01-20T00:00:00.000Z"
+  },
+  "monto": 215000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc152"
+  },
+  "idPago": 179,
+  "fecha": {
+    "$date": "2025-03-10T00:00:00.000Z"
+  },
+  "monto": 77000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc153"
+  },
+  "idPago": 180,
+  "fecha": {
+    "$date": "2025-05-22T00:00:00.000Z"
+  },
+  "monto": 172000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pendiente"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc154"
+  },
+  "idPago": 181,
+  "fecha": {
+    "$date": "2025-07-08T00:00:00.000Z"
+  },
+  "monto": 95000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc155"
+  },
+  "idPago": 182,
+  "fecha": {
+    "$date": "2025-09-18T00:00:00.000Z"
+  },
+  "monto": 208000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc156"
+  },
+  "idPago": 183,
+  "fecha": {
+    "$date": "2025-11-05T00:00:00.000Z"
+  },
+  "monto": 81000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc157"
+  },
+  "idPago": 184,
+  "fecha": {
+    "$date": "2026-01-20T00:00:00.000Z"
+  },
+  "monto": 158000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc158"
+  },
+  "idPago": 185,
+  "fecha": {
+    "$date": "2022-04-25T00:00:00.000Z"
+  },
+  "monto": 112000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc159"
+  },
+  "idPago": 186,
+  "fecha": {
+    "$date": "2022-08-10T00:00:00.000Z"
+  },
+  "monto": 195000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc15a"
+  },
+  "idPago": 187,
+  "fecha": {
+    "$date": "2022-12-05T00:00:00.000Z"
+  },
+  "monto": 76000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc15b"
+  },
+  "idPago": 188,
+  "fecha": {
+    "$date": "2023-04-18T00:00:00.000Z"
+  },
+  "monto": 148000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc15c"
+  },
+  "idPago": 189,
+  "fecha": {
+    "$date": "2023-08-08T00:00:00.000Z"
+  },
+  "monto": 105000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc15d"
+  },
+  "idPago": 190,
+  "fecha": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "monto": 222000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc15e"
+  },
+  "idPago": 191,
+  "fecha": {
+    "$date": "2024-04-10T00:00:00.000Z"
+  },
+  "monto": 87000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc15f"
+  },
+  "idPago": 192,
+  "fecha": {
+    "$date": "2024-08-22T00:00:00.000Z"
+  },
+  "monto": 175000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc160"
+  },
+  "idPago": 193,
+  "fecha": {
+    "$date": "2024-12-08T00:00:00.000Z"
+  },
+  "monto": 98000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc161"
+  },
+  "idPago": 194,
+  "fecha": {
+    "$date": "2025-04-20T00:00:00.000Z"
+  },
+  "monto": 235000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc162"
+  },
+  "idPago": 195,
+  "fecha": {
+    "$date": "2025-08-10T00:00:00.000Z"
+  },
+  "monto": 73000,
+  "metodoPago": "Efectivo",
+  "estado": "Pendiente"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc163"
+  },
+  "idPago": 196,
+  "fecha": {
+    "$date": "2025-12-22T00:00:00.000Z"
+  },
+  "monto": 162000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc164"
+  },
+  "idPago": 197,
+  "fecha": {
+    "$date": "2026-02-08T00:00:00.000Z"
+  },
+  "monto": 115000,
+  "metodoPago": "Transferencia",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc165"
+  },
+  "idPago": 198,
+  "fecha": {
+    "$date": "2026-03-20T00:00:00.000Z"
+  },
+  "monto": 248000,
+  "metodoPago": "Tarjeta Crédito",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc166"
+  },
+  "idPago": 199,
+  "fecha": {
+    "$date": "2026-04-02T00:00:00.000Z"
+  },
+  "monto": 90000,
+  "metodoPago": "Efectivo",
+  "estado": "Pagado"
+},
+{
+  "_id": {
+    "$oid": "69f8e50c10d5401b0d6dc167"
+  },
+  "idPago": 200,
+  "fecha": {
+    "$date": "2026-04-08T00:00:00.000Z"
+  },
+  "monto": 178000,
+  "metodoPago": "Tarjeta Débito",
+  "estado": "Pendiente"
+}]

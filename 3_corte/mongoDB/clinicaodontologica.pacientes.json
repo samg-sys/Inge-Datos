@@ -1,0 +1,1773 @@
+[{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc027"
+  },
+  "idPaciente": 1,
+  "nombrePaciente": "Carlos Reyes Medina",
+  "direccionPaciente": "Carrera 2 #7-40, El Rosal, Cundinamarca",
+  "fechaNaPaciente": "04/12/2010",
+  "preexistencias": "Hipertensión arterial",
+  "alergias": "Anestésicos locales (lidocaína)",
+  "acudientePaciente": "Felipe Castro",
+  "documentoPaciente": 196699713,
+  "edadPaciente": 15,
+  "telefonoPaciente": {
+    "$numberLong": "3258509126"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc028"
+  },
+  "idPaciente": 2,
+  "nombrePaciente": "Isabella Guerrero Cárdenas",
+  "direccionPaciente": "Carrera 11 #93-70, Chapinero Alto",
+  "fechaNaPaciente": "17/10/2007",
+  "documentoPaciente": 352865762,
+  "edadPaciente": 18,
+  "telefonoPaciente": {
+    "$numberLong": "3287405367"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc029"
+  },
+  "idPaciente": 3,
+  "nombrePaciente": "Nicolás Sánchez Flores",
+  "direccionPaciente": "Carrera 22 #59-11, Barrios Unidos",
+  "fechaNaPaciente": "18/08/1963",
+  "documentoPaciente": 578054227,
+  "edadPaciente": 63,
+  "telefonoPaciente": {
+    "$numberLong": "3111663638"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc02a"
+  },
+  "idPaciente": 4,
+  "nombrePaciente": "Valeria Escobar Mendoza",
+  "direccionPaciente": "Calle 6 #32-15, Rafael Uribe",
+  "fechaNaPaciente": "08/10/1984",
+  "documentoPaciente": 159368553,
+  "edadPaciente": 42,
+  "telefonoPaciente": {
+    "$numberLong": "3112300889"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc02b"
+  },
+  "idPaciente": 5,
+  "nombrePaciente": "Sofía Peña Mendoza",
+  "direccionPaciente": "Transversal 93 #52-21, Engativá",
+  "fechaNaPaciente": "12/04/2014",
+  "acudientePaciente": "María López",
+  "documentoPaciente": 459912919,
+  "edadPaciente": 12,
+  "telefonoPaciente": {
+    "$numberLong": "3279898778"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc02c"
+  },
+  "idPaciente": 6,
+  "nombrePaciente": "David Peña Álvarez",
+  "direccionPaciente": "Calle 6 #14-22, Tenjo, Cundinamarca",
+  "fechaNaPaciente": "05/09/2008",
+  "documentoPaciente": 481619987,
+  "edadPaciente": 18,
+  "telefonoPaciente": {
+    "$numberLong": "3283774738"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc02d"
+  },
+  "idPaciente": 7,
+  "nombrePaciente": "Sofía González Ruiz",
+  "direccionPaciente": "Calle 26 #13-19, La Candelaria",
+  "fechaNaPaciente": "30/07/1955",
+  "documentoPaciente": 685765611,
+  "edadPaciente": 71,
+  "telefonoPaciente": {
+    "$numberLong": "3157076502"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc02e"
+  },
+  "idPaciente": 8,
+  "nombrePaciente": "Paola Medina Paredes",
+  "direccionPaciente": "Calle 6 #32-15, Rafael Uribe",
+  "fechaNaPaciente": "08/08/1987",
+  "alergias": "Ibuprofeno",
+  "documentoPaciente": 930054627,
+  "edadPaciente": 39,
+  "telefonoPaciente": {
+    "$numberLong": "3256640927"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc02f"
+  },
+  "idPaciente": 9,
+  "nombrePaciente": "Miguel Moreno Molina",
+  "direccionPaciente": "Calle 68 #14-40, Chapinero",
+  "fechaNaPaciente": "28/04/1983",
+  "documentoPaciente": 829521169,
+  "edadPaciente": 43,
+  "telefonoPaciente": {
+    "$numberLong": "3259957580"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc030"
+  },
+  "idPaciente": 10,
+  "nombrePaciente": "Camila Ramos Ramírez",
+  "direccionPaciente": "Carrera 66 #10-30, Fontibón",
+  "fechaNaPaciente": "01/01/2007",
+  "documentoPaciente": 984364241,
+  "edadPaciente": 19,
+  "telefonoPaciente": {
+    "$numberLong": "3100871157"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc031"
+  },
+  "idPaciente": 11,
+  "nombrePaciente": "Sergio Ortiz Delgado",
+  "direccionPaciente": "Calle 15 #9-30, Funza, Cundinamarca",
+  "fechaNaPaciente": "30/12/1981",
+  "documentoPaciente": 812973878,
+  "edadPaciente": 44,
+  "telefonoPaciente": {
+    "$numberLong": "3143365489"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc032"
+  },
+  "idPaciente": 12,
+  "nombrePaciente": "Adriana Rodríguez Ramírez",
+  "direccionPaciente": "Carrera 9 #15-30, Villavicencio, Meta",
+  "fechaNaPaciente": "19/03/1953",
+  "preexistencias": "VIH controlado",
+  "documentoPaciente": 524219931,
+  "edadPaciente": 73,
+  "telefonoPaciente": {
+    "$numberLong": "3115549169"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc033"
+  },
+  "idPaciente": 13,
+  "nombrePaciente": "Miguel Ríos Paredes",
+  "direccionPaciente": "Carrera 24 #67-11, Barrios Unidos",
+  "fechaNaPaciente": "10/07/2014",
+  "acudientePaciente": "Roberto Medina",
+  "documentoPaciente": 918681807,
+  "edadPaciente": 12,
+  "telefonoPaciente": {
+    "$numberLong": "3156854146"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc034"
+  },
+  "idPaciente": 14,
+  "nombrePaciente": "Andrea Aguilar Guerrero",
+  "direccionPaciente": "Calle 32 #14-50, Teusaquillo",
+  "fechaNaPaciente": "06/02/2016",
+  "alergias": "Aspirina",
+  "acudientePaciente": "Lucía Ramírez",
+  "documentoPaciente": 147494574,
+  "edadPaciente": 10,
+  "telefonoPaciente": {
+    "$numberLong": "3190754153"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc035"
+  },
+  "idPaciente": 15,
+  "nombrePaciente": "Pablo Martínez Ramos",
+  "direccionPaciente": "Carrera 9 #79-45, Chapinero",
+  "fechaNaPaciente": "11/02/2019",
+  "preexistencias": "Hipotiroidismo",
+  "acudientePaciente": "Diana Herrera",
+  "documentoPaciente": 608025373,
+  "edadPaciente": 7,
+  "telefonoPaciente": {
+    "$numberLong": "3279577354"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc036"
+  },
+  "idPaciente": 16,
+  "nombrePaciente": "Rafael Ríos Romero",
+  "direccionPaciente": "Calle 22 #43-12, Mártires",
+  "fechaNaPaciente": "01/12/2012",
+  "acudientePaciente": "Felipe Castro",
+  "documentoPaciente": 935675369,
+  "edadPaciente": 13,
+  "telefonoPaciente": {
+    "$numberLong": "3195106029"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc037"
+  },
+  "idPaciente": 17,
+  "nombrePaciente": "Catalina Ramos Sánchez",
+  "direccionPaciente": "Carrera 24 #67-11, Barrios Unidos",
+  "fechaNaPaciente": "18/01/2010",
+  "preexistencias": "Anemia",
+  "alergias": "Amoxicilina",
+  "acudientePaciente": "Felipe Castro",
+  "documentoPaciente": 973390270,
+  "edadPaciente": 16,
+  "telefonoPaciente": {
+    "$numberLong": "3137629899"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc038"
+  },
+  "idPaciente": 18,
+  "nombrePaciente": "Samuel Vásquez García",
+  "direccionPaciente": "Av. Ferrocarril #10-22, Ibagué, Tolima",
+  "fechaNaPaciente": "11/02/1946",
+  "alergias": "Metronidazol",
+  "documentoPaciente": 367150385,
+  "edadPaciente": 80,
+  "telefonoPaciente": {
+    "$numberLong": "3209095943"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc039"
+  },
+  "idPaciente": 19,
+  "nombrePaciente": "Nicolás Gómez Peña",
+  "direccionPaciente": "Calle 49 #34-10, Chapinero",
+  "fechaNaPaciente": "04/10/2007",
+  "preexistencias": "Artritis reumatoide",
+  "documentoPaciente": 1055118908,
+  "edadPaciente": 19,
+  "telefonoPaciente": {
+    "$numberLong": "3141552957"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc03a"
+  },
+  "idPaciente": 20,
+  "nombrePaciente": "Ana López Cárdenas",
+  "direccionPaciente": "Calle 4 #7-18, Facatativá, Cundinamarca",
+  "fechaNaPaciente": "11/07/1992",
+  "alergias": "Ibuprofeno",
+  "documentoPaciente": 348084210,
+  "edadPaciente": 34,
+  "telefonoPaciente": {
+    "$numberLong": "3115268494"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc03b"
+  },
+  "idPaciente": 21,
+  "nombrePaciente": "Claudia Mora Medina",
+  "direccionPaciente": "Calle 44 #20-35, Teusaquillo",
+  "fechaNaPaciente": "03/11/1983",
+  "documentoPaciente": 186058026,
+  "edadPaciente": 42,
+  "telefonoPaciente": {
+    "$numberLong": "3212534830"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc03c"
+  },
+  "idPaciente": 22,
+  "nombrePaciente": "Isabella Gómez Suárez",
+  "direccionPaciente": "Calle 68 #14-40, Chapinero",
+  "fechaNaPaciente": "08/09/2016",
+  "acudientePaciente": "Sandra Jiménez",
+  "documentoPaciente": 654238817,
+  "edadPaciente": 10,
+  "telefonoPaciente": {
+    "$numberLong": "3222735287"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc03d"
+  },
+  "idPaciente": 23,
+  "nombrePaciente": "Hernán Gómez Torres",
+  "direccionPaciente": "Av. Simón Bolívar #14-22, Montería, Córdoba",
+  "fechaNaPaciente": "18/11/1951",
+  "preexistencias": "Anemia",
+  "documentoPaciente": 534596786,
+  "edadPaciente": 74,
+  "telefonoPaciente": {
+    "$numberLong": "3199194173"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc03e"
+  },
+  "idPaciente": 24,
+  "nombrePaciente": "Tomás Paredes Ortiz",
+  "direccionPaciente": "Carrera 66 #10-30, Fontibón",
+  "fechaNaPaciente": "06/12/1951",
+  "preexistencias": "Hipertensión arterial",
+  "documentoPaciente": 298387975,
+  "edadPaciente": 74,
+  "telefonoPaciente": {
+    "$numberLong": "3170992030"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc03f"
+  },
+  "idPaciente": 25,
+  "nombrePaciente": "Daniel Ramos Ruiz",
+  "direccionPaciente": "Calle 57B #20-30, Chapinero",
+  "fechaNaPaciente": "26/02/1976",
+  "preexistencias": "Diabetes tipo 2",
+  "alergias": "Metronidazol",
+  "documentoPaciente": 1095357688,
+  "edadPaciente": 50,
+  "telefonoPaciente": {
+    "$numberLong": "3231139270"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc040"
+  },
+  "idPaciente": 26,
+  "nombrePaciente": "Camila Torres Gómez",
+  "direccionPaciente": "Calle 5 #7-30, Pasto, Nariño",
+  "fechaNaPaciente": "27/05/2014",
+  "preexistencias": "Hipotiroidismo",
+  "acudientePaciente": "Lucía Ramírez",
+  "documentoPaciente": 928450660,
+  "edadPaciente": 12,
+  "telefonoPaciente": {
+    "$numberLong": "3250567291"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc041"
+  },
+  "idPaciente": 27,
+  "nombrePaciente": "Camilo Torres Martínez",
+  "direccionPaciente": "Carrera 3 #8-20, La Calera, Cundinamarca",
+  "fechaNaPaciente": "02/11/2004",
+  "documentoPaciente": 778389475,
+  "edadPaciente": 21,
+  "telefonoPaciente": {
+    "$numberLong": "3156391990"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc042"
+  },
+  "idPaciente": 28,
+  "nombrePaciente": "Óscar Medina Moreno",
+  "direccionPaciente": "123 Main Street, Miami, Florida, EE.UU.",
+  "fechaNaPaciente": "11/01/1945",
+  "preexistencias": "Cardiopatía",
+  "documentoPaciente": 895395511,
+  "edadPaciente": 81,
+  "telefonoPaciente": {
+    "$numberLong": "3106653539"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc043"
+  },
+  "idPaciente": 29,
+  "nombrePaciente": "Rafael Sánchez Álvarez",
+  "direccionPaciente": "Calle 57B #20-30, Chapinero",
+  "fechaNaPaciente": "10/06/1961",
+  "documentoPaciente": 487672768,
+  "edadPaciente": 65,
+  "telefonoPaciente": {
+    "$numberLong": "3153572423"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc044"
+  },
+  "idPaciente": 30,
+  "nombrePaciente": "Tomás Castro Suárez",
+  "direccionPaciente": "Av. Circunvalar #14-20, Pereira, Risaralda",
+  "fechaNaPaciente": "18/11/2003",
+  "documentoPaciente": 609416364,
+  "edadPaciente": 22,
+  "telefonoPaciente": {
+    "$numberLong": "3194260071"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc045"
+  },
+  "idPaciente": 31,
+  "nombrePaciente": "Luis Gómez Jiménez",
+  "direccionPaciente": "Carrera 13 #85-45, Chapinero",
+  "fechaNaPaciente": "26/02/1984",
+  "documentoPaciente": 92156705,
+  "edadPaciente": 42,
+  "telefonoPaciente": {
+    "$numberLong": "3129099087"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc046"
+  },
+  "idPaciente": 32,
+  "nombrePaciente": "Nicolás Mora Castro",
+  "direccionPaciente": "Av. Circunvalar #14-20, Pereira, Risaralda",
+  "fechaNaPaciente": "24/05/2009",
+  "acudientePaciente": "Roberto Medina",
+  "documentoPaciente": 13631985,
+  "edadPaciente": 17,
+  "telefonoPaciente": {
+    "$numberLong": "3239565055"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc047"
+  },
+  "idPaciente": 33,
+  "nombrePaciente": "Laura Ramos Escobar",
+  "direccionPaciente": "Carrera 7 #8-15, Manizales, Caldas",
+  "fechaNaPaciente": "15/12/2004",
+  "documentoPaciente": 654937160,
+  "edadPaciente": 21,
+  "telefonoPaciente": {
+    "$numberLong": "3236129661"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc048"
+  },
+  "idPaciente": 34,
+  "nombrePaciente": "Sebastián Romero Álvarez",
+  "direccionPaciente": "Calle 57B #20-30, Chapinero",
+  "fechaNaPaciente": "10/01/1977",
+  "alergias": "Látex",
+  "documentoPaciente": 656284941,
+  "edadPaciente": 49,
+  "telefonoPaciente": {
+    "$numberLong": "3209004973"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc049"
+  },
+  "idPaciente": 35,
+  "nombrePaciente": "Lucía Ruiz Delgado",
+  "direccionPaciente": "Carrera 9 #5-30, Chía, Cundinamarca",
+  "fechaNaPaciente": "07/01/1993",
+  "documentoPaciente": 192097028,
+  "edadPaciente": 33,
+  "telefonoPaciente": {
+    "$numberLong": "3176178333"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc04a"
+  },
+  "idPaciente": 36,
+  "nombrePaciente": "Rafael Castro Vargas",
+  "direccionPaciente": "Calle 53 #36-78, Chapinero",
+  "fechaNaPaciente": "15/02/2021",
+  "acudientePaciente": "Carlos Gómez",
+  "documentoPaciente": 1030347521,
+  "edadPaciente": 5,
+  "telefonoPaciente": {
+    "$numberLong": "3264087607"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc04b"
+  },
+  "idPaciente": 37,
+  "nombrePaciente": "Isabella Vargas García",
+  "direccionPaciente": "Calle 100 #14-56, Chicó",
+  "fechaNaPaciente": "06/12/1957",
+  "preexistencias": "Epilepsia",
+  "documentoPaciente": 922994505,
+  "edadPaciente": 68,
+  "telefonoPaciente": {
+    "$numberLong": "3158744720"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc04c"
+  },
+  "idPaciente": 38,
+  "nombrePaciente": "Rafael Peña Aguilar",
+  "direccionPaciente": "Calle 49 #34-10, Chapinero",
+  "fechaNaPaciente": "13/08/1943",
+  "documentoPaciente": 691392169,
+  "edadPaciente": 83,
+  "telefonoPaciente": {
+    "$numberLong": "3218802399"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc04d"
+  },
+  "idPaciente": 39,
+  "nombrePaciente": "Mateo Ríos Guerrero",
+  "direccionPaciente": "Carrera 17 #102-45, Usaquén",
+  "fechaNaPaciente": "16/02/2009",
+  "acudientePaciente": "Diana Herrera",
+  "documentoPaciente": 605521585,
+  "edadPaciente": 17,
+  "telefonoPaciente": {
+    "$numberLong": "3239935353"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc04e"
+  },
+  "idPaciente": 40,
+  "nombrePaciente": "Carolina Silva Vásquez",
+  "direccionPaciente": "Av. Boyacá #12-67, Bosa",
+  "fechaNaPaciente": "29/12/2017",
+  "alergias": "Metronidazol",
+  "acudientePaciente": "Paola Torres",
+  "documentoPaciente": 506630252,
+  "edadPaciente": 8,
+  "telefonoPaciente": {
+    "$numberLong": "3202820253"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc04f"
+  },
+  "idPaciente": 41,
+  "nombrePaciente": "Sebastián Romero Álvarez",
+  "direccionPaciente": "Carrera 5 #10-15, Zipaquirá, Cundinamarca",
+  "fechaNaPaciente": "08/08/1956",
+  "alergias": "Sulfas",
+  "documentoPaciente": 51944547,
+  "edadPaciente": 70,
+  "telefonoPaciente": {
+    "$numberLong": "3254535701"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc050"
+  },
+  "idPaciente": 42,
+  "nombrePaciente": "Roberto Herrera Reyes",
+  "direccionPaciente": "Calle 6 #32-15, Rafael Uribe",
+  "fechaNaPaciente": "28/10/1995",
+  "documentoPaciente": 845064486,
+  "edadPaciente": 30,
+  "telefonoPaciente": {
+    "$numberLong": "3190229086"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc051"
+  },
+  "idPaciente": 43,
+  "nombrePaciente": "Óscar Suárez Cárdenas",
+  "direccionPaciente": "Av. NQS #40-55, Puente Aranda",
+  "fechaNaPaciente": "26/10/1984",
+  "documentoPaciente": 190275792,
+  "edadPaciente": 41,
+  "telefonoPaciente": {
+    "$numberLong": "3272536795"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc052"
+  },
+  "idPaciente": 44,
+  "nombrePaciente": "Sara Peña Silva",
+  "direccionPaciente": "Carrera 4 #6-35, Bojacá, Cundinamarca",
+  "fechaNaPaciente": "25/04/2003",
+  "preexistencias": "Hipertensión arterial",
+  "documentoPaciente": 607551532,
+  "edadPaciente": 23,
+  "telefonoPaciente": {
+    "$numberLong": "3213162947"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc053"
+  },
+  "idPaciente": 45,
+  "nombrePaciente": "Samuel González Martínez",
+  "direccionPaciente": "Calle 165 #60-10, Suba",
+  "fechaNaPaciente": "16/02/1971",
+  "alergias": "Cefalosporinas",
+  "documentoPaciente": 438123802,
+  "edadPaciente": 55,
+  "telefonoPaciente": {
+    "$numberLong": "3105470719"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc054"
+  },
+  "idPaciente": 46,
+  "nombrePaciente": "Sandra Gómez Mendoza",
+  "direccionPaciente": "Carrera 103 #25-40, Fontibón",
+  "fechaNaPaciente": "19/08/2014",
+  "preexistencias": "Diabetes tipo 2",
+  "acudientePaciente": "María López",
+  "documentoPaciente": 255957461,
+  "edadPaciente": 12,
+  "telefonoPaciente": {
+    "$numberLong": "3143960548"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc055"
+  },
+  "idPaciente": 47,
+  "nombrePaciente": "Juan Cárdenas Medina",
+  "direccionPaciente": "Calle 72 #10-34, Chapinero",
+  "fechaNaPaciente": "16/03/2017",
+  "acudientePaciente": "Lucía Ramírez",
+  "documentoPaciente": 269963764,
+  "edadPaciente": 9,
+  "telefonoPaciente": {
+    "$numberLong": "3251916362"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc056"
+  },
+  "idPaciente": 48,
+  "nombrePaciente": "Sergio Romero Soto",
+  "direccionPaciente": "Carrera 53 #72-30, Barranquilla, Atlántico",
+  "fechaNaPaciente": "16/04/2017",
+  "acudientePaciente": "Paola Torres",
+  "documentoPaciente": 997282730,
+  "edadPaciente": 9,
+  "telefonoPaciente": {
+    "$numberLong": "3289866719"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc057"
+  },
+  "idPaciente": 49,
+  "nombrePaciente": "Lucía Molina Cárdenas",
+  "direccionPaciente": "Calle Gran Vía 45, Madrid, España",
+  "fechaNaPaciente": "15/02/2009",
+  "preexistencias": "Anemia",
+  "acudientePaciente": "Diana Herrera",
+  "documentoPaciente": 196107154,
+  "edadPaciente": 17,
+  "telefonoPaciente": {
+    "$numberLong": "3174874230"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc058"
+  },
+  "idPaciente": 50,
+  "nombrePaciente": "Gabriela Silva Jiménez",
+  "direccionPaciente": "Carrera 25 #40-10, Neiva, Huila",
+  "fechaNaPaciente": "12/04/1991",
+  "preexistencias": "VIH controlado",
+  "documentoPaciente": 564807581,
+  "edadPaciente": 35,
+  "telefonoPaciente": {
+    "$numberLong": "3191359012"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc059"
+  },
+  "idPaciente": 51,
+  "nombrePaciente": "Juan Medina Romero",
+  "direccionPaciente": "Carrera 103 #25-40, Fontibón",
+  "fechaNaPaciente": "13/02/1991",
+  "documentoPaciente": 1032402165,
+  "edadPaciente": 35,
+  "telefonoPaciente": {
+    "$numberLong": "3273383238"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc05a"
+  },
+  "idPaciente": 52,
+  "nombrePaciente": "Sandra Medina Ortiz",
+  "direccionPaciente": "Carrera 7 #8-15, Manizales, Caldas",
+  "fechaNaPaciente": "19/04/1978",
+  "documentoPaciente": 1026319161,
+  "edadPaciente": 48,
+  "telefonoPaciente": {
+    "$numberLong": "3248571764"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc05b"
+  },
+  "idPaciente": 53,
+  "nombrePaciente": "Sofía Ortiz Gómez",
+  "direccionPaciente": "Calle 68 #14-40, Chapinero",
+  "fechaNaPaciente": "19/01/2011",
+  "acudientePaciente": "Roberto Medina",
+  "documentoPaciente": 687634051,
+  "edadPaciente": 15,
+  "telefonoPaciente": {
+    "$numberLong": "3132092731"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc05c"
+  },
+  "idPaciente": 54,
+  "nombrePaciente": "Claudia Castro Cruz",
+  "direccionPaciente": "Calle 18 #23-40, Cúcuta, Norte de Santander",
+  "fechaNaPaciente": "12/01/2011",
+  "preexistencias": "Diabetes tipo 2",
+  "acudientePaciente": "Roberto Medina",
+  "documentoPaciente": 659114718,
+  "edadPaciente": 15,
+  "telefonoPaciente": {
+    "$numberLong": "3103797922"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc05d"
+  },
+  "idPaciente": 55,
+  "nombrePaciente": "Sergio García Mora",
+  "direccionPaciente": "Calle 6 #14-22, Tenjo, Cundinamarca",
+  "fechaNaPaciente": "15/06/2007",
+  "preexistencias": "Diabetes tipo 2",
+  "documentoPaciente": 955899551,
+  "edadPaciente": 19,
+  "telefonoPaciente": {
+    "$numberLong": "3191457553"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc05e"
+  },
+  "idPaciente": 56,
+  "nombrePaciente": "Adriana González Mora",
+  "direccionPaciente": "Carrera 15 #85-12, Usaquén",
+  "fechaNaPaciente": "10/11/1979",
+  "documentoPaciente": 335831273,
+  "edadPaciente": 46,
+  "telefonoPaciente": {
+    "$numberLong": "3140049920"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc05f"
+  },
+  "idPaciente": 57,
+  "nombrePaciente": "Gloria Palacios Escobar",
+  "direccionPaciente": "Calle 77 #20-10, Barrios Unidos",
+  "fechaNaPaciente": "07/07/2011",
+  "preexistencias": "VIH controlado",
+  "acudientePaciente": "Diana Herrera",
+  "documentoPaciente": 826855596,
+  "edadPaciente": 15,
+  "telefonoPaciente": {
+    "$numberLong": "3220934054"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc060"
+  },
+  "idPaciente": 58,
+  "nombrePaciente": "Gabriel Ruiz Gómez",
+  "direccionPaciente": "Calle 165 #60-10, Suba",
+  "fechaNaPaciente": "01/01/1978",
+  "alergias": "Metronidazol",
+  "documentoPaciente": 525106548,
+  "edadPaciente": 48,
+  "telefonoPaciente": {
+    "$numberLong": "3146657719"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc061"
+  },
+  "idPaciente": 59,
+  "nombrePaciente": "Ana Herrera Cruz",
+  "direccionPaciente": "Carrera 43 #19-10, Barrios Unidos",
+  "fechaNaPaciente": "07/10/1974",
+  "documentoPaciente": 985024849,
+  "edadPaciente": 52,
+  "telefonoPaciente": {
+    "$numberLong": "3119107171"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc062"
+  },
+  "idPaciente": 60,
+  "nombrePaciente": "Claudia Vásquez Herrera",
+  "direccionPaciente": "Carrera 6 #11-40, Mosquera, Cundinamarca",
+  "fechaNaPaciente": "26/02/1979",
+  "preexistencias": "Asma bronquial",
+  "documentoPaciente": 315450100,
+  "edadPaciente": 47,
+  "telefonoPaciente": {
+    "$numberLong": "3119168932"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc063"
+  },
+  "idPaciente": 61,
+  "nombrePaciente": "Esteban Ortiz Suárez",
+  "direccionPaciente": "Calle 6 #14-22, Tenjo, Cundinamarca",
+  "fechaNaPaciente": "26/06/1950",
+  "preexistencias": "Diabetes tipo 2",
+  "documentoPaciente": 1070417158,
+  "edadPaciente": 76,
+  "telefonoPaciente": {
+    "$numberLong": "3217510001"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc064"
+  },
+  "idPaciente": 62,
+  "nombrePaciente": "Juan Herrera Mora",
+  "direccionPaciente": "Calle 85 #20-15, Chapinero",
+  "fechaNaPaciente": "24/10/1983",
+  "preexistencias": "Hipotiroidismo",
+  "documentoPaciente": 588770519,
+  "edadPaciente": 42,
+  "telefonoPaciente": {
+    "$numberLong": "3254685122"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc065"
+  },
+  "idPaciente": 63,
+  "nombrePaciente": "Diana Soto Pérez",
+  "direccionPaciente": "Calle Gran Vía 45, Madrid, España",
+  "fechaNaPaciente": "10/05/1993",
+  "documentoPaciente": 725774335,
+  "edadPaciente": 33,
+  "telefonoPaciente": {
+    "$numberLong": "3186183419"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc066"
+  },
+  "idPaciente": 64,
+  "nombrePaciente": "Valeria Paredes Martínez",
+  "direccionPaciente": "Calle 163 #45-20, Suba",
+  "fechaNaPaciente": "23/03/1994",
+  "preexistencias": "Enfermedad renal crónica",
+  "documentoPaciente": 552022401,
+  "edadPaciente": 32,
+  "telefonoPaciente": {
+    "$numberLong": "3186778146"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc067"
+  },
+  "idPaciente": 65,
+  "nombrePaciente": "Ángela López Castro",
+  "direccionPaciente": "Calle 39 Sur #78-10, Kennedy",
+  "fechaNaPaciente": "27/08/1989",
+  "alergias": "Látex",
+  "documentoPaciente": 1080505778,
+  "edadPaciente": 37,
+  "telefonoPaciente": {
+    "$numberLong": "3267881881"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc068"
+  },
+  "idPaciente": 66,
+  "nombrePaciente": "Claudia Rodríguez Palacios",
+  "direccionPaciente": "Calle 80 #69-10, Engativá",
+  "fechaNaPaciente": "02/01/1967",
+  "preexistencias": "Enfermedad renal crónica",
+  "alergias": "Amoxicilina",
+  "documentoPaciente": 677330844,
+  "edadPaciente": 59,
+  "telefonoPaciente": {
+    "$numberLong": "3247864721"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc069"
+  },
+  "idPaciente": 67,
+  "nombrePaciente": "Juliana Cruz Delgado",
+  "direccionPaciente": "Carrera 9 #79-45, Chapinero",
+  "fechaNaPaciente": "13/05/1974",
+  "preexistencias": "Epilepsia",
+  "alergias": "Aspirina",
+  "documentoPaciente": 1046159949,
+  "edadPaciente": 52,
+  "telefonoPaciente": {
+    "$numberLong": "3226760532"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc06a"
+  },
+  "idPaciente": 68,
+  "nombrePaciente": "Jorge Romero Ramos",
+  "direccionPaciente": "Calle 35 #28-45, Bucaramanga, Santander",
+  "fechaNaPaciente": "29/06/1952",
+  "preexistencias": "Asma bronquial",
+  "documentoPaciente": 583748917,
+  "edadPaciente": 74,
+  "telefonoPaciente": {
+    "$numberLong": "3100688606"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc06b"
+  },
+  "idPaciente": 69,
+  "nombrePaciente": "Tatiana Ríos Flores",
+  "direccionPaciente": "123 Main Street, Miami, Florida, EE.UU.",
+  "fechaNaPaciente": "18/07/2004",
+  "documentoPaciente": 820052427,
+  "edadPaciente": 22,
+  "telefonoPaciente": {
+    "$numberLong": "3222230639"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc06c"
+  },
+  "idPaciente": 70,
+  "nombrePaciente": "Isabella Romero Martínez",
+  "direccionPaciente": "Transversal 30 #56-22, Chapinero",
+  "fechaNaPaciente": "12/06/2005",
+  "documentoPaciente": 828687658,
+  "edadPaciente": 21,
+  "telefonoPaciente": {
+    "$numberLong": "3203637225"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc06d"
+  },
+  "idPaciente": 71,
+  "nombrePaciente": "Miguel Delgado Cárdenas",
+  "direccionPaciente": "Carrera 77B #50-20, Kennedy",
+  "fechaNaPaciente": "04/12/2003",
+  "documentoPaciente": 955550388,
+  "edadPaciente": 22,
+  "telefonoPaciente": {
+    "$numberLong": "3126766155"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc06e"
+  },
+  "idPaciente": 72,
+  "nombrePaciente": "Roberto Gómez Ramos",
+  "direccionPaciente": "Calle 4 #7-18, Facatativá, Cundinamarca",
+  "fechaNaPaciente": "04/05/1981",
+  "documentoPaciente": 182475834,
+  "edadPaciente": 45,
+  "telefonoPaciente": {
+    "$numberLong": "3188198652"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc06f"
+  },
+  "idPaciente": 73,
+  "nombrePaciente": "Mauricio González Medina",
+  "direccionPaciente": "Calle 8 #3-14, Gachancipá, Cundinamarca",
+  "fechaNaPaciente": "09/03/1980",
+  "alergias": "Amoxicilina",
+  "documentoPaciente": 498523064,
+  "edadPaciente": 46,
+  "telefonoPaciente": {
+    "$numberLong": "3124261017"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc070"
+  },
+  "idPaciente": 74,
+  "nombrePaciente": "Alejandro López Cruz",
+  "direccionPaciente": "Av. Primero de Mayo #22-45, Tunjuelito",
+  "fechaNaPaciente": "21/05/2002",
+  "documentoPaciente": 322608752,
+  "edadPaciente": 24,
+  "telefonoPaciente": {
+    "$numberLong": "3165551249"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc071"
+  },
+  "idPaciente": 75,
+  "nombrePaciente": "Mauricio Álvarez Escobar",
+  "direccionPaciente": "Carrera 50 #12-15, Puente Aranda",
+  "fechaNaPaciente": "24/06/1976",
+  "documentoPaciente": 317342969,
+  "edadPaciente": 50,
+  "telefonoPaciente": {
+    "$numberLong": "3162327610"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc072"
+  },
+  "idPaciente": 76,
+  "nombrePaciente": "Patricia Vásquez Moreno",
+  "direccionPaciente": "Av. Roosevelt #12-30, Cali, Valle del Cauca",
+  "fechaNaPaciente": "07/04/2019",
+  "acudientePaciente": "Felipe Castro",
+  "documentoPaciente": 652428853,
+  "edadPaciente": 7,
+  "telefonoPaciente": {
+    "$numberLong": "3271513801"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc073"
+  },
+  "idPaciente": 77,
+  "nombrePaciente": "Felipe Álvarez Mora",
+  "direccionPaciente": "Carrera 25 #40-10, Neiva, Huila",
+  "fechaNaPaciente": "13/03/2002",
+  "documentoPaciente": 644003224,
+  "edadPaciente": 24,
+  "telefonoPaciente": {
+    "$numberLong": "3105889365"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc074"
+  },
+  "idPaciente": 78,
+  "nombrePaciente": "Valeria Cruz Herrera",
+  "direccionPaciente": "Calle 77 #20-10, Barrios Unidos",
+  "fechaNaPaciente": "11/04/1982",
+  "preexistencias": "Asma bronquial",
+  "documentoPaciente": 480308659,
+  "edadPaciente": 44,
+  "telefonoPaciente": {
+    "$numberLong": "3270890810"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc075"
+  },
+  "idPaciente": 79,
+  "nombrePaciente": "Diego Guerrero Martínez",
+  "direccionPaciente": "Av. Roosevelt #12-30, Cali, Valle del Cauca",
+  "fechaNaPaciente": "20/12/1983",
+  "documentoPaciente": 203559947,
+  "edadPaciente": 42,
+  "telefonoPaciente": {
+    "$numberLong": "3179218109"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc076"
+  },
+  "idPaciente": 80,
+  "nombrePaciente": "Valeria Moreno Gómez",
+  "direccionPaciente": "Avenida Paulista 1500, São Paulo, Brasil",
+  "fechaNaPaciente": "16/06/1955",
+  "documentoPaciente": 643811434,
+  "edadPaciente": 71,
+  "telefonoPaciente": {
+    "$numberLong": "3190923183"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc077"
+  },
+  "idPaciente": 81,
+  "nombrePaciente": "Laura Suárez García",
+  "direccionPaciente": "Calle 72 #10-34, Chapinero",
+  "fechaNaPaciente": "15/12/2008",
+  "acudientePaciente": "María López",
+  "documentoPaciente": 986645563,
+  "edadPaciente": 17,
+  "telefonoPaciente": {
+    "$numberLong": "3198941459"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc078"
+  },
+  "idPaciente": 82,
+  "nombrePaciente": "María Escobar Paredes",
+  "direccionPaciente": "Carrera 60 #Calle 13 Sur, Bosa",
+  "fechaNaPaciente": "21/08/2004",
+  "preexistencias": "Anemia",
+  "documentoPaciente": 485382438,
+  "edadPaciente": 22,
+  "telefonoPaciente": {
+    "$numberLong": "3273852863"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc079"
+  },
+  "idPaciente": 83,
+  "nombrePaciente": "Andrés Martínez Ortiz",
+  "direccionPaciente": "Av. Ciudad de Cali #68-30, Kennedy",
+  "fechaNaPaciente": "11/12/1941",
+  "alergias": "Cefalosporinas",
+  "documentoPaciente": 218718232,
+  "edadPaciente": 84,
+  "telefonoPaciente": {
+    "$numberLong": "3163028652"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc07a"
+  },
+  "idPaciente": 84,
+  "nombrePaciente": "Pablo Romero Sánchez",
+  "direccionPaciente": "Carrera 43 #19-10, Barrios Unidos",
+  "fechaNaPaciente": "24/08/1964",
+  "preexistencias": "Cardiopatía",
+  "alergias": "Cefalosporinas",
+  "documentoPaciente": 886422184,
+  "edadPaciente": 62,
+  "telefonoPaciente": {
+    "$numberLong": "3175092173"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc07b"
+  },
+  "idPaciente": 85,
+  "nombrePaciente": "Tatiana Flores López",
+  "direccionPaciente": "Calle 6 #14-22, Tenjo, Cundinamarca",
+  "fechaNaPaciente": "18/01/1998",
+  "preexistencias": "Artritis reumatoide",
+  "documentoPaciente": 272335998,
+  "edadPaciente": 28,
+  "telefonoPaciente": {
+    "$numberLong": "3222062265"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc07c"
+  },
+  "idPaciente": 86,
+  "nombrePaciente": "Isabella Torres Mora",
+  "direccionPaciente": "Calle 68 #14-40, Chapinero",
+  "fechaNaPaciente": "23/07/2012",
+  "alergias": "Ibuprofeno",
+  "acudientePaciente": "Andrés Vargas",
+  "documentoPaciente": 454867064,
+  "edadPaciente": 14,
+  "telefonoPaciente": {
+    "$numberLong": "3257406011"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc07d"
+  },
+  "idPaciente": 87,
+  "nombrePaciente": "Gabriela Vargas Torres",
+  "direccionPaciente": "Carrera 60 #Calle 13 Sur, Bosa",
+  "fechaNaPaciente": "10/01/1987",
+  "alergias": "Sulfas",
+  "documentoPaciente": 246065031,
+  "edadPaciente": 39,
+  "telefonoPaciente": {
+    "$numberLong": "3277451308"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc07e"
+  },
+  "idPaciente": 88,
+  "nombrePaciente": "María Jiménez Gómez",
+  "direccionPaciente": "Calle 15 #20-40, Cartagena, Bolívar",
+  "fechaNaPaciente": "16/05/2020",
+  "acudientePaciente": "Diana Herrera",
+  "documentoPaciente": 254060020,
+  "edadPaciente": 6,
+  "telefonoPaciente": {
+    "$numberLong": "3117061230"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc07f"
+  },
+  "idPaciente": 89,
+  "nombrePaciente": "Mauricio Martínez Aguilar",
+  "direccionPaciente": "Av. NQS #40-55, Puente Aranda",
+  "fechaNaPaciente": "07/09/2006",
+  "documentoPaciente": 76895490,
+  "edadPaciente": 20,
+  "telefonoPaciente": {
+    "$numberLong": "3116327694"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc080"
+  },
+  "idPaciente": 90,
+  "nombrePaciente": "Laura Pérez Silva",
+  "direccionPaciente": "Calle 18 #23-40, Cúcuta, Norte de Santander",
+  "fechaNaPaciente": "15/11/1981",
+  "documentoPaciente": 280994374,
+  "edadPaciente": 44,
+  "telefonoPaciente": {
+    "$numberLong": "3173824044"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc081"
+  },
+  "idPaciente": 91,
+  "nombrePaciente": "Lucía Delgado Palacios",
+  "direccionPaciente": "Av. Boyacá #64-30, Kennedy",
+  "fechaNaPaciente": "07/10/1996",
+  "documentoPaciente": 255702336,
+  "edadPaciente": 30,
+  "telefonoPaciente": {
+    "$numberLong": "3275748171"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc082"
+  },
+  "idPaciente": 92,
+  "nombrePaciente": "Andrea Herrera Romero",
+  "direccionPaciente": "Carrera 8 #12-30, La Candelaria",
+  "fechaNaPaciente": "02/06/2003",
+  "documentoPaciente": 866266548,
+  "edadPaciente": 23,
+  "telefonoPaciente": {
+    "$numberLong": "3211666371"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc083"
+  },
+  "idPaciente": 93,
+  "nombrePaciente": "Tomás Ríos González",
+  "direccionPaciente": "Calle 5 #7-30, Pasto, Nariño",
+  "fechaNaPaciente": "25/11/2017",
+  "acudientePaciente": "Carlos Gómez",
+  "documentoPaciente": 210210112,
+  "edadPaciente": 8,
+  "telefonoPaciente": {
+    "$numberLong": "3215930970"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc084"
+  },
+  "idPaciente": 94,
+  "nombrePaciente": "Patricia Ramírez Romero",
+  "direccionPaciente": "Carrera 25 #40-10, Neiva, Huila",
+  "fechaNaPaciente": "18/09/2002",
+  "preexistencias": "Asma bronquial",
+  "documentoPaciente": 918249979,
+  "edadPaciente": 24,
+  "telefonoPaciente": {
+    "$numberLong": "3293558252"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc085"
+  },
+  "idPaciente": 95,
+  "nombrePaciente": "Miguel Ríos Herrera",
+  "direccionPaciente": "Calle 10 #22-15, Medellín, Antioquia",
+  "fechaNaPaciente": "10/04/1963",
+  "documentoPaciente": 799331346,
+  "edadPaciente": 63,
+  "telefonoPaciente": {
+    "$numberLong": "3130839291"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc086"
+  },
+  "idPaciente": 96,
+  "nombrePaciente": "Mauricio Reyes Rodríguez",
+  "direccionPaciente": "Calle 39 Sur #78-10, Kennedy",
+  "fechaNaPaciente": "07/10/2013",
+  "preexistencias": "Hipotiroidismo",
+  "acudientePaciente": "Sandra Jiménez",
+  "documentoPaciente": 673539552,
+  "edadPaciente": 13,
+  "telefonoPaciente": {
+    "$numberLong": "3191220987"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc087"
+  },
+  "idPaciente": 97,
+  "nombrePaciente": "Mateo Aguilar Ruiz",
+  "direccionPaciente": "Calle 134 #7-23, Usaquén",
+  "fechaNaPaciente": "02/06/2000",
+  "documentoPaciente": 742068555,
+  "edadPaciente": 26,
+  "telefonoPaciente": {
+    "$numberLong": "3142254230"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc088"
+  },
+  "idPaciente": 98,
+  "nombrePaciente": "Pablo López Vargas",
+  "direccionPaciente": "Av. Simón Bolívar #14-22, Montería, Córdoba",
+  "fechaNaPaciente": "25/08/2014",
+  "preexistencias": "Enfermedad renal crónica",
+  "acudientePaciente": "Carlos Gómez",
+  "documentoPaciente": 116864129,
+  "edadPaciente": 12,
+  "telefonoPaciente": {
+    "$numberLong": "3280917099"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc089"
+  },
+  "idPaciente": 99,
+  "nombrePaciente": "Santiago Molina Ramírez",
+  "direccionPaciente": "Carrera 7 #110-45, Usaquén",
+  "fechaNaPaciente": "25/09/2007",
+  "alergias": "Metronidazol",
+  "documentoPaciente": 1055035878,
+  "edadPaciente": 19,
+  "telefonoPaciente": {
+    "$numberLong": "3241447797"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc08a"
+  },
+  "idPaciente": 100,
+  "nombrePaciente": "Diego Ruiz Torres",
+  "direccionPaciente": "Carrera 66 #10-30, Fontibón",
+  "fechaNaPaciente": "10/03/1970",
+  "preexistencias": "Enfermedad renal crónica",
+  "alergias": "Metronidazol",
+  "documentoPaciente": 714637393,
+  "edadPaciente": 56,
+  "telefonoPaciente": {
+    "$numberLong": "3132208053"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc08b"
+  },
+  "idPaciente": 101,
+  "nombrePaciente": "Laura Suárez Martínez",
+  "direccionPaciente": "Calle 85 #20-15, Chapinero",
+  "fechaNaPaciente": "05/06/1995",
+  "documentoPaciente": 177208675,
+  "edadPaciente": 31,
+  "telefonoPaciente": {
+    "$numberLong": "3184036572"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc08c"
+  },
+  "idPaciente": 102,
+  "nombrePaciente": "Nicolás Rodríguez Silva",
+  "direccionPaciente": "Transversal 30 #56-22, Chapinero",
+  "fechaNaPaciente": "25/08/2014",
+  "preexistencias": "Hipertensión arterial",
+  "alergias": "Codeína",
+  "acudientePaciente": "Sandra Jiménez",
+  "documentoPaciente": 998050566,
+  "edadPaciente": 12,
+  "telefonoPaciente": {
+    "$numberLong": "3285115785"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc08d"
+  },
+  "idPaciente": 103,
+  "nombrePaciente": "Catalina Ramos Herrera",
+  "direccionPaciente": "Calle 8 #3-14, Gachancipá, Cundinamarca",
+  "fechaNaPaciente": "08/01/2004",
+  "documentoPaciente": 174023462,
+  "edadPaciente": 22,
+  "telefonoPaciente": {
+    "$numberLong": "3237031813"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc08e"
+  },
+  "idPaciente": 104,
+  "nombrePaciente": "Felipe Sánchez Vargas",
+  "direccionPaciente": "Calle 49 #34-10, Chapinero",
+  "fechaNaPaciente": "09/01/2009",
+  "preexistencias": "Anemia",
+  "acudientePaciente": "Carlos Gómez",
+  "documentoPaciente": 338285367,
+  "edadPaciente": 17,
+  "telefonoPaciente": {
+    "$numberLong": "3275961861"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc08f"
+  },
+  "idPaciente": 105,
+  "nombrePaciente": "Gabriela Silva Vargas",
+  "direccionPaciente": "Calle 57B #20-30, Chapinero",
+  "fechaNaPaciente": "10/06/1995",
+  "documentoPaciente": 959634581,
+  "edadPaciente": 31,
+  "telefonoPaciente": {
+    "$numberLong": "3269486152"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc090"
+  },
+  "idPaciente": 106,
+  "nombrePaciente": "Lucía Martínez López",
+  "direccionPaciente": "Calle 35 #28-45, Bucaramanga, Santander",
+  "fechaNaPaciente": "08/03/2001",
+  "documentoPaciente": 174778569,
+  "edadPaciente": 25,
+  "telefonoPaciente": {
+    "$numberLong": "3273051337"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc091"
+  },
+  "idPaciente": 107,
+  "nombrePaciente": "Fernanda Paredes Martínez",
+  "direccionPaciente": "Calle 4 #7-18, Facatativá, Cundinamarca",
+  "fechaNaPaciente": "01/08/1994",
+  "documentoPaciente": 414241177,
+  "edadPaciente": 32,
+  "telefonoPaciente": {
+    "$numberLong": "3186309183"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc092"
+  },
+  "idPaciente": 108,
+  "nombrePaciente": "Sandra Pérez Delgado",
+  "direccionPaciente": "Calle 18 #23-40, Cúcuta, Norte de Santander",
+  "fechaNaPaciente": "02/11/1978",
+  "documentoPaciente": 542025595,
+  "edadPaciente": 47,
+  "telefonoPaciente": {
+    "$numberLong": "3289950754"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc093"
+  },
+  "idPaciente": 109,
+  "nombrePaciente": "Juliana Cruz Álvarez",
+  "direccionPaciente": "Carrera 17 #102-45, Usaquén",
+  "fechaNaPaciente": "04/04/1998",
+  "alergias": "Amoxicilina",
+  "documentoPaciente": 122454087,
+  "edadPaciente": 28,
+  "telefonoPaciente": {
+    "$numberLong": "3269352325"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc094"
+  },
+  "idPaciente": 110,
+  "nombrePaciente": "Catalina Palacios Vargas",
+  "direccionPaciente": "Carrera 19 #63-45, Chapinero",
+  "fechaNaPaciente": "07/08/2003",
+  "documentoPaciente": 313715132,
+  "edadPaciente": 23,
+  "telefonoPaciente": {
+    "$numberLong": "3193904302"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc095"
+  },
+  "idPaciente": 111,
+  "nombrePaciente": "Diego Paredes Álvarez",
+  "direccionPaciente": "123 Main Street, Miami, Florida, EE.UU.",
+  "fechaNaPaciente": "30/03/1979",
+  "documentoPaciente": 284435010,
+  "edadPaciente": 47,
+  "telefonoPaciente": {
+    "$numberLong": "3279883001"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc096"
+  },
+  "idPaciente": 112,
+  "nombrePaciente": "Viviana Mendoza Rodríguez",
+  "direccionPaciente": "Calle 53 #36-78, Chapinero",
+  "fechaNaPaciente": "13/01/2001",
+  "documentoPaciente": 469975242,
+  "edadPaciente": 25,
+  "telefonoPaciente": {
+    "$numberLong": "3191733077"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc097"
+  },
+  "idPaciente": 113,
+  "nombrePaciente": "Diego Sánchez Delgado",
+  "direccionPaciente": "Calle 49 #34-10, Chapinero",
+  "fechaNaPaciente": "09/07/1969",
+  "documentoPaciente": 91062112,
+  "edadPaciente": 57,
+  "telefonoPaciente": {
+    "$numberLong": "3277685277"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc098"
+  },
+  "idPaciente": 114,
+  "nombrePaciente": "David Escobar Moreno",
+  "direccionPaciente": "Calle 74 #11-30, Chapinero",
+  "fechaNaPaciente": "04/11/1972",
+  "alergias": "Cefalosporinas",
+  "documentoPaciente": 892312155,
+  "edadPaciente": 53,
+  "telefonoPaciente": {
+    "$numberLong": "3197790878"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc099"
+  },
+  "idPaciente": 115,
+  "nombrePaciente": "Diego Ríos Castro",
+  "direccionPaciente": "Transversal 30 #56-22, Chapinero",
+  "fechaNaPaciente": "01/08/2001",
+  "documentoPaciente": 956175724,
+  "edadPaciente": 25,
+  "telefonoPaciente": {
+    "$numberLong": "3223931274"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc09a"
+  },
+  "idPaciente": 116,
+  "nombrePaciente": "Rafael Palacios Torres",
+  "direccionPaciente": "Carrera 2 #7-40, El Rosal, Cundinamarca",
+  "fechaNaPaciente": "08/11/1960",
+  "alergias": "Anestésicos locales (lidocaína)",
+  "documentoPaciente": 1042060568,
+  "edadPaciente": 65,
+  "telefonoPaciente": {
+    "$numberLong": "3199646490"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc09b"
+  },
+  "idPaciente": 117,
+  "nombrePaciente": "Jorge Guerrero Delgado",
+  "direccionPaciente": "Calle 74 #11-30, Chapinero",
+  "fechaNaPaciente": "24/05/2015",
+  "acudientePaciente": "Diana Herrera",
+  "documentoPaciente": 206953391,
+  "edadPaciente": 11,
+  "telefonoPaciente": {
+    "$numberLong": "3159602873"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc09c"
+  },
+  "idPaciente": 118,
+  "nombrePaciente": "Isabella Álvarez Pérez",
+  "direccionPaciente": "Calle 12 #8-50, Santa Marta, Magdalena",
+  "fechaNaPaciente": "28/10/1999",
+  "documentoPaciente": 694370545,
+  "edadPaciente": 26,
+  "telefonoPaciente": {
+    "$numberLong": "3126597423"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc09d"
+  },
+  "idPaciente": 119,
+  "nombrePaciente": "Juliana Ríos Torres",
+  "direccionPaciente": "Carrera 17 #102-45, Usaquén",
+  "fechaNaPaciente": "10/06/1970",
+  "preexistencias": "Hipertensión arterial",
+  "alergias": "Aspirina",
+  "documentoPaciente": 973364334,
+  "edadPaciente": 56,
+  "telefonoPaciente": {
+    "$numberLong": "3265181290"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8e50010d5401b0d6dc09e"
+  },
+  "idPaciente": 120,
+  "nombrePaciente": "Claudia Cruz Medina",
+  "direccionPaciente": "Carrera 6 #11-40, Mosquera, Cundinamarca",
+  "fechaNaPaciente": "06/11/2005",
+  "documentoPaciente": 522044934,
+  "edadPaciente": 20,
+  "telefonoPaciente": {
+    "$numberLong": "3212696060"
+  }
+}]

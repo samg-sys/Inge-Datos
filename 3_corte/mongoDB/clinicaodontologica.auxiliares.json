@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "69f8e44310d5401b0d6db96d"
+  },
+  "idAuxiliar": 1,
+  "nombreAuxiliar": "Valentina Prado Suárez",
+  "turno": "Mañana",
+  "idEmpleado": "EMP001",
+  "activo": "Sí"
+},
+{
+  "_id": {
+    "$oid": "69f8e44310d5401b0d6db96e"
+  },
+  "idAuxiliar": 2,
+  "nombreAuxiliar": "Daniela Fuentes Mora",
+  "turno": "Tarde",
+  "idEmpleado": "EMP002",
+  "activo": "Sí"
+},
+{
+  "_id": {
+    "$oid": "69f8e44310d5401b0d6db96f"
+  },
+  "idAuxiliar": 3
+},
+{
+  "_id": {
+    "$oid": "69f8e44310d5401b0d6db970"
+  },
+  "idAuxiliar": 4
+},
+{
+  "_id": {
+    "$oid": "69f8e44310d5401b0d6db971"
+  },
+  "idAuxiliar": 5
+}]

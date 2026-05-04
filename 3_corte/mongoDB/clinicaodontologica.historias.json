@@ -1,0 +1,1440 @@
+[{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfa4"
+  },
+  "idHistoriaClinica": 1,
+  "idPaciente": 1,
+  "estado": "Activa",
+  "fechaApertura": "11/01/2025",
+  "diagnostico": "Pequeña fractura de esmalte en incisivo central",
+  "tratamiento": "Pulido y sellado con resina fluida. Control en 3 meses.",
+  "numeroCitas": 7
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfa5"
+  },
+  "idHistoriaClinica": 2,
+  "idPaciente": 2,
+  "estado": "Activa",
+  "fechaApertura": "26/12/2022",
+  "diagnostico": "Oclusión normal, tejidos blandos saludables",
+  "tratamiento": "Mantenimiento preventivo y limpieza. Control anual.",
+  "numeroCitas": 4
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfa6"
+  },
+  "idHistoriaClinica": 3,
+  "idPaciente": 3,
+  "estado": "Inactiva",
+  "fechaApertura": "09/04/2022",
+  "diagnostico": "Bruxismo severo con desgaste oclusal avanzado",
+  "tratamiento": "Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.",
+  "numeroCitas": 3
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfa7"
+  },
+  "idHistoriaClinica": 4,
+  "idPaciente": 4,
+  "estado": "Activa",
+  "fechaApertura": "23/07/2021",
+  "diagnostico": "Maloclusión clase III con apiñamiento severo",
+  "tratamiento": "Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.",
+  "numeroCitas": 4
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfa8"
+  },
+  "idHistoriaClinica": 5,
+  "idPaciente": 5,
+  "estado": "Inactiva",
+  "fechaApertura": "05/07/2023",
+  "diagnostico": "Salud periodontal óptima sin hallazgos relevantes",
+  "tratamiento": "Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.",
+  "numeroCitas": 18
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfa9"
+  },
+  "idHistoriaClinica": 6,
+  "idPaciente": 6,
+  "estado": "Activa",
+  "fechaApertura": "08/09/2022",
+  "diagnostico": "Buen estado de salud bucodental",
+  "tratamiento": "Control de rutina y limpieza profesional. Próxima cita en 6 meses.",
+  "numeroCitas": 11
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfaa"
+  },
+  "idHistoriaClinica": 7,
+  "idPaciente": 7,
+  "estado": "Inactiva",
+  "fechaApertura": "11/07/2023",
+  "diagnostico": "Fractura radicular vertical en premolar",
+  "tratamiento": "Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.",
+  "numeroCitas": 5
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfab"
+  },
+  "idHistoriaClinica": 8,
+  "idPaciente": 8,
+  "estado": "Activa",
+  "fechaApertura": "10/10/2025",
+  "diagnostico": "Caries incipiente en molar superior derecho",
+  "tratamiento": "Obturación con resina compuesta. Control a los 6 meses.",
+  "numeroCitas": 2
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfac"
+  },
+  "idHistoriaClinica": 9,
+  "idPaciente": 9,
+  "estado": "Activa",
+  "fechaApertura": "14/08/2023",
+  "diagnostico": "Periodontitis crónica generalizada severa",
+  "tratamiento": "Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.",
+  "numeroCitas": 4
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfad"
+  },
+  "idHistoriaClinica": 10,
+  "idPaciente": 10,
+  "estado": "Activa",
+  "fechaApertura": "20/07/2025",
+  "diagnostico": "Salud periodontal óptima sin hallazgos relevantes",
+  "tratamiento": "Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.",
+  "numeroCitas": 17
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfae"
+  },
+  "idHistoriaClinica": 11,
+  "idPaciente": 11,
+  "estado": "Activa",
+  "fechaApertura": "05/06/2023",
+  "diagnostico": "Caries incipiente en molar superior derecho",
+  "tratamiento": "Obturación con resina compuesta. Control a los 6 meses.",
+  "numeroCitas": 20
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfaf"
+  },
+  "idHistoriaClinica": 12,
+  "idPaciente": 12,
+  "estado": "Activa",
+  "fechaApertura": "10/07/2022",
+  "diagnostico": "Sin lesiones cariosas activas, encías sanas",
+  "tratamiento": "Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.",
+  "numeroCitas": 3
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfb0"
+  },
+  "idHistoriaClinica": 13,
+  "idPaciente": 13,
+  "estado": "Inactiva",
+  "fechaApertura": "01/01/2023",
+  "diagnostico": "Bruxismo severo con desgaste oclusal avanzado",
+  "tratamiento": "Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.",
+  "numeroCitas": 12
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfb1"
+  },
+  "idHistoriaClinica": 14,
+  "idPaciente": 14,
+  "estado": "Activa",
+  "fechaApertura": "26/08/2024",
+  "diagnostico": "Buen estado de salud bucodental",
+  "tratamiento": "Control de rutina y limpieza profesional. Próxima cita en 6 meses.",
+  "numeroCitas": 8
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfb2"
+  },
+  "idHistoriaClinica": 15,
+  "idPaciente": 15,
+  "estado": "Activa",
+  "fechaApertura": "05/12/2022",
+  "diagnostico": "Hiperplasia gingival generalizada por medicamentos",
+  "tratamiento": "Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.",
+  "numeroCitas": 16
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfb3"
+  },
+  "idHistoriaClinica": 16,
+  "idPaciente": 16,
+  "estado": "Activa",
+  "fechaApertura": "23/09/2024",
+  "diagnostico": "Buen estado de salud bucodental",
+  "tratamiento": "Control de rutina y limpieza profesional. Próxima cita en 6 meses.",
+  "numeroCitas": 2
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfb4"
+  },
+  "idHistoriaClinica": 17,
+  "idPaciente": 17,
+  "estado": "Activa",
+  "fechaApertura": "24/11/2022",
+  "diagnostico": "Pequeña fractura de esmalte en incisivo central",
+  "tratamiento": "Pulido y sellado con resina fluida. Control en 3 meses.",
+  "numeroCitas": 4
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfb5"
+  },
+  "idHistoriaClinica": 18,
+  "idPaciente": 18,
+  "estado": "Inactiva",
+  "fechaApertura": "20/12/2023",
+  "diagnostico": "Absceso dentoalveolar agudo",
+  "tratamiento": "Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",
+  "numeroCitas": 13
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfb6"
+  },
+  "idHistoriaClinica": 19,
+  "idPaciente": 19,
+  "estado": "Activa",
+  "fechaApertura": "10/04/2024",
+  "diagnostico": "Pequeña fractura de esmalte en incisivo central",
+  "tratamiento": "Pulido y sellado con resina fluida. Control en 3 meses.",
+  "numeroCitas": 2
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfb7"
+  },
+  "idHistoriaClinica": 20,
+  "idPaciente": 20,
+  "estado": "Activa",
+  "fechaApertura": "30/01/2023",
+  "diagnostico": "Buen estado de salud bucodental",
+  "tratamiento": "Control de rutina y limpieza profesional. Próxima cita en 6 meses.",
+  "numeroCitas": 8
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfb8"
+  },
+  "idHistoriaClinica": 21,
+  "idPaciente": 21,
+  "estado": "Inactiva",
+  "fechaApertura": "22/04/2025",
+  "diagnostico": "Sensibilidad dentinaria en incisivos",
+  "tratamiento": "Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.",
+  "numeroCitas": 7
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfb9"
+  },
+  "idHistoriaClinica": 22,
+  "idPaciente": 22,
+  "estado": "Inactiva",
+  "fechaApertura": "15/11/2025",
+  "diagnostico": "Buen estado de salud bucodental",
+  "tratamiento": "Control de rutina y limpieza profesional. Próxima cita en 6 meses.",
+  "numeroCitas": 3
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfba"
+  },
+  "idHistoriaClinica": 23,
+  "idPaciente": 23,
+  "estado": "Activa",
+  "fechaApertura": "08/11/2023",
+  "diagnostico": "Hiperplasia gingival generalizada por medicamentos",
+  "tratamiento": "Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.",
+  "numeroCitas": 17
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfbb"
+  },
+  "idHistoriaClinica": 24,
+  "idPaciente": 24,
+  "estado": "Activa",
+  "fechaApertura": "19/02/2025",
+  "diagnostico": "Oclusión normal, tejidos blandos saludables",
+  "tratamiento": "Mantenimiento preventivo y limpieza. Control anual.",
+  "numeroCitas": 20
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfbc"
+  },
+  "idHistoriaClinica": 25,
+  "idPaciente": 25,
+  "estado": "Activa",
+  "fechaApertura": "26/03/2025",
+  "diagnostico": "Periodontitis crónica generalizada severa",
+  "tratamiento": "Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.",
+  "numeroCitas": 1
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfbd"
+  },
+  "idHistoriaClinica": 26,
+  "idPaciente": 26,
+  "estado": "Activa",
+  "fechaApertura": "06/07/2022",
+  "diagnostico": "Hiperplasia gingival generalizada por medicamentos",
+  "tratamiento": "Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.",
+  "numeroCitas": 18
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfbe"
+  },
+  "idHistoriaClinica": 27,
+  "idPaciente": 27,
+  "estado": "Activa",
+  "fechaApertura": "21/01/2023",
+  "diagnostico": "Pequeña fractura de esmalte en incisivo central",
+  "tratamiento": "Pulido y sellado con resina fluida. Control en 3 meses.",
+  "numeroCitas": 14
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfbf"
+  },
+  "idHistoriaClinica": 28,
+  "idPaciente": 28,
+  "estado": "Inactiva",
+  "fechaApertura": "05/11/2021",
+  "diagnostico": "Gingivitis leve por placa bacteriana",
+  "tratamiento": "Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.",
+  "numeroCitas": 9
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfc0"
+  },
+  "idHistoriaClinica": 29,
+  "idPaciente": 29,
+  "estado": "Activa",
+  "fechaApertura": "05/04/2022",
+  "diagnostico": "Gingivitis leve por placa bacteriana",
+  "tratamiento": "Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.",
+  "numeroCitas": 8
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfc1"
+  },
+  "idHistoriaClinica": 30,
+  "idPaciente": 30,
+  "estado": "Activa",
+  "fechaApertura": "16/08/2021",
+  "diagnostico": "Celulitis facial odontogénica de origen dental",
+  "tratamiento": "Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",
+  "numeroCitas": 11
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfc2"
+  },
+  "idHistoriaClinica": 31,
+  "idPaciente": 31,
+  "estado": "Activa",
+  "fechaApertura": "10/01/2022",
+  "diagnostico": "Bruxismo severo con desgaste oclusal avanzado",
+  "tratamiento": "Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.",
+  "numeroCitas": 20
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfc3"
+  },
+  "idHistoriaClinica": 32,
+  "idPaciente": 32,
+  "estado": "Activa",
+  "fechaApertura": "17/02/2022",
+  "diagnostico": "Maloclusión clase III con apiñamiento severo",
+  "tratamiento": "Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.",
+  "numeroCitas": 12
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfc4"
+  },
+  "idHistoriaClinica": 33,
+  "idPaciente": 33,
+  "estado": "Activa",
+  "fechaApertura": "05/06/2025",
+  "diagnostico": "Sensibilidad dentinaria en incisivos",
+  "tratamiento": "Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.",
+  "numeroCitas": 18
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfc5"
+  },
+  "idHistoriaClinica": 34,
+  "idPaciente": 34,
+  "estado": "Activa",
+  "fechaApertura": "16/09/2025",
+  "diagnostico": "Oclusión normal, tejidos blandos saludables",
+  "tratamiento": "Mantenimiento preventivo y limpieza. Control anual.",
+  "numeroCitas": 15
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfc6"
+  },
+  "idHistoriaClinica": 35,
+  "idPaciente": 35,
+  "estado": "Activa",
+  "fechaApertura": "27/04/2023",
+  "diagnostico": "Gingivitis leve por placa bacteriana",
+  "tratamiento": "Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.",
+  "numeroCitas": 10
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfc7"
+  },
+  "idHistoriaClinica": 36,
+  "idPaciente": 36,
+  "estado": "Activa",
+  "fechaApertura": "05/04/2025",
+  "diagnostico": "Sarro leve supragingival",
+  "tratamiento": "Detartraje supragingival. Control semestral.",
+  "numeroCitas": 16
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfc8"
+  },
+  "idHistoriaClinica": 37,
+  "idPaciente": 37,
+  "estado": "Activa",
+  "fechaApertura": "22/10/2021",
+  "diagnostico": "Caries incipiente en molar superior derecho",
+  "tratamiento": "Obturación con resina compuesta. Control a los 6 meses.",
+  "numeroCitas": 15
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfc9"
+  },
+  "idHistoriaClinica": 38,
+  "idPaciente": 38,
+  "estado": "Inactiva",
+  "fechaApertura": "30/09/2022",
+  "diagnostico": "Pequeña fractura de esmalte en incisivo central",
+  "tratamiento": "Pulido y sellado con resina fluida. Control en 3 meses.",
+  "numeroCitas": 15
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfca"
+  },
+  "idHistoriaClinica": 39,
+  "idPaciente": 39,
+  "estado": "Activa",
+  "fechaApertura": "08/10/2022",
+  "diagnostico": "Oclusión normal, tejidos blandos saludables",
+  "tratamiento": "Mantenimiento preventivo y limpieza. Control anual.",
+  "numeroCitas": 8
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfcb"
+  },
+  "idHistoriaClinica": 40,
+  "idPaciente": 40,
+  "estado": "Activa",
+  "fechaApertura": "10/11/2021",
+  "diagnostico": "Sarro leve supragingival",
+  "tratamiento": "Detartraje supragingival. Control semestral.",
+  "numeroCitas": 14
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfcc"
+  },
+  "idHistoriaClinica": 41,
+  "idPaciente": 41,
+  "estado": "Activa",
+  "fechaApertura": "10/04/2024",
+  "diagnostico": "Sin lesiones cariosas activas, encías sanas",
+  "tratamiento": "Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.",
+  "numeroCitas": 14
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfcd"
+  },
+  "idHistoriaClinica": 42,
+  "idPaciente": 42,
+  "estado": "Inactiva",
+  "fechaApertura": "01/10/2023",
+  "diagnostico": "Fractura radicular vertical en premolar",
+  "tratamiento": "Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.",
+  "numeroCitas": 5
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfce"
+  },
+  "idHistoriaClinica": 43,
+  "idPaciente": 43,
+  "estado": "Activa",
+  "fechaApertura": "10/03/2025",
+  "diagnostico": "Oclusión normal, tejidos blandos saludables",
+  "tratamiento": "Mantenimiento preventivo y limpieza. Control anual.",
+  "numeroCitas": 13
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfcf"
+  },
+  "idHistoriaClinica": 44,
+  "idPaciente": 44,
+  "estado": "Inactiva",
+  "fechaApertura": "16/05/2025",
+  "diagnostico": "Periodontitis crónica generalizada severa",
+  "tratamiento": "Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.",
+  "numeroCitas": 12
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfd0"
+  },
+  "idHistoriaClinica": 45,
+  "idPaciente": 45,
+  "estado": "Activa",
+  "fechaApertura": "10/04/2023",
+  "diagnostico": "Hiperplasia gingival generalizada por medicamentos",
+  "tratamiento": "Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.",
+  "numeroCitas": 7
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfd1"
+  },
+  "idHistoriaClinica": 46,
+  "idPaciente": 46,
+  "estado": "Inactiva",
+  "fechaApertura": "15/02/2026",
+  "diagnostico": "Sarro leve supragingival",
+  "tratamiento": "Detartraje supragingival. Control semestral.",
+  "numeroCitas": 13
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfd2"
+  },
+  "idHistoriaClinica": 47,
+  "idPaciente": 47,
+  "estado": "Activa",
+  "fechaApertura": "16/05/2022",
+  "diagnostico": "Pequeña fractura de esmalte en incisivo central",
+  "tratamiento": "Pulido y sellado con resina fluida. Control en 3 meses.",
+  "numeroCitas": 11
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfd3"
+  },
+  "idHistoriaClinica": 48,
+  "idPaciente": 48,
+  "estado": "Inactiva",
+  "fechaApertura": "21/10/2021",
+  "diagnostico": "Edentulismo parcial extenso con reabsorción ósea",
+  "tratamiento": "Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.",
+  "numeroCitas": 20
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfd4"
+  },
+  "idHistoriaClinica": 49,
+  "idPaciente": 49,
+  "estado": "Inactiva",
+  "fechaApertura": "15/11/2024",
+  "diagnostico": "Quiste radicular en molar superior izquierdo",
+  "tratamiento": "Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.",
+  "numeroCitas": 1
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfd5"
+  },
+  "idHistoriaClinica": 50,
+  "idPaciente": 50,
+  "estado": "Activa",
+  "fechaApertura": "31/01/2022",
+  "diagnostico": "Buen estado de salud bucodental",
+  "tratamiento": "Control de rutina y limpieza profesional. Próxima cita en 6 meses.",
+  "numeroCitas": 17
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfd6"
+  },
+  "idHistoriaClinica": 51,
+  "idPaciente": 51,
+  "estado": "Inactiva",
+  "fechaApertura": "17/04/2021",
+  "diagnostico": "Oclusión normal, tejidos blandos saludables",
+  "tratamiento": "Mantenimiento preventivo y limpieza. Control anual.",
+  "numeroCitas": 8
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfd7"
+  },
+  "idHistoriaClinica": 52,
+  "idPaciente": 52,
+  "estado": "Inactiva",
+  "fechaApertura": "13/04/2021",
+  "diagnostico": "Quiste radicular en molar superior izquierdo",
+  "tratamiento": "Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.",
+  "numeroCitas": 12
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfd8"
+  },
+  "idHistoriaClinica": 53,
+  "idPaciente": 53,
+  "estado": "Inactiva",
+  "fechaApertura": "15/04/2021",
+  "diagnostico": "Sin lesiones cariosas activas, encías sanas",
+  "tratamiento": "Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.",
+  "numeroCitas": 9
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfd9"
+  },
+  "idHistoriaClinica": 54,
+  "idPaciente": 54,
+  "estado": "Inactiva",
+  "fechaApertura": "06/04/2025",
+  "diagnostico": "Gingivitis leve por placa bacteriana",
+  "tratamiento": "Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.",
+  "numeroCitas": 16
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfda"
+  },
+  "idHistoriaClinica": 55,
+  "idPaciente": 55,
+  "estado": "Inactiva",
+  "fechaApertura": "07/02/2024",
+  "diagnostico": "Caries profunda con compromiso pulpar en molar inferior",
+  "tratamiento": "Endodoncia del diente afectado seguida de corona cerámica. Plan en 3 sesiones.",
+  "numeroCitas": 3
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfdb"
+  },
+  "idHistoriaClinica": 56,
+  "idPaciente": 56,
+  "estado": "Activa",
+  "fechaApertura": "22/11/2022",
+  "diagnostico": "Salud periodontal óptima sin hallazgos relevantes",
+  "tratamiento": "Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.",
+  "numeroCitas": 4
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfdc"
+  },
+  "idHistoriaClinica": 57,
+  "idPaciente": 57,
+  "estado": "Activa",
+  "fechaApertura": "21/12/2023",
+  "diagnostico": "Pequeña fractura de esmalte en incisivo central",
+  "tratamiento": "Pulido y sellado con resina fluida. Control en 3 meses.",
+  "numeroCitas": 2
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfdd"
+  },
+  "idHistoriaClinica": 58,
+  "idPaciente": 58,
+  "estado": "Activa",
+  "fechaApertura": "21/04/2025",
+  "diagnostico": "Pequeña fractura de esmalte en incisivo central",
+  "tratamiento": "Pulido y sellado con resina fluida. Control en 3 meses.",
+  "numeroCitas": 16
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfde"
+  },
+  "idHistoriaClinica": 59,
+  "idPaciente": 59,
+  "estado": "Activa",
+  "fechaApertura": "17/02/2026",
+  "diagnostico": "Hiperplasia gingival generalizada por medicamentos",
+  "tratamiento": "Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.",
+  "numeroCitas": 7
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfdf"
+  },
+  "idHistoriaClinica": 60,
+  "idPaciente": 60,
+  "estado": "Inactiva",
+  "fechaApertura": "27/08/2021",
+  "diagnostico": "Edentulismo parcial extenso con reabsorción ósea",
+  "tratamiento": "Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.",
+  "numeroCitas": 15
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfe0"
+  },
+  "idHistoriaClinica": 61,
+  "idPaciente": 61,
+  "estado": "Activa",
+  "fechaApertura": "26/07/2024",
+  "diagnostico": "Hiperplasia gingival generalizada por medicamentos",
+  "tratamiento": "Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.",
+  "numeroCitas": 9
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfe1"
+  },
+  "idHistoriaClinica": 62,
+  "idPaciente": 62,
+  "estado": "Activa",
+  "fechaApertura": "19/10/2023",
+  "diagnostico": "Edentulismo parcial extenso con reabsorción ósea",
+  "tratamiento": "Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.",
+  "numeroCitas": 6
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfe2"
+  },
+  "idHistoriaClinica": 63,
+  "idPaciente": 63,
+  "estado": "Inactiva",
+  "fechaApertura": "20/12/2025",
+  "diagnostico": "Sarro leve supragingival",
+  "tratamiento": "Detartraje supragingival. Control semestral.",
+  "numeroCitas": 10
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfe3"
+  },
+  "idHistoriaClinica": 64,
+  "idPaciente": 64,
+  "estado": "Activa",
+  "fechaApertura": "17/10/2022",
+  "diagnostico": "Periodontitis crónica generalizada severa",
+  "tratamiento": "Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.",
+  "numeroCitas": 18
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfe4"
+  },
+  "idHistoriaClinica": 65,
+  "idPaciente": 65,
+  "estado": "Activa",
+  "fechaApertura": "13/06/2021",
+  "diagnostico": "Sensibilidad dentinaria en incisivos",
+  "tratamiento": "Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.",
+  "numeroCitas": 15
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfe5"
+  },
+  "idHistoriaClinica": 66,
+  "idPaciente": 66,
+  "estado": "Activa",
+  "fechaApertura": "12/05/2024",
+  "diagnostico": "Caries incipiente en molar superior derecho",
+  "tratamiento": "Obturación con resina compuesta. Control a los 6 meses.",
+  "numeroCitas": 5
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfe6"
+  },
+  "idHistoriaClinica": 67,
+  "idPaciente": 67,
+  "estado": "Inactiva",
+  "fechaApertura": "01/01/2026",
+  "diagnostico": "Celulitis facial odontogénica de origen dental",
+  "tratamiento": "Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",
+  "numeroCitas": 5
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfe7"
+  },
+  "idHistoriaClinica": 68,
+  "idPaciente": 68,
+  "estado": "Activa",
+  "fechaApertura": "04/09/2024",
+  "diagnostico": "Sarro leve supragingival",
+  "tratamiento": "Detartraje supragingival. Control semestral.",
+  "numeroCitas": 5
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfe8"
+  },
+  "idHistoriaClinica": 69,
+  "idPaciente": 69,
+  "estado": "Activa",
+  "fechaApertura": "14/02/2023",
+  "diagnostico": "Maloclusión clase III con apiñamiento severo",
+  "tratamiento": "Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.",
+  "numeroCitas": 19
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfe9"
+  },
+  "idHistoriaClinica": 70,
+  "idPaciente": 70,
+  "estado": "Activa",
+  "fechaApertura": "31/05/2022",
+  "diagnostico": "Absceso dentoalveolar agudo",
+  "tratamiento": "Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",
+  "numeroCitas": 16
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfea"
+  },
+  "idHistoriaClinica": 71,
+  "idPaciente": 71,
+  "estado": "Activa",
+  "fechaApertura": "10/05/2021",
+  "diagnostico": "Bruxismo severo con desgaste oclusal avanzado",
+  "tratamiento": "Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.",
+  "numeroCitas": 5
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfeb"
+  },
+  "idHistoriaClinica": 72,
+  "idPaciente": 72,
+  "estado": "Inactiva",
+  "fechaApertura": "19/01/2022",
+  "diagnostico": "Sensibilidad dentinaria en incisivos",
+  "tratamiento": "Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.",
+  "numeroCitas": 16
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfec"
+  },
+  "idHistoriaClinica": 73,
+  "idPaciente": 73,
+  "estado": "Activa",
+  "fechaApertura": "28/04/2023",
+  "diagnostico": "Sensibilidad dentinaria en incisivos",
+  "tratamiento": "Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.",
+  "numeroCitas": 1
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfed"
+  },
+  "idHistoriaClinica": 74,
+  "idPaciente": 74,
+  "estado": "Inactiva",
+  "fechaApertura": "07/11/2021",
+  "diagnostico": "Absceso dentoalveolar agudo",
+  "tratamiento": "Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",
+  "numeroCitas": 6
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfee"
+  },
+  "idHistoriaClinica": 75,
+  "idPaciente": 75,
+  "estado": "Activa",
+  "fechaApertura": "04/04/2023",
+  "diagnostico": "Buen estado de salud bucodental",
+  "tratamiento": "Control de rutina y limpieza profesional. Próxima cita en 6 meses.",
+  "numeroCitas": 15
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfef"
+  },
+  "idHistoriaClinica": 76,
+  "idPaciente": 76,
+  "estado": "Activa",
+  "fechaApertura": "21/11/2025",
+  "diagnostico": "Sarro leve supragingival",
+  "tratamiento": "Detartraje supragingival. Control semestral.",
+  "numeroCitas": 16
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbff0"
+  },
+  "idHistoriaClinica": 77,
+  "idPaciente": 77,
+  "estado": "Activa",
+  "fechaApertura": "25/07/2022",
+  "diagnostico": "Buen estado de salud bucodental",
+  "tratamiento": "Control de rutina y limpieza profesional. Próxima cita en 6 meses.",
+  "numeroCitas": 20
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbff1"
+  },
+  "idHistoriaClinica": 78,
+  "idPaciente": 78,
+  "estado": "Activa",
+  "fechaApertura": "19/06/2021",
+  "diagnostico": "Absceso dentoalveolar agudo",
+  "tratamiento": "Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",
+  "numeroCitas": 4
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbff2"
+  },
+  "idHistoriaClinica": 79,
+  "idPaciente": 79,
+  "estado": "Activa",
+  "fechaApertura": "04/10/2023",
+  "diagnostico": "Oclusión normal, tejidos blandos saludables",
+  "tratamiento": "Mantenimiento preventivo y limpieza. Control anual.",
+  "numeroCitas": 17
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbff3"
+  },
+  "idHistoriaClinica": 80,
+  "idPaciente": 80,
+  "estado": "Activa",
+  "fechaApertura": "13/01/2026",
+  "diagnostico": "Salud periodontal óptima sin hallazgos relevantes",
+  "tratamiento": "Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.",
+  "numeroCitas": 13
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbff4"
+  },
+  "idHistoriaClinica": 81,
+  "idPaciente": 81,
+  "estado": "Inactiva",
+  "fechaApertura": "16/06/2025",
+  "diagnostico": "Caries profunda con compromiso pulpar en molar inferior",
+  "tratamiento": "Endodoncia del diente afectado seguida de corona cerámica. Plan en 3 sesiones.",
+  "numeroCitas": 8
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbff5"
+  },
+  "idHistoriaClinica": 82,
+  "idPaciente": 82,
+  "estado": "Inactiva",
+  "fechaApertura": "09/03/2025",
+  "diagnostico": "Sarro leve supragingival",
+  "tratamiento": "Detartraje supragingival. Control semestral.",
+  "numeroCitas": 4
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbff6"
+  },
+  "idHistoriaClinica": 83,
+  "idPaciente": 83,
+  "estado": "Activa",
+  "fechaApertura": "07/11/2025",
+  "diagnostico": "Pequeña fractura de esmalte en incisivo central",
+  "tratamiento": "Pulido y sellado con resina fluida. Control en 3 meses.",
+  "numeroCitas": 14
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbff7"
+  },
+  "idHistoriaClinica": 84,
+  "idPaciente": 84,
+  "estado": "Inactiva",
+  "fechaApertura": "07/10/2024",
+  "diagnostico": "Quiste radicular en molar superior izquierdo",
+  "tratamiento": "Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.",
+  "numeroCitas": 4
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbff8"
+  },
+  "idHistoriaClinica": 85,
+  "idPaciente": 85,
+  "estado": "Activa",
+  "fechaApertura": "28/11/2021",
+  "diagnostico": "Caries incipiente en molar superior derecho",
+  "tratamiento": "Obturación con resina compuesta. Control a los 6 meses.",
+  "numeroCitas": 2
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbff9"
+  },
+  "idHistoriaClinica": 86,
+  "idPaciente": 86,
+  "estado": "Activa",
+  "fechaApertura": "06/03/2026",
+  "diagnostico": "Hiperplasia gingival generalizada por medicamentos",
+  "tratamiento": "Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.",
+  "numeroCitas": 1
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbffa"
+  },
+  "idHistoriaClinica": 87,
+  "idPaciente": 87,
+  "estado": "Inactiva",
+  "fechaApertura": "30/12/2025",
+  "diagnostico": "Maloclusión clase III con apiñamiento severo",
+  "tratamiento": "Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.",
+  "numeroCitas": 19
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbffb"
+  },
+  "idHistoriaClinica": 88,
+  "idPaciente": 88,
+  "estado": "Activa",
+  "fechaApertura": "11/09/2023",
+  "diagnostico": "Sarro leve supragingival",
+  "tratamiento": "Detartraje supragingival. Control semestral.",
+  "numeroCitas": 17
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbffc"
+  },
+  "idHistoriaClinica": 89,
+  "idPaciente": 89,
+  "estado": "Activa",
+  "fechaApertura": "24/11/2022",
+  "diagnostico": "Caries incipiente en molar superior derecho",
+  "tratamiento": "Obturación con resina compuesta. Control a los 6 meses.",
+  "numeroCitas": 16
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbffd"
+  },
+  "idHistoriaClinica": 90,
+  "idPaciente": 90,
+  "estado": "Activa",
+  "fechaApertura": "04/10/2023",
+  "diagnostico": "Bruxismo severo con desgaste oclusal avanzado",
+  "tratamiento": "Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.",
+  "numeroCitas": 20
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbffe"
+  },
+  "idHistoriaClinica": 91,
+  "idPaciente": 91,
+  "estado": "Activa",
+  "fechaApertura": "06/10/2022",
+  "diagnostico": "Maloclusión clase III con apiñamiento severo",
+  "tratamiento": "Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.",
+  "numeroCitas": 14
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dbfff"
+  },
+  "idHistoriaClinica": 92,
+  "idPaciente": 92,
+  "estado": "Activa",
+  "fechaApertura": "19/05/2023",
+  "diagnostico": "Sensibilidad dentinaria en incisivos",
+  "tratamiento": "Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.",
+  "numeroCitas": 12
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc000"
+  },
+  "idHistoriaClinica": 93,
+  "idPaciente": 93,
+  "estado": "Activa",
+  "fechaApertura": "30/01/2022",
+  "diagnostico": "Buen estado de salud bucodental",
+  "tratamiento": "Control de rutina y limpieza profesional. Próxima cita en 6 meses.",
+  "numeroCitas": 19
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc001"
+  },
+  "idHistoriaClinica": 94,
+  "idPaciente": 94,
+  "estado": "Activa",
+  "fechaApertura": "10/01/2025",
+  "diagnostico": "Pequeña fractura de esmalte en incisivo central",
+  "tratamiento": "Pulido y sellado con resina fluida. Control en 3 meses.",
+  "numeroCitas": 17
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc002"
+  },
+  "idHistoriaClinica": 95,
+  "idPaciente": 95,
+  "estado": "Inactiva",
+  "fechaApertura": "19/08/2025",
+  "diagnostico": "Celulitis facial odontogénica de origen dental",
+  "tratamiento": "Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",
+  "numeroCitas": 20
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc003"
+  },
+  "idHistoriaClinica": 96,
+  "idPaciente": 96,
+  "estado": "Activa",
+  "fechaApertura": "23/01/2025",
+  "diagnostico": "Gingivitis leve por placa bacteriana",
+  "tratamiento": "Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.",
+  "numeroCitas": 1
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc004"
+  },
+  "idHistoriaClinica": 97,
+  "idPaciente": 97,
+  "estado": "Inactiva",
+  "fechaApertura": "22/03/2025",
+  "diagnostico": "Hiperplasia gingival generalizada por medicamentos",
+  "tratamiento": "Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.",
+  "numeroCitas": 20
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc005"
+  },
+  "idHistoriaClinica": 98,
+  "idPaciente": 98,
+  "estado": "Activa",
+  "fechaApertura": "21/01/2022",
+  "diagnostico": "Sensibilidad dentinaria en incisivos",
+  "tratamiento": "Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.",
+  "numeroCitas": 7
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc006"
+  },
+  "idHistoriaClinica": 99,
+  "idPaciente": 99,
+  "estado": "Inactiva",
+  "fechaApertura": "24/03/2025",
+  "diagnostico": "Periodontitis crónica generalizada severa",
+  "tratamiento": "Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.",
+  "numeroCitas": 1
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc007"
+  },
+  "idHistoriaClinica": 100,
+  "idPaciente": 100,
+  "estado": "Inactiva",
+  "fechaApertura": "03/10/2024",
+  "diagnostico": "Gingivitis leve por placa bacteriana",
+  "tratamiento": "Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.",
+  "numeroCitas": 17
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc008"
+  },
+  "idHistoriaClinica": 101,
+  "idPaciente": 101,
+  "estado": "Activa",
+  "fechaApertura": "21/04/2023",
+  "diagnostico": "Bruxismo severo con desgaste oclusal avanzado",
+  "tratamiento": "Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.",
+  "numeroCitas": 10
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc009"
+  },
+  "idHistoriaClinica": 102,
+  "idPaciente": 102,
+  "estado": "Activa",
+  "fechaApertura": "14/05/2023",
+  "diagnostico": "Caries incipiente en molar superior derecho",
+  "tratamiento": "Obturación con resina compuesta. Control a los 6 meses.",
+  "numeroCitas": 13
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc00a"
+  },
+  "idHistoriaClinica": 103,
+  "idPaciente": 103,
+  "estado": "Inactiva",
+  "fechaApertura": "05/06/2021",
+  "diagnostico": "Oclusión normal, tejidos blandos saludables",
+  "tratamiento": "Mantenimiento preventivo y limpieza. Control anual.",
+  "numeroCitas": 12
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc00b"
+  },
+  "idHistoriaClinica": 104,
+  "idPaciente": 104,
+  "estado": "Activa",
+  "fechaApertura": "17/11/2024",
+  "diagnostico": "Pequeña fractura de esmalte en incisivo central",
+  "tratamiento": "Pulido y sellado con resina fluida. Control en 3 meses.",
+  "numeroCitas": 15
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc00c"
+  },
+  "idHistoriaClinica": 105,
+  "idPaciente": 105,
+  "estado": "Activa",
+  "fechaApertura": "03/12/2024",
+  "diagnostico": "Buen estado de salud bucodental",
+  "tratamiento": "Control de rutina y limpieza profesional. Próxima cita en 6 meses.",
+  "numeroCitas": 10
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc00d"
+  },
+  "idHistoriaClinica": 106,
+  "idPaciente": 106,
+  "estado": "Activa",
+  "fechaApertura": "01/11/2023",
+  "diagnostico": "Pequeña fractura de esmalte en incisivo central",
+  "tratamiento": "Pulido y sellado con resina fluida. Control en 3 meses.",
+  "numeroCitas": 13
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc00e"
+  },
+  "idHistoriaClinica": 107,
+  "idPaciente": 107,
+  "estado": "Activa",
+  "fechaApertura": "18/01/2023",
+  "diagnostico": "Fractura radicular vertical en premolar",
+  "tratamiento": "Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.",
+  "numeroCitas": 4
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc00f"
+  },
+  "idHistoriaClinica": 108,
+  "idPaciente": 108,
+  "estado": "Activa",
+  "fechaApertura": "15/10/2024",
+  "diagnostico": "Gingivitis leve por placa bacteriana",
+  "tratamiento": "Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.",
+  "numeroCitas": 12
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc010"
+  },
+  "idHistoriaClinica": 109,
+  "idPaciente": 109,
+  "estado": "Activa",
+  "fechaApertura": "11/01/2023",
+  "diagnostico": "Sarro leve supragingival",
+  "tratamiento": "Detartraje supragingival. Control semestral.",
+  "numeroCitas": 10
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc011"
+  },
+  "idHistoriaClinica": 110,
+  "idPaciente": 110,
+  "estado": "Activa",
+  "fechaApertura": "18/02/2025",
+  "diagnostico": "Absceso dentoalveolar agudo",
+  "tratamiento": "Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",
+  "numeroCitas": 20
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc012"
+  },
+  "idHistoriaClinica": 111,
+  "idPaciente": 111,
+  "estado": "Activa",
+  "fechaApertura": "04/09/2022",
+  "diagnostico": "Celulitis facial odontogénica de origen dental",
+  "tratamiento": "Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",
+  "numeroCitas": 3
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc013"
+  },
+  "idHistoriaClinica": 112,
+  "idPaciente": 112,
+  "estado": "Activa",
+  "fechaApertura": "24/12/2025",
+  "diagnostico": "Salud periodontal óptima sin hallazgos relevantes",
+  "tratamiento": "Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.",
+  "numeroCitas": 5
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc014"
+  },
+  "idHistoriaClinica": 113,
+  "idPaciente": 113,
+  "estado": "Activa",
+  "fechaApertura": "05/06/2024",
+  "diagnostico": "Sin lesiones cariosas activas, encías sanas",
+  "tratamiento": "Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.",
+  "numeroCitas": 5
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc015"
+  },
+  "idHistoriaClinica": 114,
+  "idPaciente": 114,
+  "estado": "Activa",
+  "fechaApertura": "30/11/2025",
+  "diagnostico": "Sarro leve supragingival",
+  "tratamiento": "Detartraje supragingival. Control semestral.",
+  "numeroCitas": 8
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc016"
+  },
+  "idHistoriaClinica": 115,
+  "idPaciente": 115,
+  "estado": "Activa",
+  "fechaApertura": "26/02/2025",
+  "diagnostico": "Sarro leve supragingival",
+  "tratamiento": "Detartraje supragingival. Control semestral.",
+  "numeroCitas": 6
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc017"
+  },
+  "idHistoriaClinica": 116,
+  "idPaciente": 116,
+  "estado": "Activa",
+  "fechaApertura": "06/06/2022",
+  "diagnostico": "Edentulismo parcial extenso con reabsorción ósea",
+  "tratamiento": "Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.",
+  "numeroCitas": 3
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc018"
+  },
+  "idHistoriaClinica": 117,
+  "idPaciente": 117,
+  "estado": "Activa",
+  "fechaApertura": "16/12/2022",
+  "diagnostico": "Sarro leve supragingival",
+  "tratamiento": "Detartraje supragingival. Control semestral.",
+  "numeroCitas": 17
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc019"
+  },
+  "idHistoriaClinica": 118,
+  "idPaciente": 118,
+  "estado": "Activa",
+  "fechaApertura": "04/02/2025",
+  "diagnostico": "Absceso dentoalveolar agudo",
+  "tratamiento": "Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",
+  "numeroCitas": 2
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc01a"
+  },
+  "idHistoriaClinica": 119,
+  "idPaciente": 119,
+  "estado": "Inactiva",
+  "fechaApertura": "22/07/2025",
+  "diagnostico": "Celulitis facial odontogénica de origen dental",
+  "tratamiento": "Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",
+  "numeroCitas": 20
+},
+{
+  "_id": {
+    "$oid": "69f8e4a010d5401b0d6dc01b"
+  },
+  "idHistoriaClinica": 120,
+  "idPaciente": 120,
+  "estado": "Activa",
+  "fechaApertura": "05/01/2024",
+  "diagnostico": "Sin lesiones cariosas activas, encías sanas",
+  "tratamiento": "Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.",
+  "numeroCitas": 20
+}]
