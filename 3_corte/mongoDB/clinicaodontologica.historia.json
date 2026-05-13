@@ -1,0 +1,1200 @@
+[{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf3f"
+  },
+  "idHistoriaClinica": 1,
+  "fechaApertura": {
+    "$date": "2022-01-10T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Paciente con hipertensión controlada. Se recomienda anestesia sin vasoconstrictor.",
+  "pacienteFK": 1
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf40"
+  },
+  "idHistoriaClinica": 2,
+  "fechaApertura": {
+    "$date": "2022-01-15T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Paciente diabético. Control glucémico previo a procedimientos.",
+  "pacienteFK": 2
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf41"
+  },
+  "idHistoriaClinica": 3,
+  "fechaApertura": {
+    "$date": "2022-02-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin antecedentes relevantes. Motivo consulta: dolor molar inferior derecho.",
+  "pacienteFK": 3
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf42"
+  },
+  "idHistoriaClinica": 4,
+  "fechaApertura": {
+    "$date": "2022-02-10T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Paciente asmático. Evitar AINES. Traer inhalador a consultas.",
+  "pacienteFK": 4
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf43"
+  },
+  "idHistoriaClinica": 5,
+  "fechaApertura": {
+    "$date": "2022-02-20T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Primera consulta. Revisión general. Requiere limpieza y sellantes.",
+  "pacienteFK": 5
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf44"
+  },
+  "idHistoriaClinica": 6,
+  "fechaApertura": {
+    "$date": "2022-03-05T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Hipotiroidismo en tratamiento. Verificar medicamentos antes de procedimientos.",
+  "pacienteFK": 6
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf45"
+  },
+  "idHistoriaClinica": 7,
+  "fechaApertura": {
+    "$date": "2022-03-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Diabética tipo 1. Citas matutinas preferibles. Monitoreo glucosa.",
+  "pacienteFK": 7
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf46"
+  },
+  "idHistoriaClinica": 8,
+  "fechaApertura": {
+    "$date": "2022-03-20T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Consulta por sensibilidad dental generalizada.",
+  "pacienteFK": 8
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf47"
+  },
+  "idHistoriaClinica": 9,
+  "fechaApertura": {
+    "$date": "2022-04-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Artritis reumatoide. Limitación apertura bucal. Citas cortas.",
+  "pacienteFK": 9
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf48"
+  },
+  "idHistoriaClinica": 10,
+  "fechaApertura": {
+    "$date": "2022-04-10T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Alérgico a penicilina. Usar amoxicilina alternativa clindamicina.",
+  "pacienteFK": 10
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf49"
+  },
+  "idHistoriaClinica": 11,
+  "fechaApertura": {
+    "$date": "2022-04-18T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Anemia. Hemograma reciente solicitado antes de cirugía.",
+  "pacienteFK": 11
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf4a"
+  },
+  "idHistoriaClinica": 12,
+  "fechaApertura": {
+    "$date": "2022-05-02T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Hipertensión. Toma enalapril. Control PA antes de cada cita.",
+  "pacienteFK": 12
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf4b"
+  },
+  "idHistoriaClinica": 13,
+  "fechaApertura": {
+    "$date": "2022-05-15T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Ortodoncia estética solicitada.",
+  "pacienteFK": 13
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf4c"
+  },
+  "idHistoriaClinica": 14,
+  "fechaApertura": {
+    "$date": "2022-05-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Epilepsia controlada. Evitar estrés. Citas cortas y tranquilas.",
+  "pacienteFK": 14
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf4d"
+  },
+  "idHistoriaClinica": 15,
+  "fechaApertura": {
+    "$date": "2022-06-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Alérgica a látex. Usar guantes de nitrilo en todo procedimiento.",
+  "pacienteFK": 15
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf4e"
+  },
+  "idHistoriaClinica": 16,
+  "fechaApertura": {
+    "$date": "2022-06-10T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Asma leve. Consulta por revisión general y profilaxis.",
+  "pacienteFK": 16
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf4f"
+  },
+  "idHistoriaClinica": 17,
+  "fechaApertura": {
+    "$date": "2022-06-20T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Alérgica a penicilina. Requiere extracción tercer molar.",
+  "pacienteFK": 17
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf50"
+  },
+  "idHistoriaClinica": 18,
+  "fechaApertura": {
+    "$date": "2022-07-05T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Diabetes tipo 2. Requiere endodoncia molar superior izquierdo.",
+  "pacienteFK": 18
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf51"
+  },
+  "idHistoriaClinica": 19,
+  "fechaApertura": {
+    "$date": "2022-07-15T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin antecedentes. Motivo: caries múltiples. Plan de tratamiento extenso.",
+  "pacienteFK": 19
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf52"
+  },
+  "idHistoriaClinica": 20,
+  "fechaApertura": {
+    "$date": "2022-07-25T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Hipertensión moderada. Consulta periodoncia por sangrado encías.",
+  "pacienteFK": 20
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf53"
+  },
+  "idHistoriaClinica": 21,
+  "fechaApertura": {
+    "$date": "2022-08-02T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Alérgica a aspirina. Dolor agudo molar inferior.",
+  "pacienteFK": 21
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf54"
+  },
+  "idHistoriaClinica": 22,
+  "fechaApertura": {
+    "$date": "2022-08-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Hipotiroidismo. Caries cervical múltiple. Iniciar remineralización.",
+  "pacienteFK": 22
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf55"
+  },
+  "idHistoriaClinica": 23,
+  "fechaApertura": {
+    "$date": "2022-08-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Alérgica ibuprofeno. Bruxismo severo. Requiere férula oclusal.",
+  "pacienteFK": 23
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf56"
+  },
+  "idHistoriaClinica": 24,
+  "fechaApertura": {
+    "$date": "2022-09-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Anemia aplásica. Consulta previa con médico tratante requerida.",
+  "pacienteFK": 24
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf57"
+  },
+  "idHistoriaClinica": 25,
+  "fechaApertura": {
+    "$date": "2022-09-10T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Alérgica penicilina. Tratamiento periodontal fase I.",
+  "pacienteFK": 25
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf58"
+  },
+  "idHistoriaClinica": 26,
+  "fechaApertura": {
+    "$date": "2022-09-20T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Artritis. Fisioterapia ATM recomendada. Dolor articular.",
+  "pacienteFK": 26
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf59"
+  },
+  "idHistoriaClinica": 27,
+  "fechaApertura": {
+    "$date": "2022-10-03T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Implante dental región 46 planificado.",
+  "pacienteFK": 27
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf5a"
+  },
+  "idHistoriaClinica": 28,
+  "fechaApertura": {
+    "$date": "2022-10-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Asmática. Alérgica látex. Requiere limpieza profesional semestral.",
+  "pacienteFK": 28
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf5b"
+  },
+  "idHistoriaClinica": 29,
+  "fechaApertura": {
+    "$date": "2022-10-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Diabetes tipo 1. Cicatrización lenta. Controles postoperatorios.",
+  "pacienteFK": 29
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf5c"
+  },
+  "idHistoriaClinica": 30,
+  "fechaApertura": {
+    "$date": "2022-11-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin antecedentes. Primera consulta adulto joven. Revisión completa.",
+  "pacienteFK": 30
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf5d"
+  },
+  "idHistoriaClinica": 31,
+  "fechaApertura": {
+    "$date": "2022-11-10T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Hipertensión. Toma losartán. Extracciones contraindicadas sin control médico.",
+  "pacienteFK": 31
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf5e"
+  },
+  "idHistoriaClinica": 32,
+  "fechaApertura": {
+    "$date": "2022-11-20T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Blanqueamiento dental y ortodoncia estética.",
+  "pacienteFK": 32
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf5f"
+  },
+  "idHistoriaClinica": 33,
+  "fechaApertura": {
+    "$date": "2022-12-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Epilepsia. Fenobarbital genera hiperplasia gingival. Control periódico.",
+  "pacienteFK": 33
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf60"
+  },
+  "idHistoriaClinica": 34,
+  "fechaApertura": {
+    "$date": "2022-12-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Alérgica sulfonamidas. Caries interproximales múltiples.",
+  "pacienteFK": 34
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf61"
+  },
+  "idHistoriaClinica": 35,
+  "fechaApertura": {
+    "$date": "2022-12-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Diabetes tipo 2. Endodoncia urgente por absceso periapical.",
+  "pacienteFK": 35
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf62"
+  },
+  "idHistoriaClinica": 36,
+  "fechaApertura": {
+    "$date": "2023-01-10T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Alérgica aspirina. Revisión general. Sin caries activas.",
+  "pacienteFK": 36
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf63"
+  },
+  "idHistoriaClinica": 37,
+  "fechaApertura": {
+    "$date": "2023-01-20T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Anemia. Extracción indicada piezas 17 y 47.",
+  "pacienteFK": 37
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf64"
+  },
+  "idHistoriaClinica": 38,
+  "fechaApertura": {
+    "$date": "2023-02-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Control ortodoncia mensual.",
+  "pacienteFK": 38
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf65"
+  },
+  "idHistoriaClinica": 39,
+  "fechaApertura": {
+    "$date": "2023-02-10T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Hipotiroidismo. Xerostomía asociada. Uso de saliva artificial.",
+  "pacienteFK": 39
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf66"
+  },
+  "idHistoriaClinica": 40,
+  "fechaApertura": {
+    "$date": "2023-02-20T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Implante oseointegrado región 36.",
+  "pacienteFK": 40
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf67"
+  },
+  "idHistoriaClinica": 41,
+  "fechaApertura": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Asmático. Alérgico látex. Prótesis parcial removible inferior.",
+  "pacienteFK": 41
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf68"
+  },
+  "idHistoriaClinica": 42,
+  "fechaApertura": {
+    "$date": "2023-03-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Tratamiento periodontal mantenimiento.",
+  "pacienteFK": 42
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf69"
+  },
+  "idHistoriaClinica": 43,
+  "fechaApertura": {
+    "$date": "2023-03-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Hipertensión. Revisión semestral. Profilaxis indicada.",
+  "pacienteFK": 43
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf6a"
+  },
+  "idHistoriaClinica": 44,
+  "fechaApertura": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Alérgica ibuprofeno. Dolor crónico ATM. Tratamiento multidisciplinario.",
+  "pacienteFK": 44
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf6b"
+  },
+  "idHistoriaClinica": 45,
+  "fechaApertura": {
+    "$date": "2023-04-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Revisión primer consulta. Caries oclusal pieza 36.",
+  "pacienteFK": 45
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf6c"
+  },
+  "idHistoriaClinica": 46,
+  "fechaApertura": {
+    "$date": "2023-04-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Artritis reumatoide. Higiene oral adaptada. Cepillo eléctrico.",
+  "pacienteFK": 46
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf6d"
+  },
+  "idHistoriaClinica": 47,
+  "fechaApertura": {
+    "$date": "2023-05-02T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Alérgico penicilina. Control postoperatorio extracción.",
+  "pacienteFK": 47
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf6e"
+  },
+  "idHistoriaClinica": 48,
+  "fechaApertura": {
+    "$date": "2023-05-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Diabetes tipo 1. Alérgica sulfonamidas. Control periódico mucosa.",
+  "pacienteFK": 48
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf6f"
+  },
+  "idHistoriaClinica": 49,
+  "fechaApertura": {
+    "$date": "2023-05-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Ortodoncia brackets metálicos.",
+  "pacienteFK": 49
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf70"
+  },
+  "idHistoriaClinica": 50,
+  "fechaApertura": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Anemia. Prótesis total superior e inferior planificada.",
+  "pacienteFK": 50
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf71"
+  },
+  "idHistoriaClinica": 51,
+  "fechaApertura": {
+    "$date": "2023-06-10T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Alérgico aspirina. Bruxismo nocturno. Férula de descarga.",
+  "pacienteFK": 51
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf72"
+  },
+  "idHistoriaClinica": 52,
+  "fechaApertura": {
+    "$date": "2023-06-20T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Hipotiroidismo. Endodoncia pieza 21.",
+  "pacienteFK": 52
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf73"
+  },
+  "idHistoriaClinica": 53,
+  "fechaApertura": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Alérgico ibuprofeno. Caries múltiples. Plan restaurativo amplio.",
+  "pacienteFK": 53
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf74"
+  },
+  "idHistoriaClinica": 54,
+  "fechaApertura": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Asmática. Sin caries. Profilaxis semestral.",
+  "pacienteFK": 54
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf75"
+  },
+  "idHistoriaClinica": 55,
+  "fechaApertura": {
+    "$date": "2023-07-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Hipertensión. Alérgico penicilina. Extracción pieza 28.",
+  "pacienteFK": 55
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf76"
+  },
+  "idHistoriaClinica": 56,
+  "fechaApertura": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Revisión pediátrica adolescente.",
+  "pacienteFK": 56
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf77"
+  },
+  "idHistoriaClinica": 57,
+  "fechaApertura": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Epilepsia. Alérgico látex. Control encías y mucosa.",
+  "pacienteFK": 57
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf78"
+  },
+  "idHistoriaClinica": 58,
+  "fechaApertura": {
+    "$date": "2023-08-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Blanqueamiento dental profesional.",
+  "pacienteFK": 58
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf79"
+  },
+  "idHistoriaClinica": 59,
+  "fechaApertura": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Diabetes tipo 2. Alérgico sulfonamidas. Mantenimiento periodontal.",
+  "pacienteFK": 59
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf7a"
+  },
+  "idHistoriaClinica": 60,
+  "fechaApertura": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Revisión semestral sin hallazgos relevantes.",
+  "pacienteFK": 60
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf7b"
+  },
+  "idHistoriaClinica": 61,
+  "fechaApertura": {
+    "$date": "2023-09-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Anemia. Alérgico aspirina. Sangrado post extracción moderado.",
+  "pacienteFK": 61
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf7c"
+  },
+  "idHistoriaClinica": 62,
+  "fechaApertura": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Ortodoncia alineadores Invisalign.",
+  "pacienteFK": 62
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf7d"
+  },
+  "idHistoriaClinica": 63,
+  "fechaApertura": {
+    "$date": "2023-10-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Hipotiroidismo. Alérgica penicilina. Caries radicular.",
+  "pacienteFK": 63
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf7e"
+  },
+  "idHistoriaClinica": 64,
+  "fechaApertura": {
+    "$date": "2023-10-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Implante unitario región 46 oseointegrado.",
+  "pacienteFK": 64
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf7f"
+  },
+  "idHistoriaClinica": 65,
+  "fechaApertura": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Asmática. Alérgica ibuprofeno. Revisión ortodoncia.",
+  "pacienteFK": 65
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf80"
+  },
+  "idHistoriaClinica": 66,
+  "fechaApertura": {
+    "$date": "2023-11-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Extracción terceros molares superiores.",
+  "pacienteFK": 66
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf81"
+  },
+  "idHistoriaClinica": 67,
+  "fechaApertura": {
+    "$date": "2023-11-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Hipertensión. Mantenimiento periodontal trimestral.",
+  "pacienteFK": 67
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf82"
+  },
+  "idHistoriaClinica": 68,
+  "fechaApertura": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Alérgico látex. Control postoperatorio implante.",
+  "pacienteFK": 68
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf83"
+  },
+  "idHistoriaClinica": 69,
+  "fechaApertura": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Artritis. Prótesis fija puente 3 piezas región anterior.",
+  "pacienteFK": 69
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf84"
+  },
+  "idHistoriaClinica": 70,
+  "fechaApertura": {
+    "$date": "2023-12-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Alérgico penicilina. Sensibilidad dentinaria generalizada.",
+  "pacienteFK": 70
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf85"
+  },
+  "idHistoriaClinica": 71,
+  "fechaApertura": {
+    "$date": "2024-01-10T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Diabetes tipo 1. Alérgica sulfonamidas. Control mucosa oral.",
+  "pacienteFK": 71
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf86"
+  },
+  "idHistoriaClinica": 72,
+  "fechaApertura": {
+    "$date": "2024-01-20T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Cirugía periodontal colgajo.",
+  "pacienteFK": 72
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf87"
+  },
+  "idHistoriaClinica": 73,
+  "fechaApertura": {
+    "$date": "2024-02-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Epilepsia. Alérgico aspirina. Revisión semestral.",
+  "pacienteFK": 73
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf88"
+  },
+  "idHistoriaClinica": 74,
+  "fechaApertura": {
+    "$date": "2024-02-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Ortodoncia fase de retención.",
+  "pacienteFK": 74
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf89"
+  },
+  "idHistoriaClinica": 75,
+  "fechaApertura": {
+    "$date": "2024-02-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Anemia. Alérgico ibuprofeno. Extracción indicada.",
+  "pacienteFK": 75
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf8a"
+  },
+  "idHistoriaClinica": 76,
+  "fechaApertura": {
+    "$date": "2024-03-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Revisión general primera vez.",
+  "pacienteFK": 76
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf8b"
+  },
+  "idHistoriaClinica": 77,
+  "fechaApertura": {
+    "$date": "2024-03-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Hipotiroidismo. Alérgica penicilina. Xerostomía tratada.",
+  "pacienteFK": 77
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf8c"
+  },
+  "idHistoriaClinica": 78,
+  "fechaApertura": {
+    "$date": "2024-03-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Profilaxis y sellantes preventivos.",
+  "pacienteFK": 78
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf8d"
+  },
+  "idHistoriaClinica": 79,
+  "fechaApertura": {
+    "$date": "2024-04-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Asmático. Alérgico látex. Urgencia dolor agudo pieza 46.",
+  "pacienteFK": 79
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf8e"
+  },
+  "idHistoriaClinica": 80,
+  "fechaApertura": {
+    "$date": "2024-04-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Control ortodoncia y ajuste arcos.",
+  "pacienteFK": 80
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf8f"
+  },
+  "idHistoriaClinica": 81,
+  "fechaApertura": {
+    "$date": "2024-04-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Hipertensión. Alérgico sulfonamidas. Exodoncia simple.",
+  "pacienteFK": 81
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf90"
+  },
+  "idHistoriaClinica": 82,
+  "fechaApertura": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Revisión general anual.",
+  "pacienteFK": 82
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf91"
+  },
+  "idHistoriaClinica": 83,
+  "fechaApertura": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Diabetes tipo 2. Alérgico aspirina. Profilaxis y raspaje.",
+  "pacienteFK": 83
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf92"
+  },
+  "idHistoriaClinica": 84,
+  "fechaApertura": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Carillas de porcelana estética.",
+  "pacienteFK": 84
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf93"
+  },
+  "idHistoriaClinica": 85,
+  "fechaApertura": {
+    "$date": "2024-06-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Artritis reumatoide. Alérgico penicilina. Prótesis removible.",
+  "pacienteFK": 85
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf94"
+  },
+  "idHistoriaClinica": 86,
+  "fechaApertura": {
+    "$date": "2024-06-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Revisión semestral sin novedad.",
+  "pacienteFK": 86
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf95"
+  },
+  "idHistoriaClinica": 87,
+  "fechaApertura": {
+    "$date": "2024-06-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Epilepsia. Alérgico ibuprofeno. Control hiperplasia gingival.",
+  "pacienteFK": 87
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf96"
+  },
+  "idHistoriaClinica": 88,
+  "fechaApertura": {
+    "$date": "2024-07-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Endodoncia urgente pieza 16.",
+  "pacienteFK": 88
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf97"
+  },
+  "idHistoriaClinica": 89,
+  "fechaApertura": {
+    "$date": "2024-07-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Anemia. Sin alergias. Revisión pre quirúrgica.",
+  "pacienteFK": 89
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf98"
+  },
+  "idHistoriaClinica": 90,
+  "fechaApertura": {
+    "$date": "2024-07-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Alérgica látex. Tratamiento periodontal fase II.",
+  "pacienteFK": 90
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf99"
+  },
+  "idHistoriaClinica": 91,
+  "fechaApertura": {
+    "$date": "2024-08-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Hipotiroidismo. Alérgico penicilina. Revisión prostodoncia.",
+  "pacienteFK": 91
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf9a"
+  },
+  "idHistoriaClinica": 92,
+  "fechaApertura": {
+    "$date": "2024-08-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Blanqueamiento y profilaxis.",
+  "pacienteFK": 92
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf9b"
+  },
+  "idHistoriaClinica": 93,
+  "fechaApertura": {
+    "$date": "2024-08-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Asmático. Alérgico sulfonamidas. Control asintomático.",
+  "pacienteFK": 93
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf9c"
+  },
+  "idHistoriaClinica": 94,
+  "fechaApertura": {
+    "$date": "2024-09-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Extracción molar retenido.",
+  "pacienteFK": 94
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf9d"
+  },
+  "idHistoriaClinica": 95,
+  "fechaApertura": {
+    "$date": "2024-09-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Hipertensión. Alérgico aspirina. Control periódico PA.",
+  "pacienteFK": 95
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf9e"
+  },
+  "idHistoriaClinica": 96,
+  "fechaApertura": {
+    "$date": "2024-09-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Revisión anual. Sin hallazgos.",
+  "pacienteFK": 96
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbf9f"
+  },
+  "idHistoriaClinica": 97,
+  "fechaApertura": {
+    "$date": "2024-10-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Diabetes tipo 1. Alérgico ibuprofeno. Raspaje y alisado.",
+  "pacienteFK": 97
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbfa0"
+  },
+  "idHistoriaClinica": 98,
+  "fechaApertura": {
+    "$date": "2024-10-12T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Revisión postoperatoria extracción.",
+  "pacienteFK": 98
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbfa1"
+  },
+  "idHistoriaClinica": 99,
+  "fechaApertura": {
+    "$date": "2024-10-22T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Artritis. Alérgico penicilina. Control ATM semestral.",
+  "pacienteFK": 99
+},
+{
+  "_id": {
+    "$oid": "69f8e48f10d5401b0d6dbfa2"
+  },
+  "idHistoriaClinica": 100,
+  "fechaApertura": {
+    "$date": "2024-11-01T00:00:00.000Z"
+  },
+  "estado": "Activa",
+  "observaciones": "Sin preexistencias. Primera consulta. Plan preventivo.",
+  "pacienteFK": 100
+}]

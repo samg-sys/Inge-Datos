@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "69f8e42d10d5401b0d6db962"
+  },
+  "idOdontologo": 1,
+  "tarjetaProfesionalAux": "AUX-2024-001",
+  "usuarioFK": 1
+},
+{
+  "_id": {
+    "$oid": "69f8e42d10d5401b0d6db963"
+  },
+  "idOdontologo": 2,
+  "tarjetaProfesionalAux": "AUX-2024-002",
+  "usuarioFK": 2
+},
+{
+  "_id": {
+    "$oid": "69f8e42d10d5401b0d6db964"
+  },
+  "idOdontologo": 3,
+  "tarjetaProfesionalAux": "AUX-2024-003",
+  "usuarioFK": 3
+},
+{
+  "_id": {
+    "$oid": "69f8e42d10d5401b0d6db965"
+  },
+  "idOdontologo": 4,
+  "tarjetaProfesionalAux": "AUX-2024-004",
+  "usuarioFK": 4
+},
+{
+  "_id": {
+    "$oid": "69f8e42d10d5401b0d6db966"
+  },
+  "idOdontologo": 5,
+  "tarjetaProfesionalAux": "AUX-2024-005",
+  "usuarioFK": 5
+},
+{
+  "_id": {
+    "$oid": "69f8e42d10d5401b0d6db967"
+  },
+  "idOdontologo": 6,
+  "tarjetaProfesionalAux": "AUX-2024-006",
+  "usuarioFK": 6
+},
+{
+  "_id": {
+    "$oid": "69f8e42d10d5401b0d6db968"
+  },
+  "idOdontologo": 7,
+  "tarjetaProfesionalAux": "AUX-2024-007",
+  "usuarioFK": 7
+},
+{
+  "_id": {
+    "$oid": "69f8e42d10d5401b0d6db969"
+  },
+  "idOdontologo": 8,
+  "tarjetaProfesionalAux": "AUX-2024-008",
+  "usuarioFK": 8
+},
+{
+  "_id": {
+    "$oid": "69f8e42d10d5401b0d6db96a"
+  },
+  "idOdontologo": 9,
+  "tarjetaProfesionalAux": "AUX-2024-009",
+  "usuarioFK": 9
+},
+{
+  "_id": {
+    "$oid": "69f8e42d10d5401b0d6db96b"
+  },
+  "idOdontologo": 10,
+  "tarjetaProfesionalAux": "AUX-2024-010",
+  "usuarioFK": 10
+}]

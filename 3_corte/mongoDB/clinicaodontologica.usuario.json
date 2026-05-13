@@ -1,0 +1,196 @@
+[{
+  "_id": {
+    "$oid": "69f8e52110d5401b0d6dc169"
+  },
+  "idUsuario": 1,
+  "nombreUsuario": "Laura Gómez Ruiz",
+  "telefono": {
+    "$numberLong": "3101234567"
+  },
+  "correoElectronico": "laura.gomez@clinica.com",
+  "tipoDocumento": "CC",
+  "userName": "lgomez",
+  "contrasena": "Pass1234"
+},
+{
+  "_id": {
+    "$oid": "69f8e52110d5401b0d6dc16a"
+  },
+  "idUsuario": 2,
+  "nombreUsuario": "Andrés Martínez",
+  "telefono": {
+    "$numberLong": "3112345678"
+  },
+  "correoElectronico": "andres.martinez@clinica.com",
+  "tipoDocumento": "CC",
+  "userName": "amartinez",
+  "contrasena": "Pass2345"
+},
+{
+  "_id": {
+    "$oid": "69f8e52110d5401b0d6dc16b"
+  },
+  "idUsuario": 3,
+  "nombreUsuario": "Camila Torres",
+  "telefono": {
+    "$numberLong": "3123456789"
+  },
+  "correoElectronico": "camila.torres@clinica.com",
+  "tipoDocumento": "CC",
+  "userName": "ctorres",
+  "contrasena": "Pass3456"
+},
+{
+  "_id": {
+    "$oid": "69f8e52110d5401b0d6dc16c"
+  },
+  "idUsuario": 4,
+  "nombreUsuario": "Felipe Herrera",
+  "telefono": {
+    "$numberLong": "3134567890"
+  },
+  "correoElectronico": "felipe.herrera@clinica.com",
+  "tipoDocumento": "CC",
+  "userName": "fherrera",
+  "contrasena": "Pass4567"
+},
+{
+  "_id": {
+    "$oid": "69f8e52110d5401b0d6dc16d"
+  },
+  "idUsuario": 5,
+  "nombreUsuario": "Daniela Ríos",
+  "telefono": {
+    "$numberLong": "3145678901"
+  },
+  "correoElectronico": "daniela.rios@clinica.com",
+  "tipoDocumento": "CC",
+  "userName": "drios",
+  "contrasena": "Pass5678"
+},
+{
+  "_id": {
+    "$oid": "69f8e52110d5401b0d6dc16e"
+  },
+  "idUsuario": 6,
+  "nombreUsuario": "Sebastián Mora",
+  "telefono": {
+    "$numberLong": "3156789012"
+  },
+  "correoElectronico": "sebastian.mora@clinica.com",
+  "tipoDocumento": "CC",
+  "userName": "smora",
+  "contrasena": "Pass6789"
+},
+{
+  "_id": {
+    "$oid": "69f8e52110d5401b0d6dc16f"
+  },
+  "idUsuario": 7,
+  "nombreUsuario": "Valentina Cruz",
+  "telefono": {
+    "$numberLong": "3167890123"
+  },
+  "correoElectronico": "valentina.cruz@clinica.com",
+  "tipoDocumento": "CC",
+  "userName": "vcruz",
+  "contrasena": "Pass7890"
+},
+{
+  "_id": {
+    "$oid": "69f8e52110d5401b0d6dc170"
+  },
+  "idUsuario": 8,
+  "nombreUsuario": "Julián Pérez",
+  "telefono": {
+    "$numberLong": "3178901234"
+  },
+  "correoElectronico": "julian.perez@clinica.com",
+  "tipoDocumento": "CC",
+  "userName": "jperez",
+  "contrasena": "Pass8901"
+},
+{
+  "_id": {
+    "$oid": "69f8e52110d5401b0d6dc171"
+  },
+  "idUsuario": 9,
+  "nombreUsuario": "Mariana Salcedo",
+  "telefono": {
+    "$numberLong": "3189012345"
+  },
+  "correoElectronico": "mariana.salcedo@clinica.com",
+  "tipoDocumento": "CC",
+  "userName": "msalcedo",
+  "contrasena": "Pass9012"
+},
+{
+  "_id": {
+    "$oid": "69f8e52110d5401b0d6dc172"
+  },
+  "idUsuario": 10,
+  "nombreUsuario": "Diego Castillo",
+  "telefono": {
+    "$numberLong": "3190123456"
+  },
+  "correoElectronico": "diego.castillo@clinica.com",
+  "tipoDocumento": "CC",
+  "userName": "dcastillo",
+  "contrasena": "Pass0123"
+},
+{
+  "_id": {
+    "$oid": "69f8e52110d5401b0d6dc173"
+  },
+  "idUsuario": 11,
+  "nombreUsuario": "Carlos Mendoza",
+  "telefono": {
+    "$numberLong": "3201234567"
+  },
+  "correoElectronico": "carlos.mendoza@clinica.com",
+  "tipoDocumento": "CC",
+  "userName": "cmendoza",
+  "contrasena": "DocPass01"
+},
+{
+  "_id": {
+    "$oid": "69f8e52110d5401b0d6dc174"
+  },
+  "idUsuario": 12,
+  "nombreUsuario": "Patricia Suárez",
+  "telefono": {
+    "$numberLong": "3212345678"
+  },
+  "correoElectronico": "patricia.suarez@clinica.com",
+  "tipoDocumento": "CC",
+  "userName": "psuarez",
+  "contrasena": "DocPass02"
+},
+{
+  "_id": {
+    "$oid": "69f8e52110d5401b0d6dc175"
+  },
+  "idUsuario": 13,
+  "nombreUsuario": "Roberto Vargas",
+  "telefono": {
+    "$numberLong": "3223456789"
+  },
+  "correoElectronico": "roberto.vargas@clinica.com",
+  "tipoDocumento": "CC",
+  "userName": "rvargas",
+  "contrasena": "DocPass03"
+},
+{
+  "_id": {
+    "$oid": "69f8e52110d5401b0d6dc176"
+  },
+  "idUsuario": 14,
+  "nombreUsuario": "Lucía Fernández",
+  "telefono": {
+    "$numberLong": "3234567890"
+  },
+  "correoElectronico": "lucia.fernandez@clinica.com",
+  "tipoDocumento": "CC",
+  "userName": "lfernandez",
+  "contrasena": "DocPass04"
+}]

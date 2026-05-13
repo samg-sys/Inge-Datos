@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "69f8e4dd10d5401b0d6dc01d"
+  },
+  "idOdontologo": 1,
+  "tarjetaProfesional": "TP-ODO-2024-011",
+  "especialidad": "Ortodoncia",
+  "usuarioFK": 11
+},
+{
+  "_id": {
+    "$oid": "69f8e4dd10d5401b0d6dc01e"
+  },
+  "idOdontologo": 2,
+  "tarjetaProfesional": "TP-ODO-2024-012",
+  "especialidad": "Endodoncia",
+  "usuarioFK": 12
+},
+{
+  "_id": {
+    "$oid": "69f8e4dd10d5401b0d6dc01f"
+  },
+  "idOdontologo": 3,
+  "tarjetaProfesional": "TP-ODO-2024-013",
+  "especialidad": "Periodoncia",
+  "usuarioFK": 13
+},
+{
+  "_id": {
+    "$oid": "69f8e4dd10d5401b0d6dc020"
+  },
+  "idOdontologo": 4,
+  "tarjetaProfesional": "TP-ODO-2024-014",
+  "especialidad": "Odontología Pediátrica",
+  "usuarioFK": 14
+}]
